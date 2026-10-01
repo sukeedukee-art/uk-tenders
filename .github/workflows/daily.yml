@@ -13,7 +13,12 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install -r requirements.txt
-      - run: python tender_scraper.py
+
+      - name: Scrape tenders
+        env:
+          TED_API_KEY: ${{ secrets.TED_API_KEY }}
+        run: python tender_scraper.py
+
       - name: Commit results
         run: |
           git config user.name "tender-bot"
@@ -21,3 +26,10 @@ jobs:
           git add tenders.json
           git diff --cached --quiet || git commit -m "Update tenders $(date -u +%F)"
           git push
+
+      - name: Send Slack / Teams alerts
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
+          DASHBOARD_URL:     ${{ secrets.DASHBOARD_URL }}
+        run: python send_alerts.py

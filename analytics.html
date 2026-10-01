@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UK Tenders — Analytics</title>
+<meta name="description" content="Analytics dashboard for UK government tenders: source breakdown, value distribution, category trends, top buyers.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+<style>
+:root {
+  --bg:     #0d0f14;
+  --bg2:    #12151c;
+  --card:   rgba(22,27,38,0.9);
+  --glass:  rgba(255,255,255,0.04);
+  --border: rgba(255,255,255,0.08);
+  --bd2:    rgba(255,255,255,0.14);
+  --tx:     #e8eaed;
+  --tx2:    #94a3b8;
+  --tx3:    #5a6678;
+  --ac:     #6c8fff;
+  --acg:    linear-gradient(135deg,#6c8fff,#a78bfa);
+  --green:  #34d399;
+  --amber:  #f59e0b;
+  --red:    #f87171;
+  --pink:   #fb7185;
+  --cyan:   #22d3ee;
+  --violet: #a78bfa;
+  --sidebar:260px;
+  --hdr:    64px;
+  --r:      12px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{
+  font-family:'Inter',system-ui,sans-serif;font-size:14px;line-height:1.6;
+  background:var(--bg);color:var(--tx);min-height:100vh;
+  background-image:
+    radial-gradient(ellipse 900px 600px at 15% 10%,rgba(108,143,255,.07) 0%,transparent 70%),
+    radial-gradient(ellipse 600px 500px at 85% 85%,rgba(167,139,250,.06) 0%,transparent 70%);
+}
+::-webkit-scrollbar{width:6px}
+::-webkit-scrollbar-track{background:var(--bg2)}
+::-webkit-scrollbar-thumb{background:rgba(255,255,255,.15);border-radius:3px}
+
+/* ── Layout ── */
+#app{display:flex;height:100vh;overflow:hidden}
+#sidebar{
+  width:var(--sidebar);flex-shrink:0;
+  background:var(--bg2);border-right:1px solid var(--border);
+  display:flex;flex-direction:column;overflow-y:auto;
+}
+#main{flex:1;display:flex;flex-direction:column;overflow:hidden}
+
+/* ── Sidebar ── */
+.sb-logo{padding:20px;border-bottom:1px solid var(--border)}
+.sb-logo-inner{display:flex;align-items:center;gap:10px}
+.sb-icon{width:36px;height:36px;border-radius:10px;background:var(--acg);display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0}
+.sb-title{font-size:15px;font-weight:700;color:var(--tx)}
+.sb-sub{font-size:11px;color:var(--tx3);margin-top:2px}
+.sb-nav{padding:16px 12px;flex:1}
+.nav-label{font-size:10px;font-weight:600;letter-spacing:.1em;color:var(--tx3);text-transform:uppercase;margin:16px 8px 6px}
+.nav-item{
+  display:flex;align-items:center;gap:10px;
+  padding:8px 12px;border-radius:8px;cursor:pointer;
+  color:var(--tx2);font-size:13px;font-weight:500;
+  text-decoration:none;transition:all .15s;
+}
+.nav-item:hover{background:var(--glass);color:var(--tx)}
+.nav-item.active{background:rgba(108,143,255,.15);color:var(--ac)}
+.nav-item .ni{font-size:16px;width:20px;text-align:center}
+
+/* ── Header ── */
+#header{
+  height:var(--hdr);flex-shrink:0;
+  display:flex;align-items:center;gap:16px;padding:0 28px;
+  background:rgba(13,15,20,.9);border-bottom:1px solid var(--border);
+  backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);
+}
+#header h1{font-size:17px;font-weight:700;color:var(--tx)}
+#gen{font-size:11px;color:var(--tx3);margin-left:4px}
+.hdr-tag{
+  margin-left:auto;font-size:11px;font-weight:600;
+  padding:4px 12px;border-radius:20px;
+  background:rgba(108,143,255,.15);border:1px solid rgba(108,143,255,.3);color:var(--ac);
+}
+
+/* ── Content ── */
+#content{flex:1;overflow-y:auto;padding:24px 28px 60px}
+
+/* ── KPI strip ── */
+#kpi-row{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:24px}
+.kpi{
+  flex:1;min-width:120px;max-width:180px;
+  background:var(--card);border:1px solid var(--border);border-radius:var(--r);
+  padding:16px 18px;position:relative;overflow:hidden;
+  backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+}
+.kpi::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:var(--acg)}
+.kpi.green::before{background:linear-gradient(90deg,#34d399,#6ee7b7)}
+.kpi.amber::before{background:linear-gradient(90deg,#f59e0b,#fbbf24)}
+.kpi.pink::before{background:linear-gradient(90deg,#fb7185,#f472b6)}
+.kpi.violet::before{background:linear-gradient(90deg,#a78bfa,#c4b5fd)}
+.kpi-num{font-size:28px;font-weight:700;color:var(--tx);line-height:1}
+.kpi-lbl{font-size:11px;color:var(--tx3);margin-top:6px;text-transform:uppercase;letter-spacing:.06em}
+
+/* ── Chart grid ── */
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px}
+.grid3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:16px;margin-bottom:16px}
+@media(max-width:1100px){.grid3{grid-template-columns:1fr 1fr}}
+@media(max-width:760px){.grid2,.grid3{grid-template-columns:1fr}}
+.chart-card{
+  background:var(--card);border:1px solid var(--border);border-radius:var(--r);
+  padding:20px 22px;
+  backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+}
+.chart-card.full{grid-column:1/-1}
+.chart-title{font-size:13px;font-weight:600;color:var(--tx);margin-bottom:4px}
+.chart-sub{font-size:11px;color:var(--tx3);margin-bottom:16px}
+.chart-wrap{position:relative}
+
+/* ── Buyers table ── */
+.buyer-row{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--border)}
+.buyer-row:last-child{border:none}
+.buyer-rank{font-size:11px;font-weight:700;color:var(--tx3);width:22px;text-align:right;flex-shrink:0}
+.buyer-name{flex:1;font-size:13px;color:var(--tx);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.buyer-count{font-size:12px;font-weight:600;color:var(--ac);flex-shrink:0}
+.buyer-bar-wrap{width:80px;height:5px;background:var(--border);border-radius:3px;flex-shrink:0}
+.buyer-bar{height:5px;border-radius:3px;background:var(--acg)}
+
+/* ── Loading/error ── */
+#loading{display:flex;align-items:center;justify-content:center;gap:14px;padding:80px 0;color:var(--tx3)}
+.spinner{width:32px;height:32px;border-radius:50%;border:3px solid var(--border);border-top-color:var(--ac);animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+#error-box{display:none;padding:16px;background:rgba(248,113,113,.1);border:1px solid rgba(248,113,113,.25);border-radius:var(--r);color:var(--red);margin-bottom:20px}
+
+/* ── Mobile sidebar ── */
+#menu-btn{display:none;background:none;border:none;color:var(--tx2);cursor:pointer;font-size:20px;padding:4px}
+#overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:90}
+@media(max-width:800px){
+  #sidebar{position:fixed;left:0;top:0;bottom:0;z-index:100;transform:translateX(-100%);transition:transform .3s}
+  #sidebar.open{transform:translateX(0);box-shadow:0 0 60px rgba(0,0,0,.7)}
+  #overlay.show{display:block}
+  #menu-btn{display:block}
+  #content{padding:16px 16px 48px}
+}
+</style>
+</head>
+<body>
+<div id="overlay"></div>
+<div id="app">
+
+<!-- Sidebar -->
+<aside id="sidebar">
+  <div class="sb-logo">
+    <div class="sb-logo-inner">
+      <div class="sb-icon">📊</div>
+      <div><div class="sb-title">UK Tenders</div><div class="sb-sub">Analytics</div></div>
+    </div>
+  </div>
+  <nav class="sb-nav">
+    <div class="nav-label">Navigation</div>
+    <a class="nav-item" href="index.html"><span class="ni">🏠</span> Dashboard</a>
+    <a class="nav-item active" href="analytics.html"><span class="ni">📊</span> Analytics</a>
+
+    <div class="nav-label">Charts</div>
+    <a class="nav-item" href="#tenders-by-source"><span class="ni">🔵</span> By Source</a>
+    <a class="nav-item" href="#by-category"><span class="ni">🏷</span> By Category</a>
+    <a class="nav-item" href="#value-dist"><span class="ni">💷</span> Value Distribution</a>
+    <a class="nav-item" href="#timeline"><span class="ni">📅</span> Timeline</a>
+    <a class="nav-item" href="#top-buyers"><span class="ni">🏢</span> Top Buyers</a>
+    <a class="nav-item" href="#deadline-heat"><span class="ni">⏰</span> Deadline Urgency</a>
+  </nav>
+</aside>
+
+<!-- Main -->
+<div id="main">
+  <header id="header">
+    <button id="menu-btn" aria-label="Toggle menu">☰</button>
+    <h1>Analytics Dashboard</h1>
+    <span id="gen"></span>
+    <span class="hdr-tag" id="total-tag">Loading…</span>
+  </header>
+
+  <div id="content">
+    <div id="loading"><div class="spinner"></div><span>Loading tenders…</span></div>
+    <div id="error-box"></div>
+
+    <!-- KPIs -->
+    <div id="kpi-row" style="display:none">
+      <div class="kpi">        <div class="kpi-num" id="k-total">–</div> <div class="kpi-lbl">Total live</div></div>
+      <div class="kpi green">  <div class="kpi-num" id="k-sources">–</div><div class="kpi-lbl">Active sources</div></div>
+      <div class="kpi amber">  <div class="kpi-num" id="k-valued">–</div> <div class="kpi-lbl">With value data</div></div>
+      <div class="kpi pink">   <div class="kpi-num" id="k-urgent">–</div> <div class="kpi-lbl">Closing ≤7 days</div></div>
+      <div class="kpi violet"> <div class="kpi-num" id="k-avgval">–</div> <div class="kpi-lbl">Avg contract value</div></div>
+    </div>
+
+    <!-- Row 1: Source doughnut + Category bar -->
+    <div class="grid2" id="row1" style="display:none">
+      <div class="chart-card" id="tenders-by-source">
+        <div class="chart-title">Tenders by Source</div>
+        <div class="chart-sub">Distribution across procurement portals</div>
+        <div class="chart-wrap" style="height:260px"><canvas id="c-source"></canvas></div>
+      </div>
+      <div class="chart-card" id="by-category">
+        <div class="chart-title">Tenders by Category</div>
+        <div class="chart-sub">Count per matched category</div>
+        <div class="chart-wrap" style="height:260px"><canvas id="c-cat"></canvas></div>
+      </div>
+    </div>
+
+    <!-- Row 2: Value histogram (full width) -->
+    <div class="grid2" id="row2" style="display:none">
+      <div class="chart-card full" id="value-dist">
+        <div class="chart-title">Contract Value Distribution</div>
+        <div class="chart-sub">Number of tenders in each value band</div>
+        <div class="chart-wrap" style="height:220px"><canvas id="c-value"></canvas></div>
+      </div>
+    </div>
+
+    <!-- Row 3: Timeline + Deadline urgency -->
+    <div class="grid2" id="row3" style="display:none">
+      <div class="chart-card full" id="timeline">
+        <div class="chart-title">Tenders First Seen — Last 30 Days</div>
+        <div class="chart-sub">New tenders appearing per day</div>
+        <div class="chart-wrap" style="height:220px"><canvas id="c-timeline"></canvas></div>
+      </div>
+    </div>
+
+    <!-- Row 4: Top buyers + Deadline urgency -->
+    <div class="grid2" id="row4" style="display:none">
+      <div class="chart-card" id="top-buyers">
+        <div class="chart-title">Top Buyers</div>
+        <div class="chart-sub">Contracting authorities with most live tenders</div>
+        <div id="buyers-list"></div>
+      </div>
+      <div class="chart-card" id="deadline-heat">
+        <div class="chart-title">Deadline Urgency</div>
+        <div class="chart-sub">How many tenders close in each window</div>
+        <div class="chart-wrap" style="height:220px"><canvas id="c-deadline"></canvas></div>
+      </div>
+    </div>
+
+  </div>
+</div>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+
+// ── Chart.js global defaults ─────────────────────────────────────────────────
+Chart.defaults.color            = '#94a3b8';
+Chart.defaults.borderColor      = 'rgba(255,255,255,0.07)';
+Chart.defaults.font.family      = "Inter, system-ui, sans-serif";
+Chart.defaults.plugins.legend.labels.boxWidth = 12;
+Chart.defaults.plugins.legend.labels.padding  = 14;
+
+const SRC_COLORS = {
+  CF:'#22d3ee', FTS:'#6c8fff', PCS:'#34d399', S2W:'#fb7185', NI:'#f59e0b', TED:'#a78bfa'
+};
+const CAT_PALETTE = ['#6c8fff','#34d399','#f59e0b','#fb7185','#22d3ee','#a78bfa','#4ade80','#facc15','#38bdf8','#f472b6'];
+
+function srcCode(s) {
+  if (/contracts finder/i.test(s)) return 'CF';
+  if (/find a tender/i.test(s))    return 'FTS';
+  if (/scotland/i.test(s))         return 'PCS';
+  if (/wales/i.test(s))            return 'S2W';
+  if (/ni|northern ireland/i.test(s)) return 'NI';
+  if (/ted/i.test(s))              return 'TED';
+  return 'CF';
+}
+
+function gbp(v) {
+  if (!v) return '–';
+  return v >= 1_000_000 ? `£${(v/1_000_000).toFixed(1)}M` : v >= 1000 ? `£${(v/1000).toFixed(0)}k` : `£${v}`;
+}
+
+const daysLeft = d => d ? Math.ceil((new Date(d) - Date.now()) / 86400000) : null;
+
+// ── Load data ────────────────────────────────────────────────────────────────
+fetch('tenders.json?' + Date.now())
+  .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+  .then(j => buildCharts(j))
+  .catch(e => {
+    $('loading').style.display = 'none';
+    $('error-box').style.display = 'block';
+    $('error-box').textContent = '⚠ Could not load tenders.json — ' + e.message;
+  });
+
+function buildCharts(j) {
+  const T = j.tenders || [];
+  $('loading').style.display = 'none';
+  $('gen').textContent = 'Updated ' + new Date(j.generated).toLocaleString('en-GB',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'});
+
+  // Show all rows
+  ['kpi-row','row1','row2','row3','row4'].forEach(id => $(id).style.display = '');
+  $('row1').style.display  = 'grid';
+  $('row2').style.display  = 'grid';
+  $('row3').style.display  = 'grid';
+  $('row4').style.display  = 'grid';
+
+  // ── KPIs ──────────────────────────────────────────────────────────────────
+  const valued   = T.filter(t => t.value != null);
+  const urgent   = T.filter(t => { const d = daysLeft(t.deadline); return d !== null && d <= 7; });
+  const srcSet   = new Set(T.map(t => srcCode(t.source)));
+  const avgVal   = valued.length ? Math.round(valued.reduce((s,t)=>s+t.value,0)/valued.length) : 0;
+
+  $('k-total').textContent   = T.length;
+  $('k-sources').textContent = srcSet.size;
+  $('k-valued').textContent  = valued.length;
+  $('k-urgent').textContent  = urgent.length;
+  $('k-avgval').textContent  = gbp(avgVal);
+  $('total-tag').textContent = `${T.length} tenders`;
+
+  // ── Source doughnut ───────────────────────────────────────────────────────
+  const srcCounts = {};
+  T.forEach(t => { const c = srcCode(t.source); srcCounts[c] = (srcCounts[c]||0) + 1; });
+  const srcLabels = Object.keys(srcCounts).sort();
+  new Chart($('c-source'), {
+    type: 'doughnut',
+    data: {
+      labels: srcLabels.map(k => ({CF:'Contracts Finder',FTS:'Find a Tender',PCS:'Public Contracts Scotland',S2W:'Sell2Wales',NI:'eTendersNI',TED:'TED / EU OJEU'}[k]||k)),
+      datasets: [{
+        data: srcLabels.map(k => srcCounts[k]),
+        backgroundColor: srcLabels.map(k => SRC_COLORS[k] + 'cc'),
+        borderColor:     srcLabels.map(k => SRC_COLORS[k]),
+        borderWidth: 1.5, hoverOffset: 6,
+      }]
+    },
+    options: {
+      responsive:true, maintainAspectRatio:false, cutout:'68%',
+      plugins:{
+        legend:{position:'right', labels:{color:'#94a3b8', font:{size:11}}},
+        tooltip:{callbacks:{label: ctx => ` ${ctx.label}: ${ctx.raw} (${Math.round(ctx.raw/T.length*100)}%)`}}
+      }
+    }
+  });
+
+  // ── Category bar ──────────────────────────────────────────────────────────
+  const catCounts = {};
+  T.forEach(t => (t.categories||[]).forEach(c => { catCounts[c] = (catCounts[c]||0) + 1; }));
+  const catSorted = Object.entries(catCounts).sort((a,b)=>b[1]-a[1]);
+  new Chart($('c-cat'), {
+    type: 'bar',
+    data: {
+      labels: catSorted.map(([k]) => k),
+      datasets: [{
+        label: 'Tenders',
+        data: catSorted.map(([,v]) => v),
+        backgroundColor: catSorted.map((_,i) => CAT_PALETTE[i % CAT_PALETTE.length] + 'bb'),
+        borderColor:     catSorted.map((_,i) => CAT_PALETTE[i % CAT_PALETTE.length]),
+        borderWidth: 1.5, borderRadius: 5, borderSkipped:false,
+      }]
+    },
+    options: {
+      responsive:true, maintainAspectRatio:false,
+      plugins:{legend:{display:false}},
+      scales:{
+        x:{grid:{display:false}, ticks:{color:'#94a3b8',font:{size:11}}},
+        y:{grid:{color:'rgba(255,255,255,0.05)'}, ticks:{color:'#94a3b8',stepSize:1}}
+      }
+    }
+  });
+
+  // ── Value histogram ───────────────────────────────────────────────────────
+  const bands = [
+    {label:'Unknown',  count: T.filter(t => t.value == null).length,           color:'#5a6678'},
+    {label:'< £100k',  count: T.filter(t => t.value != null && t.value < 1e5).length,    color:'#34d399'},
+    {label:'£100k–1M', count: T.filter(t => t.value != null && t.value >= 1e5 && t.value < 1e6).length, color:'#6c8fff'},
+    {label:'£1M–10M',  count: T.filter(t => t.value != null && t.value >= 1e6 && t.value < 1e7).length, color:'#f59e0b'},
+    {label:'£10M+',    count: T.filter(t => t.value != null && t.value >= 1e7).length,   color:'#fb7185'},
+  ];
+  new Chart($('c-value'), {
+    type: 'bar',
+    data: {
+      labels: bands.map(b => b.label),
+      datasets: [{
+        label: 'Tenders',
+        data: bands.map(b => b.count),
+        backgroundColor: bands.map(b => b.color + 'bb'),
+        borderColor:     bands.map(b => b.color),
+        borderWidth:1.5, borderRadius:6, borderSkipped:false,
+      }]
+    },
+    options: {
+      responsive:true, maintainAspectRatio:false, indexAxis:'x',
+      plugins:{legend:{display:false},
+        tooltip:{callbacks:{label: ctx=>`${ctx.raw} tender${ctx.raw!==1?'s':''}`}}
+      },
+      scales:{
+        x:{grid:{display:false}, ticks:{color:'#94a3b8'}},
+        y:{grid:{color:'rgba(255,255,255,0.05)'}, ticks:{color:'#94a3b8',stepSize:1}}
+      }
+    }
+  });
+
+  // ── Timeline — last 30 days ───────────────────────────────────────────────
+  const now = Date.now();
+  const dayMs = 86400000;
+  const days30 = Array.from({length:30}, (_,i) => {
+    const d = new Date(now - (29-i)*dayMs);
+    return d.toISOString().slice(0,10);
+  });
+  const dayCount = {};
+  days30.forEach(d => dayCount[d] = 0);
+  T.forEach(t => {
+    if (!t.first_seen) return;
+    const d = t.first_seen.slice(0,10);
+    if (d in dayCount) dayCount[d]++;
+  });
+  new Chart($('c-timeline'), {
+    type: 'line',
+    data: {
+      labels: days30.map(d => new Date(d).toLocaleDateString('en-GB',{day:'2-digit',month:'short'})),
+      datasets: [{
+        label: 'New tenders',
+        data: days30.map(d => dayCount[d]),
+        borderColor: '#6c8fff', backgroundColor: 'rgba(108,143,255,0.1)',
+        borderWidth: 2, fill: true, tension: 0.4,
+        pointRadius: 3, pointBackgroundColor: '#6c8fff',
+      }]
+    },
+    options: {
+      responsive:true, maintainAspectRatio:false,
+      plugins:{legend:{display:false}},
+      scales:{
+        x:{grid:{display:false}, ticks:{color:'#94a3b8',maxTicksLimit:10,font:{size:11}}},
+        y:{grid:{color:'rgba(255,255,255,0.05)'}, ticks:{color:'#94a3b8',stepSize:1}, min:0}
+      }
+    }
+  });
+
+  // ── Top buyers table ──────────────────────────────────────────────────────
+  const buyerCounts = {};
+  T.forEach(t => {
+    const b = (t.buyer||'').trim();
+    if (b) buyerCounts[b] = (buyerCounts[b]||0) + 1;
+  });
+  const topBuyers = Object.entries(buyerCounts).sort((a,b)=>b[1]-a[1]).slice(0,15);
+  const maxBC = topBuyers[0]?.[1] || 1;
+  $('buyers-list').innerHTML = topBuyers.map(([name, count], i) => `
+    <div class="buyer-row">
+      <span class="buyer-rank">#${i+1}</span>
+      <span class="buyer-name" title="${name}">${name}</span>
+      <div class="buyer-bar-wrap"><div class="buyer-bar" style="width:${Math.round(count/maxBC*100)}%"></div></div>
+      <span class="buyer-count">${count}</span>
+    </div>`).join('');
+
+  // ── Deadline urgency bar ──────────────────────────────────────────────────
+  const urgBands = [
+    {label:'≤3 days',  count:0, color:'#f87171'},
+    {label:'4–7 days', count:0, color:'#f59e0b'},
+    {label:'8–14 days',count:0, color:'#6c8fff'},
+    {label:'15–30 days',count:0,color:'#34d399'},
+    {label:'30+ days', count:0, color:'#5a6678'},
+    {label:'No deadline',count:0,color:'#2d3748'},
+  ];
+  T.forEach(t => {
+    const d = daysLeft(t.deadline);
+    if (d === null)  urgBands[5].count++;
+    else if (d <= 3) urgBands[0].count++;
+    else if (d <= 7) urgBands[1].count++;
+    else if (d <= 14)urgBands[2].count++;
+    else if (d <= 30)urgBands[3].count++;
+    else             urgBands[4].count++;
+  });
+  new Chart($('c-deadline'), {
+    type: 'doughnut',
+    data: {
+      labels: urgBands.map(b => b.label),
+      datasets: [{
+        data: urgBands.map(b => b.count),
+        backgroundColor: urgBands.map(b => b.color + 'bb'),
+        borderColor:     urgBands.map(b => b.color),
+        borderWidth:1.5, hoverOffset:6,
+      }]
+    },
+    options: {
+      responsive:true, maintainAspectRatio:false, cutout:'60%',
+      plugins:{
+        legend:{position:'right', labels:{color:'#94a3b8',font:{size:11}}},
+        tooltip:{callbacks:{label: ctx=>`${ctx.label}: ${ctx.raw}`}}
+      }
+    }
+  });
+}
+
+// ── Mobile sidebar ────────────────────────────────────────────────────────────
+$('menu-btn').onclick = () => { $('sidebar').classList.toggle('open'); $('overlay').classList.toggle('show'); };
+$('overlay').onclick  = () => { $('sidebar').classList.remove('open'); $('overlay').classList.remove('show'); };
+</script>
+</body>
+</html>
