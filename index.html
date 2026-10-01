@@ -3,64 +3,478 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>UK Tender Dashboard</title>
+<title>UK Live Tenders — Aggregator Dashboard</title>
+<meta name="description" content="Real-time UK government tender aggregator covering Contracts Finder, Find a Tender, Public Contracts Scotland, Sell2Wales, eTendersNI and TED.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#f6f7f9;--card:#fff;--tx:#1a1d21;--mu:#66707c;--bd:#e2e5ea;--ac:#1d5fd1;--nw:#0e9f6e;--wr:#d9480f}
-@media(prefers-color-scheme:dark){:root{--bg:#111418;--card:#1a1e24;--tx:#e8eaed;--mu:#94a0ad;--bd:#2b313a;--ac:#5b9bff;--nw:#05875d;--wr:#b83c0c}}
-*{box-sizing:border-box}body{margin:0;font:15px/1.5 system-ui,sans-serif;background:var(--bg);color:var(--tx)}
-header{padding:20px 24px;border-bottom:1px solid var(--bd);background:var(--card)}
-h1{margin:0;font-size:20px}.sub{color:var(--mu);font-size:13px}
-.stats{display:flex;gap:12px;padding:16px 24px;flex-wrap:wrap}
-.stat{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:10px 16px;min-width:130px}
-.stat b{font-size:22px;display:block}.stat span{color:var(--mu);font-size:12px}
-.bar{display:flex;gap:8px;padding:0 24px 12px;flex-wrap:wrap;align-items:center}
-input,select{padding:8px 10px;border:1px solid var(--bd);border-radius:8px;background:var(--card);color:var(--tx);font:inherit}
-input{flex:1;min-width:200px}
-.chip{padding:6px 12px;border:1px solid var(--bd);border-radius:20px;background:var(--card);color:var(--tx);cursor:pointer;font:inherit;font-size:13px}
-.chip.on{background:var(--ac);color:#fff;border-color:var(--ac)}
-main{padding:0 24px 40px;display:grid;gap:10px}
-.t{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:14px 16px}
-.t h3{margin:0 0 4px;font-size:16px}.t h3 a{color:var(--ac);text-decoration:none}
-.meta{color:var(--mu);font-size:13px;display:flex;gap:14px;flex-wrap:wrap}
-.d{margin:8px 0 0;font-size:13.5px;color:var(--mu)}
-.tag{font-size:11px;padding:2px 8px;border-radius:10px;border:1px solid var(--bd);margin-right:4px}
-.new{background:var(--nw);color:#fff;border-color:var(--nw)}.soon{color:var(--wr);font-weight:600}
+/* ─── Design tokens ─────────────────────────────────── */
+:root {
+  --bg:      #0d0f14;
+  --bg2:     #12151c;
+  --card:    rgba(22, 27, 38, 0.85);
+  --glass:   rgba(255,255,255,0.04);
+  --border:  rgba(255,255,255,0.08);
+  --border2: rgba(255,255,255,0.14);
+  --tx:      #e8eaed;
+  --tx2:     #94a3b8;
+  --tx3:     #5a6678;
+  --ac:      #6c8fff;
+  --acg:     linear-gradient(135deg,#6c8fff,#a78bfa);
+  --green:   #34d399;
+  --amber:   #f59e0b;
+  --red:     #f87171;
+  --sidebar: 280px;
+  --hdr:     64px;
+  --r:       12px;
+  --r2:      8px;
+  --shadow:  0 4px 24px rgba(0,0,0,.5);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  font-family:'Inter',system-ui,sans-serif;font-size:14px;line-height:1.6;
+  background:var(--bg);color:var(--tx);min-height:100vh;
+  background-image:
+    radial-gradient(ellipse 900px 600px at 10% 10%,rgba(108,143,255,.07) 0%,transparent 70%),
+    radial-gradient(ellipse 700px 500px at 90% 80%,rgba(167,139,250,.06) 0%,transparent 70%);
+}
+::-webkit-scrollbar{width:6px;height:6px}
+::-webkit-scrollbar-track{background:var(--bg2)}
+::-webkit-scrollbar-thumb{background:rgba(255,255,255,.15);border-radius:3px}
+::-webkit-scrollbar-thumb:hover{background:rgba(255,255,255,.25)}
+
+/* ─── Layout ─────────────────────────────────────────── */
+#app{display:flex;height:100vh;overflow:hidden}
+#sidebar{
+  width:var(--sidebar);flex-shrink:0;
+  background:var(--bg2);border-right:1px solid var(--border);
+  display:flex;flex-direction:column;overflow-y:auto;
+  transition:transform .3s ease;
+}
+#main{flex:1;display:flex;flex-direction:column;overflow:hidden}
+#header{
+  height:var(--hdr);flex-shrink:0;
+  display:flex;align-items:center;gap:12px;padding:0 24px;
+  background:rgba(13,15,20,.9);border-bottom:1px solid var(--border);
+  backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);
+  position:relative;z-index:10;
+}
+#content{flex:1;overflow-y:auto;padding:20px 24px 48px}
+
+/* ─── Sidebar ────────────────────────────────────────── */
+.sb-logo{padding:20px 20px 16px;border-bottom:1px solid var(--border)}
+.sb-logo-inner{display:flex;align-items:center;gap:10px}
+.sb-icon{
+  width:36px;height:36px;border-radius:10px;background:var(--acg);
+  display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0;
+}
+.sb-title{font-size:15px;font-weight:700;color:var(--tx)}
+.sb-sub{font-size:11px;color:var(--tx3);margin-top:2px}
+.sb-section{padding:16px 16px 8px}
+.sb-section+.sb-section{border-top:1px solid var(--border)}
+.sb-section-title{
+  font-size:10px;font-weight:600;letter-spacing:.1em;
+  color:var(--tx3);text-transform:uppercase;margin-bottom:10px;
+}
+.filter-group{margin-bottom:12px}
+.chip-wrap{display:flex;flex-wrap:wrap;gap:5px}
+.chip{
+  padding:4px 10px;border-radius:20px;font-size:11px;font-weight:500;
+  border:1px solid var(--border2);background:var(--glass);color:var(--tx2);
+  cursor:pointer;transition:all .15s ease;user-select:none;
+}
+.chip:hover{border-color:var(--ac);color:var(--tx)}
+.chip.on{background:rgba(108,143,255,.2);border-color:var(--ac);color:var(--ac)}
+
+/* Source badge colours */
+.src-CF {background:rgba(34,211,238,.12);color:#22d3ee;border-color:rgba(34,211,238,.3)}
+.src-FTS{background:rgba(108,143,255,.12);color:#6c8fff;border-color:rgba(108,143,255,.3)}
+.src-PCS{background:rgba(52,211,153,.12);color:#34d399;border-color:rgba(52,211,153,.3)}
+.src-S2W{background:rgba(251,113,133,.12);color:#fb7185;border-color:rgba(251,113,133,.3)}
+.src-NI {background:rgba(245,158,11,.12);color:#f59e0b;border-color:rgba(245,158,11,.3)}
+.src-TED{background:rgba(167,139,250,.12);color:#a78bfa;border-color:rgba(167,139,250,.3)}
+.src-pill{font-size:10px;font-weight:600;padding:2px 8px;border-radius:12px;border:1px solid;letter-spacing:.03em}
+
+/* ─── Header ─────────────────────────────────────────── */
+#menu-btn{
+  display:none;background:none;border:none;color:var(--tx2);cursor:pointer;
+  padding:4px;font-size:20px;line-height:1;
+}
+#search{
+  flex:1;max-width:520px;border:1px solid var(--border2);border-radius:var(--r2);
+  color:var(--tx);font:inherit;padding:8px 12px 8px 36px;
+  background:var(--glass) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%235a6678' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.099zm-5.242 1.156a5.5 5.5 0 1 1 0-11 5.5 5.5 0 0 1 0 11z'/%3E%3C/svg%3E") no-repeat 10px center;
+  transition:border-color .2s;
+}
+#search:focus{outline:none;border-color:var(--ac)}
+#search::placeholder{color:var(--tx3)}
+.hdr-right{display:flex;align-items:center;gap:8px;margin-left:auto}
+#sort-sel{
+  background:var(--glass);border:1px solid var(--border2);border-radius:var(--r2);
+  color:var(--tx);font:inherit;font-size:13px;padding:7px 10px;cursor:pointer;
+}
+#sort-sel:focus{outline:none;border-color:var(--ac)}
+#sort-sel option{background:#1a1e24}
+#gen{font-size:11px;color:var(--tx3);white-space:nowrap}
+
+/* ─── Stats ──────────────────────────────────────────── */
+#stats-row{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:20px}
+.stat-card{
+  flex:1;min-width:120px;max-width:180px;
+  background:var(--card);border:1px solid var(--border);border-radius:var(--r);
+  padding:14px 16px;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+  position:relative;overflow:hidden;
+}
+.stat-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:var(--acg)}
+.stat-num{font-size:26px;font-weight:700;color:var(--tx);line-height:1.1}
+.stat-lbl{font-size:11px;color:var(--tx3);margin-top:4px;text-transform:uppercase;letter-spacing:.05em}
+.stat-card.green::before{background:linear-gradient(90deg,#34d399,#6ee7b7)}
+.stat-card.amber::before{background:linear-gradient(90deg,#f59e0b,#fbbf24)}
+.stat-card.pink::before{background:linear-gradient(90deg,#fb7185,#f472b6)}
+
+/* ─── Category pills ─────────────────────────────────── */
+#cat-row{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:16px}
+.cat-chip{
+  padding:5px 14px;border-radius:20px;font-size:12px;font-weight:500;
+  border:1px solid var(--border2);background:var(--glass);color:var(--tx2);
+  cursor:pointer;transition:all .15s;
+}
+.cat-chip:hover{border-color:var(--ac);color:var(--tx)}
+.cat-chip.on{background:rgba(108,143,255,.2);border-color:var(--ac);color:var(--ac)}
+
+/* ─── Cards ──────────────────────────────────────────── */
+#list{display:grid;gap:10px}
+.t-card{
+  background:var(--card);border:1px solid var(--border);border-radius:var(--r);
+  padding:16px 20px;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+  transition:border-color .2s,transform .15s,box-shadow .2s;
+}
+.t-card:hover{border-color:var(--border2);transform:translateY(-1px);box-shadow:var(--shadow)}
+.t-card.bookmarked{border-left:3px solid var(--ac)}
+.t-top{display:flex;align-items:flex-start;gap:10px;margin-bottom:6px}
+.t-title{flex:1;font-size:15px;font-weight:600;color:var(--tx);text-decoration:none;line-height:1.4}
+.t-title:hover{color:var(--ac)}
+.t-bm-btn{
+  flex-shrink:0;background:none;border:none;cursor:pointer;
+  font-size:18px;color:var(--tx3);line-height:1;padding:0 2px;
+  transition:color .15s,transform .15s;
+}
+.t-bm-btn:hover{color:var(--amber);transform:scale(1.2)}
+.t-bm-btn.saved{color:var(--amber)}
+.t-meta{display:flex;flex-wrap:wrap;align-items:center;gap:8px;font-size:12px;color:var(--tx2);margin-bottom:8px}
+.t-buyer{font-weight:500;color:var(--tx)}
+.t-value{color:var(--green);font-weight:500}
+.t-deadline.urgent{color:var(--red);font-weight:600}
+.t-deadline.soon{color:var(--amber);font-weight:600}
+.t-desc{font-size:13px;color:var(--tx3);line-height:1.6}
+.tag-row{display:flex;flex-wrap:wrap;gap:5px;margin:8px 0}
+.cat-tag{
+  font-size:10px;font-weight:500;padding:2px 8px;border-radius:10px;
+  background:rgba(108,143,255,.1);border:1px solid rgba(108,143,255,.25);color:var(--ac);
+}
+.new-tag{
+  font-size:10px;font-weight:600;padding:2px 8px;border-radius:10px;
+  background:rgba(52,211,153,.15);border:1px solid rgba(52,211,153,.3);color:var(--green);
+}
+.dot{width:3px;height:3px;border-radius:50%;background:var(--tx3);flex-shrink:0;margin-top:6px}
+
+/* ─── States ─────────────────────────────────────────── */
+#empty{text-align:center;padding:80px 20px;color:var(--tx3);font-size:15px;display:none}
+#loading{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;padding:80px 20px;color:var(--tx3)}
+.spinner{width:36px;height:36px;border-radius:50%;border:3px solid var(--border2);border-top-color:var(--ac);animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+#error{display:none;padding:16px 20px;background:rgba(248,113,113,.1);border:1px solid rgba(248,113,113,.25);border-radius:var(--r);color:var(--red);margin-bottom:20px}
+
+/* ─── Mobile ─────────────────────────────────────────── */
+@media(max-width:768px){
+  #sidebar{position:fixed;left:0;top:0;bottom:0;z-index:100;transform:translateX(-100%)}
+  #sidebar.open{transform:translateX(0);box-shadow:0 0 60px rgba(0,0,0,.7)}
+  #overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:90}
+  #overlay.show{display:block}
+  #menu-btn{display:flex}
+  #content{padding:14px 14px 48px}
+}
 </style>
 </head>
 <body>
-<header><h1>UK Live Tenders</h1><div class="sub" id="gen">Loading…</div></header>
-<div class="stats" id="stats"></div>
-<div class="bar"><input id="q" placeholder="Search title, buyer, description…">
-<select id="sort"><option value="deadline">Closing soonest</option><option value="new">Newest first</option><option value="value">Highest value</option></select></div>
-<div class="bar" id="chips"></div>
-<main id="list"></main>
+<div id="overlay"></div>
+<div id="app">
+
+<!-- Sidebar -->
+<aside id="sidebar">
+  <div class="sb-logo">
+    <div class="sb-logo-inner">
+      <div class="sb-icon">📋</div>
+      <div><div class="sb-title">UK Tenders</div><div class="sb-sub">Live Aggregator</div></div>
+    </div>
+  </div>
+
+  <div class="sb-section">
+    <div class="sb-section-title">Sources</div>
+    <div class="filter-group">
+      <div class="chip-wrap" id="src-chips">
+        <span class="chip on" data-src="All">All</span>
+        <span class="chip src-CF"  data-src="CF">CF</span>
+        <span class="chip src-FTS" data-src="FTS">FTS</span>
+        <span class="chip src-PCS" data-src="PCS">PCS</span>
+        <span class="chip src-S2W" data-src="S2W">S2W</span>
+        <span class="chip src-NI"  data-src="NI">NI</span>
+        <span class="chip src-TED" data-src="TED">TED</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="sb-section">
+    <div class="sb-section-title">Contract Value</div>
+    <div class="filter-group">
+      <div class="chip-wrap" id="val-chips">
+        <span class="chip on" data-val="All">All</span>
+        <span class="chip" data-val="unknown">Unknown</span>
+        <span class="chip" data-val="lt100k">&lt;£100k</span>
+        <span class="chip" data-val="100k-1m">£100k–1M</span>
+        <span class="chip" data-val="1m-10m">£1M–10M</span>
+        <span class="chip" data-val="gt10m">£10M+</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="sb-section">
+    <div class="sb-section-title">Deadline</div>
+    <div class="filter-group">
+      <div class="chip-wrap" id="dl-chips">
+        <span class="chip on" data-dl="All">Any</span>
+        <span class="chip" data-dl="7">≤7 days</span>
+        <span class="chip" data-dl="14">≤14 days</span>
+        <span class="chip" data-dl="30">≤30 days</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="sb-section">
+    <div class="sb-section-title">Bookmarks</div>
+    <div class="filter-group">
+      <div class="chip-wrap">
+        <span class="chip" id="bm-filter-chip">⭐ Show saved</span>
+      </div>
+    </div>
+    <button id="export-btn" class="chip on" style="width:100%;justify-content:center;display:flex;gap:6px;margin-top:8px">
+      ⬇ Export CSV
+    </button>
+  </div>
+
+  <div class="sb-section" style="flex:1;display:flex;align-items:flex-end">
+    <div style="font-size:10px;color:var(--tx3);line-height:1.8;padding-bottom:8px">
+      <strong style="color:var(--tx2)">Legend</strong><br>
+      <span style="color:#22d3ee">CF</span> Contracts Finder &nbsp;
+      <span style="color:#6c8fff">FTS</span> Find a Tender<br>
+      <span style="color:#34d399">PCS</span> Public Contracts Scotland<br>
+      <span style="color:#fb7185">S2W</span> Sell2Wales &nbsp;
+      <span style="color:#f59e0b">NI</span> eTendersNI &nbsp;
+      <span style="color:#a78bfa">TED</span> EU OJEU
+    </div>
+  </div>
+</aside>
+
+<!-- Main -->
+<div id="main">
+  <header id="header">
+    <button id="menu-btn" aria-label="Toggle sidebar">☰</button>
+    <input id="search" type="search" placeholder="Search title, buyer, description…" autocomplete="off">
+    <span id="gen"></span>
+    <div class="hdr-right">
+      <select id="sort-sel" aria-label="Sort order">
+        <option value="deadline">Closing soonest</option>
+        <option value="new">Newest first</option>
+        <option value="value">Highest value</option>
+      </select>
+    </div>
+  </header>
+
+  <div id="content">
+    <div id="stats-row">
+      <div class="stat-card">        <div class="stat-num" id="s-total">–</div>  <div class="stat-lbl">Live tenders</div></div>
+      <div class="stat-card green">  <div class="stat-num" id="s-new">–</div>    <div class="stat-lbl">New (48h)</div></div>
+      <div class="stat-card amber">  <div class="stat-num" id="s-urgent">–</div> <div class="stat-lbl">Closing ≤7 days</div></div>
+      <div class="stat-card pink">   <div class="stat-num" id="s-showing">–</div><div class="stat-lbl">Showing</div></div>
+    </div>
+    <div id="cat-row"></div>
+    <div id="error"></div>
+    <div id="loading"><div class="spinner"></div><span>Loading tenders…</span></div>
+    <div id="list"></div>
+    <div id="empty">No tenders match your filters.</div>
+  </div>
+</div>
+</div>
+
 <script>
-const $=id=>document.getElementById(id);
-const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-let all=[],cat="All";
-const day=86400000,gbp=v=>v?"£"+Number(v).toLocaleString("en-GB",{maximumFractionDigits:0}):"Value n/a";
-const daysLeft=d=>d?Math.ceil((new Date(d)-Date.now())/day):null;
-fetch("tenders.json?"+Date.now()).then(r=>r.json()).then(j=>{
- all=j.tenders;$("gen").textContent="Last updated "+new Date(j.generated).toLocaleString("en-GB");
- const cats=["All",...new Set(all.flatMap(t=>t.categories))];
- $("chips").innerHTML=cats.map(c=>`<button class="chip ${c==="All"?"on":""}" data-c="${esc(c)}">${esc(c)}</button>`).join("");
- $("chips").onclick=e=>{if(e.target.dataset.c){cat=e.target.dataset.c;[...$("chips").children].forEach(b=>b.classList.toggle("on",b.dataset.c===cat));render()}};
- render();
-}).catch(()=>$("gen").textContent="Could not load tenders.json");
-$("q").oninput=render;$("sort").onchange=render;
-function render(){
- const q=$("q").value.toLowerCase(),s=$("sort").value;
- let l=all.filter(t=>(cat==="All"||t.categories.includes(cat))&&(`${t.title} ${t.buyer} ${t.description}`).toLowerCase().includes(q));
- l.sort((a,b)=>s==="new"?(b.first_seen||"").localeCompare(a.first_seen||""):s==="value"?(b.value||0)-(a.value||0):(a.deadline||"9").localeCompare(b.deadline||"9"));
- const isNew=t=>Date.now()-new Date(t.first_seen)<2*day;
- $("stats").innerHTML=[["Live tenders",all.length],["New (48h)",all.filter(isNew).length],["Closing in 7 days",all.filter(t=>{const d=daysLeft(t.deadline);return d!==null&&d<=7}).length],["Showing",l.length]]
-  .map(([k,v])=>`<div class="stat"><b>${v}</b><span>${k}</span></div>`).join("");
- $("list").innerHTML=l.map(t=>{const d=daysLeft(t.deadline);
-  return `<div class="t"><h3><a href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.title)}</a></h3>
-  <div class="meta"><span>${esc(t.buyer)}</span><span>${gbp(t.value)}</span>
-  <span class="${d!==null&&d<=7?"soon":""}">${t.deadline?"Closes "+new Date(t.deadline).toLocaleDateString("en-GB")+" ("+d+"d)":"No deadline"}</span><span>${esc(t.source)}</span></div>
-  <div style="margin-top:6px">${isNew(t)?'<span class="tag new">NEW</span>':""}${t.categories.map(c=>`<span class="tag">${esc(c)}</span>`).join("")}</div>
-  <p class="d">${esc(t.description.slice(0,280))}${t.description.length>280?"…":""}</p></div>`}).join("")||"<p>No tenders match.</p>";
+const $  = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const DAY = 86400000;
+const gbp = v => v != null ? '£' + Number(v).toLocaleString('en-GB',{maximumFractionDigits:0}) : null;
+const daysLeft = d => d ? Math.ceil((new Date(d) - Date.now()) / DAY) : null;
+const isNew = t => Date.now() - new Date(t.first_seen) < 2 * DAY;
+
+function srcCode(src) {
+  if (/contracts finder/i.test(src)) return 'CF';
+  if (/find a tender/i.test(src))    return 'FTS';
+  if (/scotland/i.test(src))         return 'PCS';
+  if (/wales/i.test(src))            return 'S2W';
+  if (/ni|northern ireland/i.test(src)) return 'NI';
+  if (/ted/i.test(src))              return 'TED';
+  return 'CF';
+}
+function valBand(v) {
+  if (v == null) return 'unknown';
+  if (v < 100000)   return 'lt100k';
+  if (v < 1000000)  return '100k-1m';
+  if (v < 10000000) return '1m-10m';
+  return 'gt10m';
+}
+
+let ALL = [], CAT = 'All', SRC = 'All', VAL = 'All', DL = 'All', BM_ONLY = false;
+
+/* Bookmarks */
+const BM_KEY = 'uk-tenders-bm';
+let bookmarks = new Set(JSON.parse(localStorage.getItem(BM_KEY) || '[]'));
+const saveBM = () => localStorage.setItem(BM_KEY, JSON.stringify([...bookmarks]));
+function toggleBM(id, btn) {
+  if (bookmarks.has(id)) { bookmarks.delete(id); btn.textContent='☆'; btn.classList.remove('saved'); }
+  else                   { bookmarks.add(id);    btn.textContent='★'; btn.classList.add('saved'); }
+  btn.closest('.t-card')?.classList.toggle('bookmarked', bookmarks.has(id));
+  saveBM();
+  if (BM_ONLY) render();
+}
+
+/* Load */
+fetch('tenders.json?' + Date.now())
+  .then(r => { if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
+  .then(j => {
+    ALL = j.tenders;
+    $('loading').style.display = 'none';
+    $('gen').textContent = 'Updated ' + new Date(j.generated).toLocaleString('en-GB',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'});
+    buildCats();
+    render();
+  })
+  .catch(e => {
+    $('loading').style.display = 'none';
+    $('error').style.display   = 'block';
+    $('error').textContent     = '⚠ Could not load tenders.json — ' + e.message;
+  });
+
+function buildCats() {
+  const cats = ['All',...new Set(ALL.flatMap(t=>t.categories||[]))].sort();
+  $('cat-row').innerHTML = cats.map(c=>`<button class="cat-chip${c==='All'?' on':''}" data-cat="${esc(c)}">${esc(c)}</button>`).join('');
+  $('cat-row').onclick = e => {
+    const b = e.target.closest('.cat-chip'); if(!b) return;
+    CAT = b.dataset.cat;
+    [...$('cat-row').children].forEach(x=>x.classList.toggle('on',x.dataset.cat===CAT));
+    render();
+  };
+}
+
+function bindChips(cid, cb) {
+  $(cid).onclick = e => {
+    const c = e.target.closest('.chip'); if(!c) return;
+    [...$(cid).children].forEach(x=>x.classList.remove('on'));
+    c.classList.add('on'); cb(c.dataset);
+  };
+}
+bindChips('src-chips', d => { SRC = d.src; render(); });
+bindChips('val-chips', d => { VAL = d.val; render(); });
+bindChips('dl-chips',  d => { DL  = d.dl;  render(); });
+
+$('bm-filter-chip').onclick = function(){
+  BM_ONLY = !BM_ONLY;
+  this.classList.toggle('on', BM_ONLY);
+  this.textContent = BM_ONLY ? '⭐ Saved only' : '⭐ Show saved';
+  render();
+};
+
+let st;
+$('search').oninput = () => { clearTimeout(st); st = setTimeout(render, 180); };
+$('sort-sel').onchange = render;
+
+$('menu-btn').onclick = () => { $('sidebar').classList.toggle('open'); $('overlay').classList.toggle('show'); };
+$('overlay').onclick  = () => { $('sidebar').classList.remove('open'); $('overlay').classList.remove('show'); };
+
+$('export-btn').onclick = () => {
+  const rows = [
+    ['ID','Source','Title','Buyer','Value','Deadline','Published','Categories','URL'],
+    ...getFiltered().map(t => [
+      t.id, t.source, t.title||'', t.buyer||'',
+      t.value!=null?t.value:'', t.deadline||'', t.published||'',
+      (t.categories||[]).join('; '), t.url||''
+    ])
+  ];
+  const csv = rows.map(r=>r.map(v=>`"${String(v).replace(/"/g,'""')}"`).join(',')).join('\r\n');
+  const a = Object.assign(document.createElement('a'),{
+    href: URL.createObjectURL(new Blob(['\uFEFF'+csv],{type:'text/csv;charset=utf-8;'})),
+    download: `uk-tenders-${new Date().toISOString().slice(0,10)}.csv`
+  });
+  a.click();
+};
+
+function getFiltered() {
+  const q = $('search').value.toLowerCase();
+  return ALL.filter(t => {
+    if (CAT!=='All' && !(t.categories||[]).includes(CAT)) return false;
+    if (SRC!=='All' && srcCode(t.source)!==SRC) return false;
+    if (VAL!=='All' && valBand(t.value)!==VAL) return false;
+    if (DL!=='All') { const d=daysLeft(t.deadline); if(d===null||d>parseInt(DL)) return false; }
+    if (BM_ONLY && !bookmarks.has(t.id)) return false;
+    if (q && !`${t.title} ${t.buyer} ${t.description}`.toLowerCase().includes(q)) return false;
+    return true;
+  });
+}
+
+function render() {
+  const s = $('sort-sel').value;
+  const filtered = getFiltered().sort((a,b)=>
+    s==='new'  ?(b.first_seen||'').localeCompare(a.first_seen||''):
+    s==='value'?(b.value||0)-(a.value||0):
+                (a.deadline||'9').localeCompare(b.deadline||'9')
+  );
+  $('s-total').textContent   = ALL.length;
+  $('s-new').textContent     = ALL.filter(isNew).length;
+  $('s-urgent').textContent  = ALL.filter(t=>{const d=daysLeft(t.deadline);return d!==null&&d<=7}).length;
+  $('s-showing').textContent = filtered.length;
+  $('empty').style.display   = filtered.length ? 'none' : 'block';
+  $('list').innerHTML        = filtered.map(cardHTML).join('');
+  $('list').querySelectorAll('.t-bm-btn').forEach(btn=>{
+    btn.onclick = e=>{e.preventDefault();e.stopPropagation();toggleBM(btn.dataset.id,btn);};
+  });
+}
+
+function cardHTML(t) {
+  const code = srcCode(t.source);
+  const dl   = daysLeft(t.deadline);
+  const urgency = dl!==null&&dl<=3?'urgent':dl!==null&&dl<=7?'soon':'';
+  const dlText  = t.deadline
+    ? `Closes ${new Date(t.deadline).toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'})} · ${dl}d`
+    : 'No deadline';
+  const valStr = gbp(t.value);
+  const bm = bookmarks.has(t.id);
+  const desc = (t.description||'').slice(0,300);
+  return `<div class="t-card${bm?' bookmarked':''}">
+  <div class="t-top">
+    <a class="t-title" href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.title||'Untitled')}</a>
+    <button class="t-bm-btn${bm?' saved':''}" data-id="${esc(t.id)}" title="Bookmark">${bm?'★':'☆'}</button>
+  </div>
+  <div class="t-meta">
+    <span class="src-pill src-${code}">${code}</span>
+    <span class="dot"></span>
+    <span class="t-buyer">${esc(t.buyer||'Unknown buyer')}</span>
+    ${valStr?`<span class="dot"></span><span class="t-value">${esc(valStr)}</span>`:''}
+    <span class="dot"></span>
+    <span class="t-deadline ${urgency}">${esc(dlText)}</span>
+  </div>
+  ${(t.categories?.length||isNew(t))?`<div class="tag-row">
+    ${isNew(t)?'<span class="new-tag">NEW</span>':''}
+    ${(t.categories||[]).map(c=>`<span class="cat-tag">${esc(c)}</span>`).join('')}
+  </div>`:''}
+  ${desc?`<p class="t-desc">${esc(desc)}${(t.description||'').length>300?'…':''}</p>`:''}
+</div>`;
 }
 </script>
 </body>
