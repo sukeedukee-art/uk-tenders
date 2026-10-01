@@ -1,0 +1,23 @@
+name: Daily tender refresh
+on:
+  schedule:
+    - cron: "0 6 * * *"   # every day 06:00 UTC
+  workflow_dispatch: {}    # manual "Run workflow" button
+permissions:
+  contents: write
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r requirements.txt
+      - run: python tender_scraper.py
+      - name: Commit results
+        run: |
+          git config user.name "tender-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add tenders.json
+          git diff --cached --quiet || git commit -m "Update tenders $(date -u +%F)"
+          git push
