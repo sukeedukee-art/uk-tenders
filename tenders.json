@@ -1,100 +1,6 @@
 {
- "generated": "2026-10-02T06:18:37.923737+00:00",
+ "generated": "2026-10-03T06:21:58.945632+00:00",
  "tenders": [
-  {
-   "id": "FTS-083193-2026",
-   "source": "Find a Tender",
-   "title": "Occupational Health, Employee Assistance Programme and Associated Services",
-   "buyer": "Skills Development Scotland Ltd",
-   "description": "Provision of Occupational Health, Employee Assistance Programme and Associated Services",
-   "published": "2026-09-02T16:21:52+01:00",
-   "deadline": "2026-10-02T12:00:00+01:00",
-   "value": 460000,
-   "region": null,
-   "cpv": [
-    "33196200",
-    "72212190",
-    "85140000",
-    "85147000",
-    "85312300",
-    "85312320"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/083193-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-082712-2026",
-   "source": "Find a Tender",
-   "title": "PS/25/263 - Winter Maintenance Assistance Framework (2026-2033)",
-   "buyer": "East Ayrshire Council",
-   "description": "The Council requires to establish a Winter Maintenance Assistance Framework for the provision of Contractors assistance during periods of adverse winter weather when all internal resource has been exhausted.  The Framework will consist of 5 Lots:\nLot 1: Ad Hoc Assistance for Gritting and Snow Clearing Operations within East and South Ayrshire\nLot 2: Standby Service for the Provision of Winter Treatment Services on Kilmarnock Town Centre Priority Footways (East Ayrshire)\nLot 3: Standby Service for Provision of Winter Treatment Services on Priority Carriageway Routes (East and South Ayrshire)\nLo",
-   "published": "2026-09-01T14:29:06+01:00",
-   "deadline": "2026-10-02T12:00:00+01:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "14410000",
-    "14450000",
-    "34143000",
-    "34144420",
-    "34144440",
-    "34927100",
-    "37411000",
-    "43313100",
-    "44113910",
-    "90620000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/082712-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-080010-2026",
-   "source": "Find a Tender",
-   "title": "For the Rough Sleeping Outreach and Navigator Procurement",
-   "buyer": "Oldham Council",
-   "description": "RSI services aim to prevent rough sleeping where possible and where not possible to ensure it is rare, brief and non-recurring. RSI Outreach workers take the lead in identifying and engaging individuals who are rough sleeping across the borough and supporting them into suitable accommodation pathways. The RSI Navigator support is key to tenancy sustainment for a cohort of identified entrenched rough sleepers.\nCommission an RSI Navigator service using grant monies awarded to the council. The most recent grant award of RSI Navigator funding is made by GMCA and runs from 1st April 2026 to 31st Ma",
-   "published": "2026-08-21T15:12:31+01:00",
-   "deadline": "2026-10-02T12:00:00+01:00",
-   "value": 400000,
-   "region": null,
-   "cpv": [
-    "70333000"
-   ],
-   "categories": [
-    "Supported Accommodation"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/080010-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-076653-2026",
-   "source": "Find a Tender",
-   "title": "Complex Termination of Pregnancy (CTOP) Services across the South East",
-   "buyer": "NHS Thames Valley Integrated Care Board (ICB)",
-   "description": "NHS Thames Valley (TV) Integrated Care Board (ICB), (the Commissioner) is seeking suitable providers who have the capability and capacity to deliver Complex Termination of Pregnancy (CTOP) service, in line with the specified requirements, in the capacity of the Regional Network Lead Provider (Hub) responsible for the delivery, coordination and clinical governance of CTOP pathways across the South East region. For the remainder of this document this will be referred to as the: Complex Termination of Pregnancy (CTOP) service.\nThe Hub will deliver specialist medical and surgical termination of pr",
-   "published": "2026-08-12T11:41:48+01:00",
-   "deadline": "2026-10-02T12:00:00+01:00",
-   "value": 1344000,
-   "region": null,
-   "cpv": [
-    "85100000",
-    "85111100",
-    "85111200",
-    "85111300",
-    "85121210"
-   ],
-   "categories": [
-    "Teleradiology"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/076653-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
   {
    "id": "FTS-086528-2026",
    "source": "Find a Tender",
@@ -1130,6 +1036,28 @@
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
   },
   {
+   "id": "FTS-093514-2026",
+   "source": "Find a Tender",
+   "title": "Insourced Breast USC One-Stop Triple Assessment and Symptomatic Breast Radiology",
+   "buyer": "Hull University Teaching Hospitals NHS Trust",
+   "description": "Hull University Hospitals NHS Trust (HUTH) on behalf of the Humber Health Partnership (HHP) plan to work in partnership with an Independent Sector (IS) Provider to facilitate provision of additional \u201cone-stop\u201d outpatient clinic capacity within the Breast Urgent Suspected Cancer (USC) pathway, to proactively manage capacity to maintain the delivery of the Cancer Faster Diagnostic Standard during periods where there is a demand vs capacity imbalance, and symptomatic breast radiology clinic support.<br/><br/>The \u201cOne-Stop Triple Assessment Clinic\" is a new-patient outpatient clinic that delivers ",
+   "published": "2026-10-02T16:18:43+01:00",
+   "deadline": "2026-10-21T12:00:00+01:00",
+   "value": 765000.0,
+   "region": null,
+   "cpv": [
+    "85111100",
+    "85121200",
+    "85148000",
+    "85150000"
+   ],
+   "categories": [
+    "Teleradiology"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/093514-2026",
+   "first_seen": "2026-10-03T06:21:58.945632+00:00"
+  },
+  {
    "id": "FTS-089322-2026",
    "source": "Find a Tender",
    "title": "Framework Agreement for Design, Supply & Installation of Kitchens (Lot 1) and Bathrooms (Lot 2) & Associated Works 2026 to 2030",
@@ -1600,6 +1528,77 @@
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
   },
   {
+   "id": "FTS-093513-2026",
+   "source": "Find a Tender",
+   "title": "Supply, Delivery and Installation of Office Furniture",
+   "buyer": "Scottish Police Authority",
+   "description": "The Scottish Police Authority (known as \u201cthe Authority\u201d) has a requirement for Supply, Delivery and Installation of Office Furniture and Associated Equipment across its estate throughout Scotland.\nThe current provision for the Supply, Delivery and Installation of Office Furniture and Associated Equipment is due to expire on 31 March 2027.  The Authority therefore requires a suitably experienced and competent Contractor to deliver these services under a single-supplier framework.\nThe successful Contractor will be responsible for the comprehensive supply, delivery, installation and associated su",
+   "published": "2026-10-02T16:15:49+01:00",
+   "deadline": "2026-11-02T12:00:00+00:00",
+   "value": 6000000,
+   "region": null,
+   "cpv": [
+    "39000000",
+    "39110000",
+    "39112000",
+    "39120000",
+    "39121100",
+    "39122000",
+    "39122100",
+    "39122200",
+    "39130000",
+    "45421153"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/093513-2026",
+   "first_seen": "2026-10-03T06:21:58.945632+00:00"
+  },
+  {
+   "id": "FTS-093459-2026",
+   "source": "Find a Tender",
+   "title": "Kishorn Port - Phase 1B - East Quay Development",
+   "buyer": "Kishorn Port Limited",
+   "description": "Kishorn Port Limited (KPL) own and operate the drydock facility at Kishorn.  The existing drydock has been enlarged with the rock material blasted and removed to reclaim 8.5 hectares of foreshore land to the east of the drydock.  The contractor will construct a new 150m long quay at the newly formed reclamation area with -12m CD water depth.  In support of its ongoing operations, KPL is engaging in market research with a view to launching a competitive tender process for works associated with the Phase 1B - East Quay Development at a later date for the award of a contract.",
+   "published": "2026-10-02T15:24:29+01:00",
+   "deadline": "2026-11-02T12:00:00+00:00",
+   "value": 30000000,
+   "region": null,
+   "cpv": [
+    "45241000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/093459-2026",
+   "first_seen": "2026-10-03T06:21:58.945632+00:00"
+  },
+  {
+   "id": "FTS-093101-2026",
+   "source": "Find a Tender",
+   "title": "Four Year Framework Agreement for Main Building Contractors for New Build Housing with a possible one year extension",
+   "buyer": "Link Group",
+   "description": "Link Group intends to enter into a Framework Agreement with a limited number of Building Contractors to provide construction services for a four year period with a possible one year extension. This may also include the provision of design and construction services. Link works in partnership with a number of subsidiary companies who will also be entitled to purchase works & services from the Framework Agreement. The subsidiaries of Link Group Ltd currently include, Link Living, C~urb 6 Ltd (C~urb), Horizon Housing Association Ltd, Larkfield Housing Association and West Highland Housing Associat",
+   "published": "2026-10-02T08:56:42+01:00",
+   "deadline": "2026-11-02T12:00:00+00:00",
+   "value": 840000000,
+   "region": null,
+   "cpv": [
+    "45210000",
+    "45211000",
+    "45211100",
+    "45211300",
+    "45211340",
+    "45211341"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/093101-2026",
+   "first_seen": "2026-10-03T06:21:58.945632+00:00"
+  },
+  {
    "id": "FTS-089252-2026",
    "source": "Find a Tender",
    "title": "SPS-02319 Prisoner Records 2 (PR2) \u2013 Technical Change",
@@ -1712,6 +1711,28 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/075813-2026",
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
+  },
+  {
+   "id": "FTS-093151-2026",
+   "source": "Find a Tender",
+   "title": "HH108-27-HB Adult Social Care Commissioning Flexible Framework",
+   "buyer": "NHS Highland",
+   "description": "NHS Highland, acting as the Lead Agency for Integrated Health and Social Care for Adults on behalf of the Highland Health and Social Care Partnership (HHSCP), is reopening its established Flexible Framework Agreement for the provision of Adult Social Care Services across the Highland Council area.\nThis framework reopening will allow:\nexisting framework providers to apply for admission to additional service lots; and potential new providers to apply for admission to the flexible framework.\nThe services covered by the framework are:\nLot 1: Care at Home Services\nSub Lot 1A: Care at Home\nSub Lot 1",
+   "published": "2026-10-02T09:59:39+01:00",
+   "deadline": "2026-12-31T12:00:00+00:00",
+   "value": 2421000000.0,
+   "region": null,
+   "cpv": [
+    "85000000",
+    "85144100",
+    "85312100",
+    "98000000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/093151-2026",
+   "first_seen": "2026-10-03T06:21:58.945632+00:00"
   },
   {
    "id": "FTS-083529-2026",
