@@ -1,316 +1,6 @@
 {
- "generated": "2026-10-05T06:23:04.183103+00:00",
+ "generated": "2026-10-06T06:18:47.205870+00:00",
  "tenders": [
-  {
-   "id": "FTS-086528-2026",
-   "source": "Find a Tender",
-   "title": "Smith Quay Extension - Professional Services Contract",
-   "buyer": "Peterhead Port Authority",
-   "description": "Peterhead Port Authority are seeking to engage a Consultant to Project Manage and Supervise the construction of a 30 million GBP extension to Smith Quay.",
-   "published": "2026-09-11T15:07:09+01:00",
-   "deadline": "2026-10-05T11:00:00+01:00",
-   "value": 750000,
-   "region": null,
-   "cpv": [
-    "71541000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/086528-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-084183-2026",
-   "source": "Find a Tender",
-   "title": "ITT for Survey and Treament for Timber Preservation Framework",
-   "buyer": "Dundee City Council",
-   "description": "This procurement process is for the framework contract for a multi- supplier framework to carry out dry/wet rot survey and treatment, infestation (woodworm) and chemical mould removal on domestic properties.\nDundee City Council is seeking to appoint a minimum of 3 and a maximum of 5  competent contractors for each lot within the framework. The lots for this framework are as follows-\nLot 1 \u2013 Surface treatments for condensation, dampness and mould (excluding fogging)\nLot 2 \u2013 Invasive treatments and investigation\nLot 3 \u2013 Fogging\nBidding organisations can apply for all lots within the framework bu",
-   "published": "2026-09-07T08:56:12+01:00",
-   "deadline": "2026-10-05T12:00:00+01:00",
-   "value": 5200000,
-   "region": null,
-   "cpv": [
-    "45261420",
-    "45331210",
-    "45450000",
-    "45453100",
-    "50700000",
-    "71315300",
-    "71315400",
-    "90920000",
-    "90921000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/084183-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-084048-2026",
-   "source": "Find a Tender",
-   "title": "ITT for Survey and Treament for Timber Preservation Framework",
-   "buyer": "Dundee City Council",
-   "description": "This procurement process is for the framework contract for a multi- supplier framework to carry out dry/wet rot survey and treatment, infestation (woodworm) and chemical mould removal on domestic properties.\nDundee City Council is seeking to appoint a minimum of 3 and a maximum of 5  competent contractors for each lot within the framework. The lots for this framework are as follows-\nLot 1 \u2013 Surface treatments for condensation, dampness and mould (excluding fogging)\nLot 2 \u2013 Invasive treatments and investigation\nLot 3 \u2013 Fogging\nBidding organisations can apply for all lots within the framework bu",
-   "published": "2026-09-04T16:06:31+01:00",
-   "deadline": "2026-10-05T12:00:00+01:00",
-   "value": 5200000,
-   "region": null,
-   "cpv": [
-    "45261420",
-    "45331210",
-    "45450000",
-    "45453100",
-    "50700000",
-    "71315300",
-    "71315400",
-    "90920000",
-    "90921000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/084048-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-084034-2026",
-   "source": "Find a Tender",
-   "title": "ITT for Survey and Treament for Timber Preservation Framework",
-   "buyer": "Dundee City Council",
-   "description": "This procurement process is for the framework contract for a multi- supplier framework to carry out dry/wet rot survey and treatment, infestation (woodworm) and chemical mould removal on domestic properties.\nDundee City Council is seeking to appoint a minimum of 3 and a maximum of 5  competent contractors for each lot within the framework. The lots for this framework are as follows-\nLot 1 \u2013 Surface treatments for condensation, dampness and mould (excluding fogging)\nLot 2 \u2013 Invasive treatments and investigation\nLot 3 \u2013 Fogging\nBidding organisations can apply for all lots within the framework bu",
-   "published": "2026-09-04T15:58:09+01:00",
-   "deadline": "2026-10-05T12:00:00+01:00",
-   "value": 5200000,
-   "region": null,
-   "cpv": [
-    "45261420",
-    "45331210",
-    "45450000",
-    "45453100",
-    "50700000",
-    "71315300",
-    "71315400",
-    "90920000",
-    "90921000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/084034-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-084021-2026",
-   "source": "Find a Tender",
-   "title": "ITT for Survey and Treament for Timber Preservation Framework",
-   "buyer": "Dundee City Council",
-   "description": "This procurement process is for the framework contract for a multi- supplier framework to carry out dry/wet rot survey and treatment, infestation (woodworm) and chemical mould removal on domestic properties.\nDundee City Council is seeking to appoint a minimum of 3 and a maximum of 5  competent contractors for each lot within the framework. The lots for this framework are as follows-\nLot 1 \u2013 Surface treatments for condensation, dampness and mould (excluding fogging)\nLot 2 \u2013 Invasive treatments and investigation\nLot 3 \u2013 Fogging\nBidding organisations can apply for all lots within the framework bu",
-   "published": "2026-09-04T15:47:34+01:00",
-   "deadline": "2026-10-05T12:00:00+01:00",
-   "value": 5200000,
-   "region": null,
-   "cpv": [
-    "45261420",
-    "45331210",
-    "45450000",
-    "45453100",
-    "50700000",
-    "71315300",
-    "71315400",
-    "90920000",
-    "90921000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/084021-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-084016-2026",
-   "source": "Find a Tender",
-   "title": "ITT for Survey and Treament for Timber Preservation Framework",
-   "buyer": "Dundee City Council",
-   "description": "This procurement process is for the framework contract for a multi- supplier framework to carry out dry/wet rot survey and treatment, infestation (woodworm) and chemical mould removal on domestic properties.\nDundee City Council is seeking to appoint a minimum of 3 and a maximum of 5  competent contractors for each lot within the framework. The lots for this framework are as follows-\nLot 1 \u2013 Surface treatments for condensation, dampness and mould (excluding fogging)\nLot 2 \u2013 Invasive treatments and investigation\nLot 3 \u2013 Fogging\nBidding organisations can apply for all lots within the framework bu",
-   "published": "2026-09-04T15:37:04+01:00",
-   "deadline": "2026-10-05T12:00:00+01:00",
-   "value": 5200000,
-   "region": null,
-   "cpv": [
-    "45261420",
-    "45331210",
-    "45450000",
-    "45453100",
-    "50700000",
-    "71315300",
-    "71315400",
-    "90920000",
-    "90921000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/084016-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-083414-2026",
-   "source": "Find a Tender",
-   "title": "Post Diagnostic Support - Dementia Link Workers",
-   "buyer": "Argyll and Bute Council",
-   "description": "Provision of Post Diagnostic Support for people with Dementia via Link Workers",
-   "published": "2026-09-03T11:58:28+01:00",
-   "deadline": "2026-10-05T12:00:00+01:00",
-   "value": 1299264,
-   "region": null,
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/083414-2026",
-   "first_seen": "2026-10-02T06:18:37.923737+00:00"
-  },
-  {
-   "id": "FTS-082401-2026",
-   "source": "Find a Tender",
-   "title": "Net Zero - Retrofit Works (Externals) - Design and Build",
-   "buyer": "Renfrewshire Council",
-   "description": "This Contract is for the Design, Build and Delivery of retrofit external works to existing wholly owned and mixed-tenure residential properties throughout Renfrewshire.  The primary objective is to enhance the energy efficiency and thermal performance of the housing stock.\nFor the initial contract term of 2 years, the Council will provide the design information, using the designs submitted by ECD Architects who were contracted to provide this service.  The appointed Contractor will be responsible for the supply and installation of the works only during the initial term. From the commencement o",
-   "published": "2026-08-31T09:35:54+01:00",
-   "deadline": "2026-10-05T12:00:00+01:00",
-   "value": 135000000.0,
-   "region": null,
-   "cpv": [
-    "45210000",
-    "45260000",
-    "45320000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/082401-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-082366-2026",
-   "source": "Find a Tender",
-   "title": "EV Charging Infrastructure",
-   "buyer": "University of Dundee",
-   "description": "The University require a new Contract for the Supply and maintenance of fully funded EV Charger Infrastructure. The current charge points require upgrading, due to their age and they are out of manufactures warranty. This new Contract opportunity will be for - Supply, Installation and Maintenance of Electric Vehicle Charging Equipment and Associated Items.",
-   "published": "2026-08-28T16:53:05+01:00",
-   "deadline": "2026-10-05T12:00:00+01:00",
-   "value": 160000,
-   "region": null,
-   "cpv": [
-    "31158000",
-    "31158100",
-    "31600000",
-    "31610000",
-    "34144900",
-    "34900000",
-    "45311000",
-    "45317000",
-    "50000000",
-    "50230000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/082366-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-081438-2026",
-   "source": "Find a Tender",
-   "title": "Operations and Engineering Services Framework",
-   "buyer": "Caledonian Sleeper Limited",
-   "description": "Caledonian Sleeper Limited (CSL) is seeking to establish a multi-supplier Operational Support Engineering Framework to provide a compliant, agile and cost-effective route for the procurement of reactive, planned and minor engineering and operational support services required across CSL operations.",
-   "published": "2026-08-26T15:20:36+01:00",
-   "deadline": "2026-10-05T16:00:00+01:00",
-   "value": 800000,
-   "region": null,
-   "cpv": [
-    "33180000",
-    "45315100",
-    "45330000",
-    "71336000",
-    "72300000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/081438-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-084194-2026",
-   "source": "Find a Tender",
-   "title": "Trafalgar Housing Association - Gutter Cleaning & Roof Anchor Testing",
-   "buyer": "Trafalgar Housing Association",
-   "description": "Periodic gutter cleaning, roof inspections and roof anchor testing plus associated minor repairs.",
-   "published": "2026-09-07T09:18:41+01:00",
-   "deadline": "2026-10-05T17:00:00+01:00",
-   "value": 60000,
-   "region": null,
-   "cpv": [
-    "44112400",
-    "45261300",
-    "45261320",
-    "45261920",
-    "50000000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/084194-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-084056-2026",
-   "source": "Find a Tender",
-   "title": "Trafalgar Housing Association - Gutter Cleaning & Roof Anchor Testing",
-   "buyer": "Trafalgar Housing Association",
-   "description": "Periodic gutter cleaning, roof inspections and roof anchor testing plus associated minor repairs.",
-   "published": "2026-09-04T16:11:12+01:00",
-   "deadline": "2026-10-05T17:00:00+01:00",
-   "value": 60000,
-   "region": null,
-   "cpv": [
-    "44112400",
-    "45261300",
-    "45261320",
-    "45261920",
-    "50000000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/084056-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "CF-16e12225-5025-45a5-a0e4-57f7f46cbbc5",
-   "source": "Contracts Finder",
-   "title": "GB-London: Consultancy Required for LondonEnergy Future Transport Yard Feasibility",
-   "buyer": "LondonEnergy Ltd",
-   "description": "LEL must establish whether the Hawley Road site can be retained or, if not, identify a suitable replacement capable of meeting current and future operational requirements before the lease expires in February 2030. \r\n      \r\n       \r\n      \r\n      The key question is what constitutes the most deliverable, operationally suitable and value-for-money solution for providing LEL&#039;s transport yard facilities beyond February 2030. \r\n      \r\n       \r\n      \r\n      LEL will therefore appoint a suitably qualified consultant to undertake a feasibility study and strategic options appraisal, assessing s",
-   "published": "2026-09-22T12:50:04+01:00",
-   "deadline": "2026-10-06T00:00:00+01:00",
-   "value": 100000,
-   "region": "London",
-   "cpv": [
-    "79314000 71241000 73420000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/16e12225-5025-45a5-a0e4-57f7f46cbbc5",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
   {
    "id": "FTS-084826-2026",
    "source": "Find a Tender",
@@ -1545,6 +1235,25 @@
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
   },
   {
+   "id": "CF-a4fa2eee-a32c-4eab-9712-8d406440b770",
+   "source": "Contracts Finder",
+   "title": "A66 Northern Trans Pennine Project(NTP) - Schemes 1, 2 Traffic Signals Package",
+   "buyer": "KIER TRANSPORTATION LIMITED",
+   "description": "Kier Infrastructure are looking to engage experienced and qualified contractors to carry out works pertaining to the Traffic Signals package on the A66 Northern Trans-Pennine scheme (Schemes 1 &amp; 2). \r\n\r\nThe A66 upgrade will see single-lane sections of the 80km stretch between the M6 and the A1 made into dual carriageway, while key junctions will be improved. The A66 project is to be delivered in collaboration by three Tier 1 contractors, Balfour Beatty, Kier and Keltbray. The A66 project is to be delivered in collaboration by three Tier 1 contractors, Balfour Beatty, Kier and Keltbray.\r\n\r\n",
+   "published": "2026-10-05T13:40:39+01:00",
+   "deadline": "2026-10-23T17:00:00+01:00",
+   "value": 400000,
+   "region": "North West",
+   "cpv": [
+    "45316210 45316212"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/a4fa2eee-a32c-4eab-9712-8d406440b770",
+   "first_seen": "2026-10-06T06:18:47.205870+00:00"
+  },
+  {
    "id": "CF-e2d9dc88-6503-4899-a4b0-76f0a5c96ffe",
    "source": "Contracts Finder",
    "title": "H&amp;C1025 Sexual Health Services",
@@ -2071,6 +1780,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/091498-2026",
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
+  },
+  {
+   "id": "FTS-093968-2026",
+   "source": "Find a Tender",
+   "title": "Provision of Individual, bespoke Community Packages of Care for Children and Young People aged 0 - 18 years with Continuing Care Needs to enable Children and Young People to be cared for in their home",
+   "buyer": "East of England Community Health and Care NHS Trust",
+   "description": "East of England Community Health and Care NHS Trust (EEC) is establishing a framework agreement for the delivery of individual, bespoke community packages of care for children and young People aged 0 - 18 years with continuing care needs to enable children and young people to be cared for in their home. \nThe framework will be established under the Provider Selection Regime (PSR)\nPackages of care provided for children and young people in the home will be carried out by registered and non-registered healthcare professionals (\"Care Workers\") and will involve the provision of some or all the follo",
+   "published": "2026-10-05T16:11:42+01:00",
+   "deadline": "2026-11-16T00:00:00+00:00",
+   "value": 2400000,
+   "region": null,
+   "cpv": [
+    "85100000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/093968-2026",
+   "first_seen": "2026-10-06T06:18:47.205870+00:00"
   },
   {
    "id": "FTS-092466-2026",
@@ -3832,7 +3560,7 @@
    "id": "CF-17f54304-4783-4278-a0b6-6a3f050c5b36",
    "source": "Contracts Finder",
    "title": "Construction Professional Services DPS",
-   "buyer": "Crown Commercial Service",
+   "buyer": "Government Commercial Agency",
    "description": "The RM6242 DPS will be organised into distinct categories so:\r\nSuppliers can indicate all elements relevant to their service offering, and Customers can filter the elements to produce a shortlist of appointed suppliers to invite to a competition.\r\n\r\nThe four (4) distinct categories comprise of:\r\n\r\nTechnical & Professional Services\r\nIndustry Sector\r\nGeographical Regions\r\nAdditional Capability \r\n\r\nWithin these filters are further sub-filters that agencies can select to demonstrate the level of services they can provide.",
    "published": "2021-09-30T09:36:46+01:00",
    "deadline": "2029-02-23T23:59:00+00:00",
