@@ -1,101 +1,6 @@
 {
- "generated": "2026-10-06T06:18:47.205870+00:00",
+ "generated": "2026-10-07T06:17:53.468301+00:00",
  "tenders": [
-  {
-   "id": "FTS-084826-2026",
-   "source": "Find a Tender",
-   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 4 Round 12 - Onboarding",
-   "buyer": "London Borough of Newham",
-   "description": "This is an opening of the Onboarding Round 12 for Category 4 - \tAddressing resource inequality\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid.\nA new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closing. Please note from time to",
-   "published": "2026-09-08T12:03:21+01:00",
-   "deadline": "2026-10-06T12:00:00+01:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/084826-2026",
-   "first_seen": "2026-10-02T06:18:37.923737+00:00"
-  },
-  {
-   "id": "FTS-084821-2026",
-   "source": "Find a Tender",
-   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 3 Round 13 - Onboarding",
-   "buyer": "London Borough of Newham",
-   "description": "This is an opening of the Onboarding Round 13 for Category 3 - \tCommunity projects for health and wellbeing\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid.\nA new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closing.\nPlease note",
-   "published": "2026-09-08T11:59:04+01:00",
-   "deadline": "2026-10-06T12:00:00+01:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/084821-2026",
-   "first_seen": "2026-10-02T06:18:37.923737+00:00"
-  },
-  {
-   "id": "FTS-084820-2026",
-   "source": "Find a Tender",
-   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 2 Round 13 - Onboarding",
-   "buyer": "London Borough of Newham",
-   "description": "This is an opening of the Onboarding Round 13 for Category 2 - \tSpecialist all-age weight management and movement service\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid. A new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closin",
-   "published": "2026-09-08T11:57:31+01:00",
-   "deadline": "2026-10-06T12:00:00+01:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/084820-2026",
-   "first_seen": "2026-10-02T06:18:37.923737+00:00"
-  },
-  {
-   "id": "FTS-084818-2026",
-   "source": "Find a Tender",
-   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 1 Round 13 - Onboarding",
-   "buyer": "London Borough of Newham",
-   "description": "This is an opening of the Onboarding Round 13 for Category 1 - \tSpecialist smoking cessation service.\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid.\nA new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closing. Please note from ",
-   "published": "2026-09-08T11:55:02+01:00",
-   "deadline": "2026-10-06T12:00:00+01:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/084818-2026",
-   "first_seen": "2026-10-02T06:18:37.923737+00:00"
-  },
-  {
-   "id": "FTS-080758-2026",
-   "source": "Find a Tender",
-   "title": "Special Allocations Service in Buckinghamshire",
-   "buyer": "NHS Thames Valley Integrated Care Board",
-   "description": "Thames Valley Integrated Care Board (ICB) is recommissioning the following service, with a proposed contract commencement date of 1 April 2027:\n\u2022 Special Allocations Service (SAS) provision for Buckinghamshire (sub-ICB area) - currently supporting approximately 30-35 patients.\nThe contract term is 5 years, with the option to extend for up to a further 5 years.\nThis exercise is being carried out by NHS South, Central and West Commissioning Support Unit (SCW) on behalf of the Commissioner (the ICB).",
-   "published": "2026-08-25T11:25:57+01:00",
-   "deadline": "2026-10-06T12:00:00+01:00",
-   "value": 463920,
-   "region": null,
-   "cpv": [
-    "85121100"
-   ],
-   "categories": [
-    "Teleradiology"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/080758-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
   {
    "id": "FTS-085722-2026",
    "source": "Find a Tender",
@@ -913,6 +818,25 @@
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
   },
   {
+   "id": "CF-64a43aa2-d0e2-4988-9792-bdb6052db610",
+   "source": "Contracts Finder",
+   "title": "Manchester International Airport - Shotcrete works",
+   "buyer": "Kier Transportation - CP7 NWC",
+   "description": "The planned introduction of longer train services to the Airport in response to future demand growth will mean that double stacking arrangements of trains as currently used will no longer be viable.Through the project&#039;s Delivery Steering Group, Northern and TransPennine Express have carried out analysis which has identified that additional platform capacity is needed at the airport in order to realise the full benefit of longer train services serving the airport.\r\n      \r\n      The scheme is part of a package of proposed measures in the Manchester area that are being designed/planned to b",
+   "published": "2026-10-06T09:00:28+01:00",
+   "deadline": "2026-10-16T17:00:00+01:00",
+   "value": 500000,
+   "region": "North West,Any region",
+   "cpv": [
+    "44114100 45262310 44114210 45234000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/64a43aa2-d0e2-4988-9792-bdb6052db610",
+   "first_seen": "2026-10-07T06:17:53.468301+00:00"
+  },
+  {
    "id": "CF-12f64315-e80b-4070-8d3f-08816bd8e838",
    "source": "Contracts Finder",
    "title": "Repair Works to Heritage Site - Ellesmere Yard",
@@ -1709,6 +1633,44 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/089252-2026",
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
+  },
+  {
+   "id": "FTS-094279-2026",
+   "source": "Find a Tender",
+   "title": "Seafood Expo Global 2027 Stand Design and Build",
+   "buyer": "Scottish Enterprise",
+   "description": "The purpose of this Invitation to Tender (ITT) is to appoint a single supplier to deliver stand design, build (construction) and dismantling at\nSeafood Expo Global 2027 as set out in the ITT, to Scottish Enterprise.",
+   "published": "2026-10-06T13:51:31+01:00",
+   "deadline": "2026-11-05T11:00:00+00:00",
+   "value": 242000.0,
+   "region": null,
+   "cpv": [
+    "79952000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/094279-2026",
+   "first_seen": "2026-10-07T06:17:53.468301+00:00"
+  },
+  {
+   "id": "CF-40c4facb-d342-4f6d-a3d6-0a1ac6a31a03",
+   "source": "Contracts Finder",
+   "title": "Conversion of Storm Shelter into Public Convenience Facilities and Refurbishment of Accessible Toilet Accommodation, Blenheim Gardens, Minehead",
+   "buyer": "Minehead Town Council",
+   "description": "Minehead Town Council invites suitably qualified and experienced contractors to submit tenders for the conversion of the former storm shelter within Blenheim Gardens, Minehead into modern public convenience facilities together with the refurbishment and conversion of a separate toilet building within the gardens to provide fully accessible toilet accommodation and associated storage facilities.\r\n\r\nThe site occupies a prominent position within Blenheim Gardens, Minehead&#039;s principal public open space, and lies within the Wellington Square Conservation Area. The Council wishes to deliver att",
+   "published": "2026-10-06T12:01:39+01:00",
+   "deadline": "2026-11-06T12:00:00+00:00",
+   "value": 200000,
+   "region": "",
+   "cpv": [
+    "45211310"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/40c4facb-d342-4f6d-a3d6-0a1ac6a31a03",
+   "first_seen": "2026-10-07T06:17:53.468301+00:00"
   },
   {
    "id": "FTS-086589-2026",
@@ -3405,25 +3367,6 @@
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
   },
   {
-   "id": "CF-174e24c2-a764-4e89-b40d-7f41afe7ac13",
-   "source": "Contracts Finder",
-   "title": "Dynamic Purchasing System for Commercial Retrofit",
-   "buyer": "PROCURE PLUS HOLDINGS LIMITED",
-   "description": "Procure Plus are a value focused, not for profit company that specialises in the procurement of goods and services related to both the new build, repair, and maintenance of social housing.\r\n\r\nProcure Plus wishes to enter into an agreement for commercial (non-domestic) retrofit consultancy and works. \r\n\r\nThe DPS is intended for use by the wider public sector.",
-   "published": "2023-11-07T10:13:56Z",
-   "deadline": "2029-02-23T17:00:00+00:00",
-   "value": 215000000,
-   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
-   "cpv": [
-    "45300000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/174e24c2-a764-4e89-b40d-7f41afe7ac13",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
-  {
    "id": "CF-3f58d7bc-0946-47c0-bd61-16cf69b5f1be",
    "source": "Contracts Finder",
    "title": "Dynamic Purchasing System for Retrofit Programme Delivery Services",
@@ -3440,6 +3383,25 @@
     "Construction"
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/3f58d7bc-0946-47c0-bd61-16cf69b5f1be",
+   "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "CF-174e24c2-a764-4e89-b40d-7f41afe7ac13",
+   "source": "Contracts Finder",
+   "title": "Dynamic Purchasing System for Commercial Retrofit",
+   "buyer": "PROCURE PLUS HOLDINGS LIMITED",
+   "description": "Procure Plus are a value focused, not for profit company that specialises in the procurement of goods and services related to both the new build, repair, and maintenance of social housing.\r\n\r\nProcure Plus wishes to enter into an agreement for commercial (non-domestic) retrofit consultancy and works. \r\n\r\nThe DPS is intended for use by the wider public sector.",
+   "published": "2023-11-07T10:13:56Z",
+   "deadline": "2029-02-23T17:00:00+00:00",
+   "value": 215000000,
+   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+   "cpv": [
+    "45300000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/174e24c2-a764-4e89-b40d-7f41afe7ac13",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
   },
   {
