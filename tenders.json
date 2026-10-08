@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T06:17:53.468301+00:00",
+ "generated": "2026-10-08T06:20:36.719660+00:00",
  "tenders": [
   {
    "id": "FTS-085722-2026",
@@ -331,23 +331,23 @@
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
   },
   {
-   "id": "CF-bc6e7e9c-b5b5-433b-8804-931110e20565",
+   "id": "CF-7a6d110b-7a7d-4241-bdda-3b842c0cf13d",
    "source": "Contracts Finder",
-   "title": "Ascent Homes - Coulson Park - Roads &amp; Sewers",
-   "buyer": "Advance Northumberland Limited",
-   "description": "Advance Northumberland (Developments) Limited, trading as Advance Northumberland (Developments) Ltd requires a Roads &amp; Sewers sub-contractor for our new build housing development consisting of 57no new build plots in Coulson Park, Ashington, Northumberland.\r\nAll tender documentation can be found on the ProContract Portal",
-   "published": "2026-09-11T11:55:13+01:00",
-   "deadline": "2026-10-09T17:00:00+01:00",
-   "value": 0,
+   "title": "New Mental Health Emergency Department Unit at Luton Centre for Mental Health",
+   "buyer": "East London NHS Foundation Trust",
+   "description": "New build works for New Mental Health Emergency Department Unit at Luton Centre for Mental Health as indicated in the tendering specification.",
+   "published": "2026-10-07T09:32:17+01:00",
+   "deadline": "2026-10-12T12:00:00+01:00",
+   "value": 1700000,
    "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
    "cpv": [
-    "44000000 45000000"
+    "45210000"
    ],
    "categories": [
     "Construction"
    ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/bc6e7e9c-b5b5-433b-8804-931110e20565",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/7a6d110b-7a7d-4241-bdda-3b842c0cf13d",
+   "first_seen": "2026-10-08T06:20:36.719660+00:00"
   },
   {
    "id": "CF-fa81dcd5-0de2-4b93-9896-c7ef19b62230",
@@ -367,6 +367,25 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/fa81dcd5-0de2-4b93-9896-c7ef19b62230",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "FTS-094529-2026",
+   "source": "Find a Tender",
+   "title": "New Mental Health Emergency Department Unit at Luton Centre for Mental Health",
+   "buyer": "East London NHS Foundation Trust",
+   "description": "New build works for New Mental Health Emergency Department Unit at Luton Centre for Mental Health as indicated in the tendering specification.",
+   "published": "2026-10-07T09:52:23+01:00",
+   "deadline": "2026-10-12T12:00:00+01:00",
+   "value": 1700000.0,
+   "region": null,
+   "cpv": [
+    "45210000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/094529-2026",
+   "first_seen": "2026-10-08T06:20:36.719660+00:00"
   },
   {
    "id": "FTS-086310-2026",
@@ -856,6 +875,25 @@
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
   },
   {
+   "id": "CF-94a2090b-0be7-4d35-b5c1-a595c4cc306e",
+   "source": "Contracts Finder",
+   "title": "Luton Centre for Mental Health - Expansion of Section 136 Unit at Jade Ward",
+   "buyer": "East London NHS Foundation Trust",
+   "description": "Refurbishment/modernisation works for expansion to Section 136 Unit at Jade Ward, Luton Centre for Mental Health as indicated in the tendering specification.",
+   "published": "2026-10-07T09:57:09+01:00",
+   "deadline": "2026-10-19T12:00:00+01:00",
+   "value": 525000,
+   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+   "cpv": [
+    "45453100 45210000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/94a2090b-0be7-4d35-b5c1-a595c4cc306e",
+   "first_seen": "2026-10-08T06:20:36.719660+00:00"
+  },
+  {
    "id": "CF-4095602f-0317-4eef-b069-1c051fca4c03",
    "source": "Contracts Finder",
    "title": "Drummond Community Centre Refurbishment",
@@ -873,6 +911,25 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/4095602f-0317-4eef-b069-1c051fca4c03",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "FTS-094555-2026",
+   "source": "Find a Tender",
+   "title": "Luton Centre for Mental Health \u2013 Expansion of Section 136 Unit at Jade Ward",
+   "buyer": "East London NHS Foundation Trust",
+   "description": "Refurbishment/modernisation works for expansion to Section 136 Unit at Jade Ward, Luton Centre for Mental Health as indicated in the tendering specification.",
+   "published": "2026-10-07T10:16:42+01:00",
+   "deadline": "2026-10-19T12:00:00+01:00",
+   "value": 525000.0,
+   "region": null,
+   "cpv": [
+    "45210000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/094555-2026",
+   "first_seen": "2026-10-08T06:20:36.719660+00:00"
   },
   {
    "id": "FTS-088301-2026",
@@ -1057,6 +1114,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/089255-2026",
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
+  },
+  {
+   "id": "CF-47c7022c-d9fb-4faf-a1f3-101d87508099",
+   "source": "Contracts Finder",
+   "title": "Ascent Homes - Coulson Park - Roads &amp; Sewers",
+   "buyer": "Advance Northumberland Limited",
+   "description": "Advance Northumberland (Developments) Limited, trading as Advance Northumberland (Developments) Ltd requires a Roads &amp; Sewers sub-contractor for our new build housing development consisting of 57no new build plots in Coulson Park, Ashington, Northumberland.\r\nAll tender documentation can be found on the ProContract Portal",
+   "published": "2026-09-11T11:55:13+01:00",
+   "deadline": "2026-10-21T23:59:00+01:00",
+   "value": 0,
+   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+   "cpv": [
+    "44000000 45000000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/47c7022c-d9fb-4faf-a1f3-101d87508099",
+   "first_seen": "2026-10-08T06:20:36.719660+00:00"
   },
   {
    "id": "FTS-089780-2026",
@@ -1541,6 +1617,25 @@
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
   },
   {
+   "id": "CF-6c9bc3b0-a6c1-4686-982d-a8b85fe75838",
+   "source": "Contracts Finder",
+   "title": "TD2340 - Framework for Highways Services",
+   "buyer": "Derby City Council",
+   "description": "The Council is seeking to establish a multi-supplier Highways Framework Agreement to support the delivery of highway maintenance, improvement, construction, specialist services, materials supply, plant hire and associated activities across the highway network and related infrastructure.\r\n\r\nThe Framework will provide a compliant and flexible route to market for planned and reactive works and services and will be divided into the following 11 lots:\r\n\r\nLot 1 - Road Markings &amp; High Friction Surfacing\r\nLot 2 - Road Restraint Systems\r\nLot 3 - Temporary Traffic Management\r\nLot 4 - Traffic Signals",
+   "published": "2026-10-07T09:15:03+01:00",
+   "deadline": "2026-11-02T12:00:00+00:00",
+   "value": 72000000,
+   "region": "East Midlands",
+   "cpv": [
+    "45233000 45233100 45233110 45233120 45233121 45233122 45233123 45233124 45233125 45233126 45233127 45233128 45233129 45233130 45233131 45233139 45233140 45233141 45233142 45233144 45233150 45233160 45233161 45233162 45233200 45233210 45233220 45233221 45233222 45233223 45233224 45233225 45233226 45233227 45233228 45233229 45233250 45233251 45233252 45233253 45233260 45233261 45233262 45233270 45233280 45233290 45233291 45233292 45233293 45233294 45233300 45233310 45233320 45233330 45233340 45316000 45316100 45316110 45316200 45316210 45316211 45316212 45316213 45316220 45316230 45500000 45510000 45520000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/6c9bc3b0-a6c1-4686-982d-a8b85fe75838",
+   "first_seen": "2026-10-08T06:20:36.719660+00:00"
+  },
+  {
    "id": "FTS-093513-2026",
    "source": "Find a Tender",
    "title": "Supply, Delivery and Installation of Office Furniture",
@@ -1633,6 +1728,82 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/089252-2026",
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
+  },
+  {
+   "id": "FTS-094667-2026",
+   "source": "Find a Tender",
+   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 4 Round 13 - Onboarding",
+   "buyer": "London Borough of Newham",
+   "description": "This is an opening of the Onboarding Round 13 for Category 4 - Addressing resource inequality\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid.\nA new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closing. Please note from time to ",
+   "published": "2026-10-07T11:56:29+01:00",
+   "deadline": "2026-11-04T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "85000000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/094667-2026",
+   "first_seen": "2026-10-08T06:20:36.719660+00:00"
+  },
+  {
+   "id": "FTS-094665-2026",
+   "source": "Find a Tender",
+   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 3 Round 14 - Onboarding",
+   "buyer": "London Borough of Newham",
+   "description": "This is an opening of the Onboarding Round 14 for Category 3 - Community projects for health and wellbeing\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid.\nA new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closing.\nPlease note ",
+   "published": "2026-10-07T11:55:54+01:00",
+   "deadline": "2026-11-04T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "85000000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/094665-2026",
+   "first_seen": "2026-10-08T06:20:36.719660+00:00"
+  },
+  {
+   "id": "FTS-094664-2026",
+   "source": "Find a Tender",
+   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 2 Round 14 - Onboarding",
+   "buyer": "London Borough of Newham",
+   "description": "This is an opening of the Onboarding Round 14 for Category 2 - Specialist all-age weight management and movement service\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid. A new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closing",
+   "published": "2026-10-07T11:55:28+01:00",
+   "deadline": "2026-11-04T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "85000000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/094664-2026",
+   "first_seen": "2026-10-08T06:20:36.719660+00:00"
+  },
+  {
+   "id": "FTS-094663-2026",
+   "source": "Find a Tender",
+   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 1 Round 14 - Onboarding",
+   "buyer": "London Borough of Newham",
+   "description": "This is an opening of the Onboarding Round 14 for Category 1 - Specialist smoking cessation service.\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid.\nA new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closing. Please note from t",
+   "published": "2026-10-07T11:54:39+01:00",
+   "deadline": "2026-11-04T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "85000000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/094663-2026",
+   "first_seen": "2026-10-08T06:20:36.719660+00:00"
   },
   {
    "id": "FTS-094279-2026",
@@ -1744,6 +1915,25 @@
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
   },
   {
+   "id": "CF-8d56f1ee-df7a-4736-8be1-4d8bdfa276e1",
+   "source": "Contracts Finder",
+   "title": "CA18526 - ITT for Flitcham Chimney Removal and Associated Electrical Works",
+   "buyer": "Diocese of Norwich Education and Academies Trust",
+   "description": "The Diocese of Norwich Education Services Company (DoNESC) is carrying out a procurement exercise on the behalf of Flitcham Church of England Primary Academy to procure the chimney removal and associated electrical works.\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18526.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18526 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
+   "published": "2026-10-07T11:06:10+01:00",
+   "deadline": "2026-11-12T17:00:00+00:00",
+   "value": 25000,
+   "region": "Any region",
+   "cpv": [
+    "45262700"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/8d56f1ee-df7a-4736-8be1-4d8bdfa276e1",
+   "first_seen": "2026-10-08T06:20:36.719660+00:00"
+  },
+  {
    "id": "FTS-093968-2026",
    "source": "Find a Tender",
    "title": "Provision of Individual, bespoke Community Packages of Care for Children and Young People aged 0 - 18 years with Continuing Care Needs to enable Children and Young People to be cared for in their home",
@@ -1819,6 +2009,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/075813-2026",
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
+  },
+  {
+   "id": "CF-ae5b9b25-7053-418b-9c38-e5290c1e9922",
+   "source": "Contracts Finder",
+   "title": "Street Light Repair Project",
+   "buyer": "Billing Parish Council",
+   "description": "Billing Parish Council invites tenders for repair, refurbishment and replacement works to its street lighting network comprising 91 lighting assets, including standard steel columns, Victorian heritage columns, post-top lanterns and bracket-mounted lanterns.\r\n\r\nThe works comprise repairs, refurbishment and replacement items identified within the Council&#039;s electrical and structural assessment. This may include column replacement, lantern replacement, photocell replacement, rewiring, cable repairs, bracket repairs, access doors, column straightening, concrete collars, earth safety labels an",
+   "published": "2026-10-07T13:36:41+01:00",
+   "deadline": "2026-12-31T12:00:00+00:00",
+   "value": 1,
+   "region": "",
+   "cpv": [
+    "34928500"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/ae5b9b25-7053-418b-9c38-e5290c1e9922",
+   "first_seen": "2026-10-08T06:20:36.719660+00:00"
   },
   {
    "id": "FTS-093151-2026",
@@ -1936,6 +2145,25 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/2d5d678b-76dd-49d4-a14c-f5f88231f56e",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "FTS-094793-2026",
+   "source": "Find a Tender",
+   "title": "Public Health Pharmacy Pseudo-Dynamic Purchasing System (PDPS) Round 9",
+   "buyer": "London Borough of Newham",
+   "description": "This notice is in relation to the publish of the onboarding round of the Public Health Pharmacy Pseudo-Dynamic Purchasing System (PDPS) (Round 9).\nThe service specification set out London Borough of Newham's (LBN) requirements in respect of the provision of public health smoking cessation, sexual health (condom provision and STI screening), needle exchange, naloxone provision and supervised consumption services.  \nOver the life of the Pseudo- Dynamic Purchasing System and in response to identified need and/or policy developments, the Council - in consultation with providers - may add services ",
+   "published": "2026-10-07T14:20:25+01:00",
+   "deadline": "2027-02-01T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "85000000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/094793-2026",
+   "first_seen": "2026-10-08T06:20:36.719660+00:00"
   },
   {
    "id": "CF-670f3692-293a-46e8-9022-c4a0f5098482",
