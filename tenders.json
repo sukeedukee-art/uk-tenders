@@ -1,44 +1,6 @@
 {
- "generated": "2026-10-08T06:20:36.719660+00:00",
+ "generated": "2026-10-09T06:20:05.674853+00:00",
  "tenders": [
-  {
-   "id": "FTS-085722-2026",
-   "source": "Find a Tender",
-   "title": "2026 LOT 2 REOPENING The Provision of Tutoring Services for Children with Medical Needs (CMN) & Special Educational Needs and Disability Framework",
-   "buyer": "Leicestershire County Council",
-   "description": "Leicestershire County Council (\"the Council\") is seeking to recruit new providers to an established Framework Agreement in accordance with the Light-Touch Regime requirements of the Public Contracts Regulations 2015 (SI 2015/102) (PCR 2015) for the purpose of procuring the tutoring services for Children with Special Educational Needs and Disability Framework.",
-   "published": "2026-09-10T10:45:04+01:00",
-   "deadline": "2026-10-08T11:00:00+01:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/085722-2026",
-   "first_seen": "2026-10-02T06:18:37.923737+00:00"
-  },
-  {
-   "id": "CF-fa652020-04b1-4927-9780-c28ea5dc2584",
-   "source": "Contracts Finder",
-   "title": "Provision of Close Quarter Combat systems - RFI/PME",
-   "buyer": "Ministry of Defence",
-   "description": "This request for Information / Preliminary Market Engagement document is for two modular Close Quarter Combat (CQC) training systems for installation within existing training infrastructure.",
-   "published": "2026-09-22T15:49:08+01:00",
-   "deadline": "2026-10-08T23:59:59+01:00",
-   "value": 0,
-   "region": "South East",
-   "cpv": [
-    "44211100 45214800 45216200 80610000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/fa652020-04b1-4927-9780-c28ea5dc2584",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
   {
    "id": "CF-d2b9a92a-5730-4084-a8f4-0ccae1daa78b",
    "source": "Contracts Finder",
@@ -780,6 +742,25 @@
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
   },
   {
+   "id": "CF-83d37637-0fb5-4370-9b4e-53882b62a218",
+   "source": "Contracts Finder",
+   "title": "BBV HS2 MWCC NORTH - Fire Engineer Services",
+   "buyer": "Balfour Beatty Vinci HS2",
+   "description": "BBV is seeking a company to undertake Fire Engineer Services across key MWCC North HS2 assets. \r\n      \r\n      The scope includes design reviews, inspections, compliance assessments, and certification of passive fire protection systems, including fire strategy reviews, compartmentation and fire stopping assessments, site inspections, compliance reporting, and handover support throughout the design and construction phases. Experience delivering fire engineering services on major infrastructure, rail, or similarly complex projects is preferred.",
+   "published": "2026-10-08T08:10:07+01:00",
+   "deadline": "2026-10-16T12:00:00+01:00",
+   "value": 2500000,
+   "region": "Any region",
+   "cpv": [
+    "51700000 45343220 45343100 75251110 45343000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/83d37637-0fb5-4370-9b4e-53882b62a218",
+   "first_seen": "2026-10-09T06:20:05.674853+00:00"
+  },
+  {
    "id": "CF-b0472684-2784-4d0f-855b-ccc800bd6d67",
    "source": "Contracts Finder",
    "title": "T0222 - Provision of Replacement Heating System at Evesham Hospital",
@@ -1175,6 +1156,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/089429-2026",
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
+  },
+  {
+   "id": "CF-f7ac8165-2a79-4b05-826b-372f6fd932db",
+   "source": "Contracts Finder",
+   "title": "CA18531 - Tender 57/2026 - 2G, 3G &amp; Polymeric Sports Surface Assessment, Maintenance &amp; Renovation Works District Wide, 2026/27 to 2027/28",
+   "buyer": "Newry, Mourne and Down District Council (NMD)",
+   "description": "The principal intention is to appoint a Contractor to provide an initial assessment, an annual maintenance program, and to undertake any identified renovation works for each of the 11 artificial sports surface sites Newry, Mourne and Down District Council (NMDDC) currently owns.\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18531.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18531 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
+   "published": "2026-10-08T12:12:22+01:00",
+   "deadline": "2026-10-23T12:00:00+01:00",
+   "value": 120000,
+   "region": "Any region",
+   "cpv": [
+    "77320000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/f7ac8165-2a79-4b05-826b-372f6fd932db",
+   "first_seen": "2026-10-09T06:20:05.674853+00:00"
   },
   {
    "id": "FTS-086384-2026",
@@ -1894,6 +1894,50 @@
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
   },
   {
+   "id": "FTS-095000-2026",
+   "source": "Find a Tender",
+   "title": "Provision of Motor Control Centres, Systems Integration and ICA Services",
+   "buyer": "Scottish Water",
+   "description": "Scottish Water is seeking to establish a multi-supplier Framework Agreement for the provision of Motor Control Centres (MCCs), Instrumentation, Control and Automation (ICA), Systems Integration (SI) and ICA maintenance and support services. The Framework will provide a flexible, scalable and resilient route to market for electrical, control, automation and Operational Technology (OT) requirements across Scottish Water's water and wastewater assets, supporting capital delivery, asset renewal and operational requirements.<br/><br/>The Framework will be divided into three Lots, with multiple supp",
+   "published": "2026-10-08T08:45:17+01:00",
+   "deadline": "2026-11-09T12:00:00+00:00",
+   "value": 140000000.0,
+   "region": null,
+   "cpv": [
+    "31211110",
+    "45310000",
+    "50530000",
+    "50532400",
+    "72212150"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/095000-2026",
+   "first_seen": "2026-10-09T06:20:05.674853+00:00"
+  },
+  {
+   "id": "FTS-094996-2026",
+   "source": "Find a Tender",
+   "title": "Gardeen HA Gas Maintenance 2027",
+   "buyer": "Gardeen Housing Association Ltd",
+   "description": "The work and services to be undertaken comprises the provision of a term maintenance contract for an all-inclusive comprehensive annual inspection, servicing & maintenance contract, with provisional associated replacement works [including boilers, detectors, and associated works] and reporting for approximately 253 domestic and 2 commercial [office] gas central heating installations covering all parts, labour and certification to maintain fully functioning gas fired hot water & heating systems as categorised under the Right to Repair Statutory Scheme in the Employer\u2019s tenanted flats/ houses (w",
+   "published": "2026-10-08T08:32:53+01:00",
+   "deadline": "2026-11-09T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "45331110",
+    "50531100",
+    "50531200"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/094996-2026",
+   "first_seen": "2026-10-09T06:20:05.674853+00:00"
+  },
+  {
    "id": "FTS-091498-2026",
    "source": "Find a Tender",
    "title": "Provision of Temporary Emergency Accommodation (East Lothian Council)",
@@ -1913,6 +1957,31 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/091498-2026",
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
+  },
+  {
+   "id": "FTS-095013-2026",
+   "source": "Find a Tender",
+   "title": "Servicing, Maintenance and Repair of HVAC systems in non-domestic properties MTC 2027-2029",
+   "buyer": "East Renfrewshire Council",
+   "description": "East Renfrewshire Council is inviting tenders, from suitably qualified companies for the provision of a planned service and maintenance of air/ground source heat pumps, air conditioning, extract & ventilation, air handling and all associated components, along with reactive repairs on a Priority Coded P1-P5 24/7 call-out basis plus upgrade and replacement of equipment on an ad-hoc basis where required due to end-of-life or beyond-repair equipment in all ERC commercial sites i.e. everything that is not a home e.g. schools/leisure/family/ community spaces/offices.\nThis procurement will be conduct",
+   "published": "2026-10-08T09:25:53+01:00",
+   "deadline": "2026-11-12T12:00:00+00:00",
+   "value": 1200000,
+   "region": null,
+   "cpv": [
+    "42511110",
+    "45331000",
+    "50000000",
+    "50324100",
+    "50511000",
+    "50532400",
+    "71315410"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/095013-2026",
+   "first_seen": "2026-10-09T06:20:05.674853+00:00"
   },
   {
    "id": "CF-8d56f1ee-df7a-4736-8be1-4d8bdfa276e1",
