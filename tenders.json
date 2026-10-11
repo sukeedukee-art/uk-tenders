@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T06:17:57.494873+00:00",
+ "generated": "2026-10-11T06:18:29.463238+00:00",
  "tenders": [
   {
    "id": "CF-7a6d110b-7a7d-4241-bdda-3b842c0cf13d",
@@ -4690,25 +4690,6 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/abdbdad4-5f2b-4b77-8ea9-80674df694d0",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
-  {
-   "id": "FTS-076323-2026",
-   "source": "Find a Tender",
-   "title": "Innovative Platform for Home Based Services",
-   "buyer": "London Borough of Richmond Upon Thames",
-   "description": "The London Borough of Richmond Upon Thames (the \"Authority\") is inviting Tenders from suitably experienced and qualified providers for the Innovative Platform for Homebased Services (\"The Platform\") for the provision of Domiciliary Care, Homecare Reablement and Live-in Services. The platform commenced on 30th January 2023 and will be open for an initial period of 10 years.\nThe Authority is conducting this tendering exercise in accordance with the Light Touch Regime (LTR) as set out in the Public Contract Regulations (PCR) 2015 (or any amendment or re-enactment thereof) and in compliance with t",
-   "published": "2026-08-11T15:04:56+01:00",
-   "deadline": "2032-06-29T12:00:00+01:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/076323-2026",
-   "first_seen": "2026-10-02T06:18:37.923737+00:00"
   },
   {
    "id": "CF-4318df33-7ce6-4c0f-87a9-2a2e834d606d",
