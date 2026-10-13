@@ -1,237 +1,6 @@
 {
- "generated": "2026-10-12T06:23:06.311279+00:00",
+ "generated": "2026-10-13T06:22:18.447083+00:00",
  "tenders": [
-  {
-   "id": "CF-7a6d110b-7a7d-4241-bdda-3b842c0cf13d",
-   "source": "Contracts Finder",
-   "title": "New Mental Health Emergency Department Unit at Luton Centre for Mental Health",
-   "buyer": "East London NHS Foundation Trust",
-   "description": "New build works for New Mental Health Emergency Department Unit at Luton Centre for Mental Health as indicated in the tendering specification.",
-   "published": "2026-10-07T09:32:17+01:00",
-   "deadline": "2026-10-12T12:00:00+01:00",
-   "value": 1700000,
-   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
-   "cpv": [
-    "45210000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/7a6d110b-7a7d-4241-bdda-3b842c0cf13d",
-   "first_seen": "2026-10-08T06:20:36.719660+00:00"
-  },
-  {
-   "id": "CF-fa81dcd5-0de2-4b93-9896-c7ef19b62230",
-   "source": "Contracts Finder",
-   "title": "CA18408 - Mental Health Emergency Department (MH ED)",
-   "buyer": "Avon and Wiltshire Mental Health Partnership NHS trust",
-   "description": "Tender to undertake building works to remodel existing estate to provide a new Mental Health ED department.\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18408.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18408 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
-   "published": "2026-09-02T13:30:25+01:00",
-   "deadline": "2026-10-12T12:00:00+01:00",
-   "value": 2500000,
-   "region": "Any region",
-   "cpv": [
-    "45215140 45215100 45453000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/fa81dcd5-0de2-4b93-9896-c7ef19b62230",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
-  {
-   "id": "FTS-094529-2026",
-   "source": "Find a Tender",
-   "title": "New Mental Health Emergency Department Unit at Luton Centre for Mental Health",
-   "buyer": "East London NHS Foundation Trust",
-   "description": "New build works for New Mental Health Emergency Department Unit at Luton Centre for Mental Health as indicated in the tendering specification.",
-   "published": "2026-10-07T09:52:23+01:00",
-   "deadline": "2026-10-12T12:00:00+01:00",
-   "value": 1700000.0,
-   "region": null,
-   "cpv": [
-    "45210000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/094529-2026",
-   "first_seen": "2026-10-08T06:20:36.719660+00:00"
-  },
-  {
-   "id": "FTS-086310-2026",
-   "source": "Find a Tender",
-   "title": "Festive Lighting for Stirling City Centre",
-   "buyer": "Stirling Council",
-   "description": "Stirling Council is seeking to appoint a suitably qualified Contractor to provide the storage, inspection, testing, maintenance, installation, commissioning, removal and repair of festive lighting throughout Stirling City Centre.",
-   "published": "2026-09-11T11:25:29+01:00",
-   "deadline": "2026-10-12T12:00:00+01:00",
-   "value": 306000,
-   "region": null,
-   "cpv": [
-    "45316100",
-    "50232000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/086310-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-086221-2026",
-   "source": "Find a Tender",
-   "title": "HSHA \u2013 Responsive Maintenance, Void Property Works, Roofing and Drainage",
-   "buyer": "Hanover (Scotland) Housing Association Ltd",
-   "description": "Hanover (Scotland) Housing Association is procuring works and services for the delivery of responsive maintenance, void property works, roofing and drainage services across its housing stock and associated properties in Scotland. The services will support the maintenance, repair and, where instructed, improvement of Hanover\u2019s properties, including occupied homes, void properties, communal areas, supported and sheltered housing, offices and other managed properties. The procurement is divided into regional and workstream-based Lots, and successful providers will be required to deliver safe, cus",
-   "published": "2026-09-11T09:37:37+01:00",
-   "deadline": "2026-10-12T12:00:00+01:00",
-   "value": 15000000,
-   "region": null,
-   "cpv": [
-    "45232450",
-    "45232452",
-    "45261000",
-    "45453000",
-    "50000000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/086221-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-085639-2026",
-   "source": "Find a Tender",
-   "title": "Window Cleaning Services",
-   "buyer": "University Of Edinburgh",
-   "description": "The University of Edinburgh will shortly be going out to tender via a Restricted Procedure to engage suitably qualified, resourced and experienced suppliers to provide window cleaning services across the estate.\nThe University of Edinburgh is procuring window cleaning services across a large and diverse estate, including historic listed buildings and modern facilities, spanning multiple campus locations. The requirement is for a prompt, efficient and consistently high-quality service delivered year-round (52 weeks), with capacity to flex to changing priorities and emerging needs. Suppliers are",
-   "published": "2026-09-10T09:13:06+01:00",
-   "deadline": "2026-10-12T12:00:00+01:00",
-   "value": 560000,
-   "region": null,
-   "cpv": [
-    "90911000"
-   ],
-   "categories": [
-    "Teleradiology"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/085639-2026",
-   "first_seen": "2026-10-02T06:18:37.923737+00:00"
-  },
-  {
-   "id": "FTS-085512-2026",
-   "source": "Find a Tender",
-   "title": "Supply, Delivery & Collection of Roadstone Materials",
-   "buyer": "Fife Council",
-   "description": "Fife Council's Roads Operations are responsible for the provision of a local transport strategy for Fife Council, which includes the\nconstruction and maintenance of carriageways and footways within Fife. The purpose of the tender is to meet all the requirements in the\nsupply of road stone materials and other general quarry requirements, which includes aggregates, dry and coated materials, as well as ready\nmix concrete. Roads Operations activities take place across Fife and cover a range of works, therefore access to a range of suppliers across\nFife is critical",
-   "published": "2026-09-09T15:59:31+01:00",
-   "deadline": "2026-10-12T12:00:00+01:00",
-   "value": 12800000,
-   "region": null,
-   "cpv": [
-    "14210000",
-    "14212000",
-    "14212200",
-    "44113140",
-    "44113320",
-    "44114100"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/085512-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-081546-2026",
-   "source": "Find a Tender",
-   "title": "Provision of General Medical Services at Tollgate Practice, Colchester",
-   "buyer": "NHS Essex Integrated Care Board",
-   "description": "NHS Essex Integrated Care Board (the Authority) is undertaking a competitive procurement process under the Health Care Services (Provider Selection Regime) Regulations 2023 for the award of a General Medical Services (GMS) contract for Tollgate Practice, located in Stanway, Colchester.<br/><br/>The procurement seeks to identify a suitably qualified and experienced provider to deliver safe, effective, sustainable and accessible primary medical services to the registered patient population of Tollgate Practice. The commercial schedule currently assumes an actual patient list of 10,206 and a weig",
-   "published": "2026-08-26T21:54:02+01:00",
-   "deadline": "2026-10-12T12:00:00+01:00",
-   "value": 21896491.6,
-   "region": null,
-   "cpv": [
-    "85100000",
-    "85121100"
-   ],
-   "categories": [
-    "Teleradiology"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/081546-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-080809-2026",
-   "source": "Find a Tender",
-   "title": "Units 1-5, Centennial Park, Airspeed Road, Portsmouth",
-   "buyer": "Glasgow City Council (as administering authority for the Strathclyde Pension Fund)",
-   "description": "The procurement is being conducted to appoint a contractor for the design and construction of 5 single storey warehouse units at Centennial Park, Airspeed Road, Portsmouth. The units generally range from between 8m and 12m to underside of haunch with a gross internal area of approximately 53,000 ft2 and incorporate internal mezzanine office accommodation. External works are required which include, but may not be limited to, hard standings, car parking, landscaping, drainage, fencing and street furniture, external lighting, EV chargers and main service connections.\nThe procurement is being cond",
-   "published": "2026-08-25T12:20:43+01:00",
-   "deadline": "2026-10-12T12:00:00+01:00",
-   "value": 8000000,
-   "region": null,
-   "cpv": [
-    "45000000",
-    "45213220",
-    "45213221",
-    "45213250",
-    "45213251",
-    "45213252",
-    "45213260"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/080809-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-085852-2026",
-   "source": "Find a Tender",
-   "title": "CAWT PEACEPLUS Community Connections and Wellbeing project (CCWP) - Delivery of Psychosocial Activities and Community Supports (WHSCT & SHSCT Areas)",
-   "buyer": "Regional Business Services Organisation, Procurement and Logistics Service",
-   "description": "Rooted in local communities and working with and through existing organisations and initiatives, the CAWT Community Connection and Wellbeing Project (CCWP) will strengthen capacity to improve health and wellbeing in participating communities.\nThe project aims to help people gain the skills, tools, knowledge, and confidence needed to enable them to harness new opportunities and access high-quality, accessible health and social care supports.\nThis procurement exercise and the subsequent service to be commissioned will cover only the Northern Ireland delivery Lot Areas, which are located within t",
-   "published": "2026-09-10T12:35:22+01:00",
-   "deadline": "2026-10-12T15:00:00+01:00",
-   "value": 3369570.0,
-   "region": null,
-   "cpv": [
-    "75200000",
-    "85000000",
-    "85100000",
-    "85322000",
-    "85323000",
-    "98334000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/085852-2026",
-   "first_seen": "2026-10-02T06:18:37.923737+00:00"
-  },
-  {
-   "id": "CF-598524db-f6a5-4ec1-841c-15a5ae5964f6",
-   "source": "Contracts Finder",
-   "title": "Surlingham Play Area",
-   "buyer": "Surlingham Parish Council",
-   "description": "Surlingham Parish Council conducted a public consultation in April 2026 to gather views on the condition and future development of Surlingham Play Area. The consultation was promoted through multiple village channels and received responses from 21 households, plus two child friendly questionnaires via Surlingham School.\r\nAlthough participation was modest, the feedback provides clear and consistent direction for refurbishment priorities. The findings highlight concerns around safety, accessibility, equipment suitability, and the overall quality of the play environment.",
-   "published": "2026-09-15T11:24:18+01:00",
-   "deadline": "2026-10-12T17:00:00+01:00",
-   "value": 40000,
-   "region": "East of England",
-   "cpv": [
-    "37535100 37535200 37535210 37535220 37535240 37535250 37535260"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/598524db-f6a5-4ec1-841c-15a5ae5964f6",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
   {
    "id": "CF-fbd4f108-e7d9-43d4-b747-827c5d6d0f91",
    "source": "Contracts Finder",
@@ -1584,6 +1353,25 @@
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
   },
   {
+   "id": "CF-c757ec81-6c0b-4a55-acb6-e9d4d9079c0e",
+   "source": "Contracts Finder",
+   "title": "CA18546 - Telford College - Building Refurbishment Design Services",
+   "buyer": "Telford College",
+   "description": "The design team will be commissioned to deliver RIBA Stages 2 - 4, including the development of a comprehensive tender specification for the appointment of the Advanced Technology Centre Refurbishment Design Services Provider and the Defence Industry Hub Project Services Provider. \r\nThe specifications supplied from this tender will form part of a Minor Works project that will follow.\r\n\r\nIncludes Lots: \r\nLot 1: Lot 1 - Advanced Technology Centre Refurbishment Project\r\nLot 2: Lot 2 - Defence Industry Hub Project\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquot",
+   "published": "2026-10-12T14:57:18+01:00",
+   "deadline": "2026-11-06T17:00:00+00:00",
+   "value": 175000,
+   "region": "Any region",
+   "cpv": [
+    "79415200"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/c757ec81-6c0b-4a55-acb6-e9d4d9079c0e",
+   "first_seen": "2026-10-13T06:22:18.447083+00:00"
+  },
+  {
    "id": "CF-44894d9f-2289-40fd-9a81-fec7b5f4a77f",
    "source": "Contracts Finder",
    "title": "Shropshire and Telford &amp; Wrekin VCSE Mental Health Transformation",
@@ -1709,6 +1497,67 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/091498-2026",
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
+  },
+  {
+   "id": "FTS-095921-2026",
+   "source": "Find a Tender",
+   "title": "Southside Housing Association - Asbestos Management Surveys",
+   "buyer": "Southside Housing Association",
+   "description": "Carry out Asbestos Management Surveys within residential property common areas.\nWorks orders may be issued for R&D Surveys and removal/encapsulation of Asbestos.",
+   "published": "2026-10-12T09:42:47+01:00",
+   "deadline": "2026-11-09T17:00:00+00:00",
+   "value": 120000,
+   "region": null,
+   "cpv": [
+    "45262660",
+    "90650000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/095921-2026",
+   "first_seen": "2026-10-13T06:22:18.447083+00:00"
+  },
+  {
+   "id": "FTS-096179-2026",
+   "source": "Find a Tender",
+   "title": "Reopening of Framework Agreement for Live-in Care (All-Ages), Complex Care (All-Ages) and Trusted Assessors for Spot Therapy and Clinical Psychology Provision for NHS Devon Integrated Care Board",
+   "buyer": "NHS DEVON INTEGRATED CARE BOARD",
+   "description": "NHS Devon Integrated Care Board (the Commissioner) is seeking to reopen the Framework Agreement and appoint suitable providers who have the capability and capacity to deliver the following services:\nLOT 1 - Live-in Care at Home for All-Ages\nLOT 2 - Complex Care for All-Ages\nLOT 3 - Trusted Assessors for Spot Therapy and Clinical Psychology Provision (SEND)\nThe geography covered is that of NHS Devon ICB.\n4) The framework agreement was established on 12th January 2026 for a period of 4 years ending on 11th January 2030.\n5) The combined maximum value of the Framework Agreement is \u00a361,297,064 for ",
+   "published": "2026-10-12T15:27:07+01:00",
+   "deadline": "2026-11-11T12:00:00+00:00",
+   "value": 61297064,
+   "region": null,
+   "cpv": [
+    "85100000",
+    "85312500",
+    "85323000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/096179-2026",
+   "first_seen": "2026-10-13T06:22:18.447083+00:00"
+  },
+  {
+   "id": "FTS-095906-2026",
+   "source": "Find a Tender",
+   "title": "Sunderland Alternative Provider Medical Services (APMS)",
+   "buyer": "NHS North East and North Cumbria Integrated Care Board",
+   "description": "North of England Commissioning Support (NECS) is a commissioning support service working for and on behalf of NHS North East and North Cumbria Integrated Care Board (the Relevant Authority) who are undertaking a competition to provide. Alternative Provider Medical Service (APMS) to be delivered for patients of Sunderland.\nContract Start Date: 15 April 2027\nContract End Date: 14 April 2036\nThe contract term is for an initial period of 7 years, with an option to extend for a further 2 years at the discretion of the Relevant Authority and subject to satisfactory contractual and financial performa",
+   "published": "2026-10-12T09:20:36+01:00",
+   "deadline": "2026-11-11T12:00:00+00:00",
+   "value": 10793077,
+   "region": null,
+   "cpv": [
+    "85100000",
+    "85120000"
+   ],
+   "categories": [
+    "Teleradiology"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/095906-2026",
+   "first_seen": "2026-10-13T06:22:18.447083+00:00"
   },
   {
    "id": "FTS-095692-2026",
