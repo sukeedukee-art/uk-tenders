@@ -1,25 +1,6 @@
 {
- "generated": "2026-10-13T06:22:18.447083+00:00",
+ "generated": "2026-10-14T06:31:51.759088+00:00",
  "tenders": [
-  {
-   "id": "CF-fbd4f108-e7d9-43d4-b747-827c5d6d0f91",
-   "source": "Contracts Finder",
-   "title": "18 Gorton St refurbishment &#xA3;15k - &#xA3;400k BHC Building and Refurbishment Framework",
-   "buyer": "Blackpool Council",
-   "description": "full refurbishment of a terraced property",
-   "published": "2026-07-13T11:11:50+01:00",
-   "deadline": "2026-10-13T23:59:59+01:00",
-   "value": 0,
-   "region": "Any region",
-   "cpv": [
-    "45300000 45400000 45200000 50700000 50800000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/fbd4f108-e7d9-43d4-b747-827c5d6d0f91",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
   {
    "id": "CF-803f7cb8-f5b7-49df-8658-6b3d34575721",
    "source": "Contracts Finder",
@@ -1391,6 +1372,29 @@
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
   },
   {
+   "id": "FTS-096422-2026",
+   "source": "Find a Tender",
+   "title": "Provision of Homeless Supported Accommodation, Outreach Tenancy Support and Housing First Services",
+   "buyer": "Falkirk Council",
+   "description": "Provision of housing support services to assist individuals and households experiencing homelessness, housing instability or requiring support to sustain accommodation. The service will contribute to homelessness prevention, tenancy sustainment, independent living and improved wellbeing outcomes. The requirement is expected to include:\n- Housing First support services for individuals with multiple and complex needs.\n- Outreach tenancy support services for people residing within the Falkirk Council area.\n- Supported accommodation services, including accommodation management and support provisio",
+   "published": "2026-10-13T10:52:22+01:00",
+   "deadline": "2026-11-09T11:00:00+00:00",
+   "value": 6122802,
+   "region": null,
+   "cpv": [
+    "85300000",
+    "85310000",
+    "85311000",
+    "85312000"
+   ],
+   "categories": [
+    "Supported Living",
+    "Supported Accommodation"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/096422-2026",
+   "first_seen": "2026-10-14T06:31:51.759088+00:00"
+  },
+  {
    "id": "FTS-095655-2026",
    "source": "Find a Tender",
    "title": "The Provision of Community Based Mental Health Services Incorporating Distress Brief Intervention Services Level 2",
@@ -1519,6 +1523,45 @@
    "first_seen": "2026-10-13T06:22:18.447083+00:00"
   },
   {
+   "id": "FTS-096480-2026",
+   "source": "Find a Tender",
+   "title": "Targeted Prostate Cancer Screening Programme \u2013 PSA Laboratory Processing Service",
+   "buyer": "NHS England",
+   "description": "The Contracting Authority is procuring a targeted prostate cancer screening pathway with a focus on men at increased risk due to an inherited BRCA2 variant utilising the competitive provider selection process under the Health Care Services (Provider Selection Regime) Regulations 2023.<br/><br/>NHS England is seeking a provider to deliver a national Prostate Specific Antigen (PSA) Laboratory Processing and Virtual Screening Pathway Coordination service to support the Targeted Prostate Cancer Screening Programme for England.<br/><br/>The service will include PSA Sample logistics from the agreed ",
+   "published": "2026-10-13T11:51:31+01:00",
+   "deadline": "2026-11-10T12:00:00+00:00",
+   "value": 238607.9,
+   "region": null,
+   "cpv": [
+    "85111810",
+    "85145000"
+   ],
+   "categories": [
+    "Teleradiology"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/096480-2026",
+   "first_seen": "2026-10-14T06:31:51.759088+00:00"
+  },
+  {
+   "id": "FTS-096478-2026",
+   "source": "Find a Tender",
+   "title": "Targeted Prostate Cancer Screening Programme - MRI Reporting Service",
+   "buyer": "NHS England",
+   "description": "The Contracting Authority is procuring a targeted prostate cancer screening pathway with a focus on men at increased risk due to an inherited BRCA2 variant utilising the competitive provider selection process under the Health Care Services (Provider Selection Regime) Regulations 2023.<br/><br/>NHS England is seeking a provider to deliver a national centralised Prostate MRI Reporting Service to support the Targeted Prostate Cancer Screening Programme for England.<br/><br/>The service will provide specialist reporting of prostate MRI examinations for Programme Participants requiring MRI followin",
+   "published": "2026-10-13T11:51:03+01:00",
+   "deadline": "2026-11-10T12:00:00+00:00",
+   "value": 143654.56,
+   "region": null,
+   "cpv": [
+    "85150000"
+   ],
+   "categories": [
+    "Teleradiology"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/096478-2026",
+   "first_seen": "2026-10-14T06:31:51.759088+00:00"
+  },
+  {
    "id": "FTS-096179-2026",
    "source": "Find a Tender",
    "title": "Reopening of Framework Agreement for Live-in Care (All-Ages), Complex Care (All-Ages) and Trusted Assessors for Spot Therapy and Clinical Psychology Provision for NHS Devon Integrated Care Board",
@@ -1577,6 +1620,28 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/095692-2026",
    "first_seen": "2026-10-10T06:17:57.494873+00:00"
+  },
+  {
+   "id": "FTS-096362-2026",
+   "source": "Find a Tender",
+   "title": "EDC/2026/4456 Framework for Traffic Signal Equipment Maintenance, Supply & Associated Works",
+   "buyer": "East Dunbartonshire Council",
+   "description": "East Dunbartonshire Council wishes to establish a public contract (within the meaning of the Procurement Regulations) and appoint a number of suppliers under an overarching ranked framework arrangement to carry out work and provide Work Orders in relation to Traffic Signal Equipment Supply, Maintenance & Associated Works throughout the local government area of East Dunbartonshire over a minimum period of three (3) years. The framework scope encompasses planned maintenance of traffic signal & optical equipment and the provision of a fault management system inclusive of reporting and repairing f",
+   "published": "2026-10-13T09:27:50+01:00",
+   "deadline": "2026-11-12T12:00:00+00:00",
+   "value": 2260000,
+   "region": null,
+   "cpv": [
+    "34923000",
+    "34996100",
+    "45233200",
+    "50232200"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/096362-2026",
+   "first_seen": "2026-10-14T06:31:51.759088+00:00"
   },
   {
    "id": "FTS-095013-2026",
@@ -2252,6 +2317,51 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/43ad892e-b740-4c79-b465-3f4e3e68abfd",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "FTS-096433-2026",
+   "source": "Find a Tender",
+   "title": "Pupil Equity Funding (PEF) Flexible Framework",
+   "buyer": "Dumfries and Galloway Council",
+   "description": "The Scottish Government has committed to providing additional funding in the form of Pupil Equity Funding (PEF), to schools as part of the Scottish Attainment Challenge programme. This funding is allocated directly to schools and is aimed at closing the poverty related attainment gap.\nThe aim of this framework agreement is to allow schools to contract compliantly with providers who will be able to support the pupil equity fund.",
+   "published": "2026-10-13T11:00:46+01:00",
+   "deadline": "2027-09-13T12:00:00+01:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "37000000",
+    "48520000",
+    "48521000",
+    "48931000",
+    "75121000",
+    "80000000",
+    "80100000",
+    "80200000",
+    "80210000",
+    "80310000",
+    "80340000",
+    "80400000",
+    "80570000",
+    "80590000",
+    "85140000",
+    "85312300",
+    "85312310",
+    "85312320",
+    "85312400",
+    "85322000",
+    "92000000",
+    "92340000",
+    "92342000",
+    "92342100",
+    "92342200",
+    "98000000",
+    "98330000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/096433-2026",
+   "first_seen": "2026-10-14T06:31:51.759088+00:00"
   },
   {
    "id": "CF-75f561ce-129d-4c83-ab5f-97290ac38de5",
