@@ -1,107 +1,6 @@
 {
- "generated": "2026-10-14T06:31:51.759088+00:00",
+ "generated": "2026-10-15T06:32:27.235073+00:00",
  "tenders": [
-  {
-   "id": "CF-803f7cb8-f5b7-49df-8658-6b3d34575721",
-   "source": "Contracts Finder",
-   "title": "Individual Placement Scheme (IPS)",
-   "buyer": "London Borough of Merton",
-   "description": "The Contracting Authority is seeking to procure a specialist Individual Placement and Support (IPS) service to support adults engaged in structured drug and alcohol treatment services across the six London boroughs of: \r\n\r\nCroydon \r\n\r\nKingston upon Thames \r\n\r\nMerton \r\n\r\nRichmond upon Thames \r\n\r\nSutton \r\n\r\nWandsworth \r\n\r\nThe successful provider will deliver a high-quality IPS employment service that supports individuals receiving treatment for drug and alcohol dependency to obtain and sustain competitive paid employment. \r\n\r\nThe service will operate in accordance with IPS principles and fidelit",
-   "published": "2026-09-15T16:30:02+01:00",
-   "deadline": "2026-10-14T12:00:00+01:00",
-   "value": 2306000,
-   "region": "Any region",
-   "cpv": [
-    "85312500"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/803f7cb8-f5b7-49df-8658-6b3d34575721",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
-  {
-   "id": "FTS-092274-2026",
-   "source": "Find a Tender",
-   "title": "Reopening of the Over 65 Residential Care Home Framework for Swindon",
-   "buyer": "Swindon Borough Council",
-   "description": "Swindon Borough Council invites expressions of interest from suitably qualified and experienced service providers for admission to the existing Over 65 Years of Age Residential Care Home Framework for Swindon.\nProject Description\nSwindon Borough Council is undertaking the first annual re-opening of its existing Residential Care Home Framework for adults aged 65 years and over within the Swindon locality. This Framework was originally commissioned under public contract regulations and will continue to use this until the end of the total term. This framework commenced on 1st January 2026 and is ",
-   "published": "2026-09-30T11:21:39+01:00",
-   "deadline": "2026-10-14T12:00:00+01:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85000000",
-    "85000000-AA01",
-    "85300000",
-    "85311000",
-    "98000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/092274-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-086546-2026",
-   "source": "Find a Tender",
-   "title": "Provision of a Recovery Service (Alcohol and Drugs)",
-   "buyer": "Inverclyde Council",
-   "description": "The Recovery Service (Alcohol and Drugs) operates within a complex national and local policy environment that recognises alcohol and drug-related harm as a significant public health challenge.\nThe commissioned services will contribute directly to the delivery of the Inverclyde Alcohol and Drug Partnership Strategy 2024-2029, which sets out a vision that individuals, families and communities can live healthy lives free from alcohol and drug harms through choice, dignity and recovery.",
-   "published": "2026-09-11T15:21:36+01:00",
-   "deadline": "2026-10-14T12:00:00+01:00",
-   "value": 1200000,
-   "region": null,
-   "cpv": [
-    "85140000",
-    "85300000",
-    "85312500"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/086546-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "CF-bd6f6ea3-04bd-4c7b-8faa-6f6fdb0bad57",
-   "source": "Contracts Finder",
-   "title": "Balfour Beatty - Roads North of the Thames - LTC - FRC Structures Package",
-   "buyer": "BALFOUR BEATTY CIVIL ENGINEERING LIMITED",
-   "description": "The Lower Thames Crossing Roads, North Programme is seeking expressions of interest from suppliers with experience in reinforced concrete (FRC) and structural works.\r\n\r\nThe scope is expected to include elements such as reinforced concrete foundations, abutments, retaining walls, pile caps, reinforced earth structures, bridge structures and other civil engineering works. As part of our procurement planning, we are considering a range of packaging options, including splitting the works into multiple packages. Through this PQQ, we are looking to better understand the market&#039;s capability, cap",
-   "published": "2026-09-30T09:44:15+01:00",
-   "deadline": "2026-10-14T17:00:00+01:00",
-   "value": 1000000,
-   "region": "East of England,South East",
-   "cpv": [
-    "45221100 45223200 45223500 45233100 45262210 45262300 45262310"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/bd6f6ea3-04bd-4c7b-8faa-6f6fdb0bad57",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
-  {
-   "id": "CF-cd451c25-8c25-46cb-9107-65eeb575e6f7",
-   "source": "Contracts Finder",
-   "title": "Radford House - Internal Refurbishment (Change of Use)",
-   "buyer": "Ramsgate Town Council",
-   "description": "Ramsgate Town Council will be appointing a contractor to undertake internal refurbishment and alteration works to at Radford House.\r\n\r\nThe works are located at the public facility in Ramsgate - previously the Old Fire Station, at 18-20 Effingham Street, Ramsgate, CT11 9AT. The internal works are part of a wider redevelopment of the site, which includes external alterations to the building, and temporary technicians accommodation (externals ongoing - internals to follow)\r\n\r\nThe refurbishment is required to undertake repairs, and implement change of use from former fire station to public facilli",
-   "published": "2026-09-09T17:55:42+01:00",
-   "deadline": "2026-10-14T23:00:00+01:00",
-   "value": 500000,
-   "region": "",
-   "cpv": [
-    "45000000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/cd451c25-8c25-46cb-9107-65eeb575e6f7",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
   {
    "id": "CF-518f6181-05a7-4bbb-85de-01e60a790f9d",
    "source": "Contracts Finder",
@@ -713,6 +612,25 @@
    "first_seen": "2026-10-06T06:18:47.205870+00:00"
   },
   {
+   "id": "CF-803958c2-b9c6-4928-81cd-d69dfd53730d",
+   "source": "Contracts Finder",
+   "title": "Pre Market Engagement   for A54 Macclesfield Main Road Improvements Phase 2 VRS",
+   "buyer": "Derbyshire County Council",
+   "description": "Derbyshire County Council (DCC), the Client, requires to implement a series of safety improvements and associated reinstatement works on the A54 Macclesfield Main Road. \r\n\r\nSections of this route have been identified as having a number of safety and maintenance issues, including:\r\n\u2022\tPoor carriageway surface quality\r\n\u2022\tTight bends\r\n\u2022\tStanding surface water (increasing the risk of ice during winter)\r\n\u2022\tLoose rock or cobbles falling from adjacent slopes, creating hazards for road users\r\n\r\nTragically, a fatal incident occurred in April 2024. Coronial proceedings relating to this incident followed ",
+   "published": "2026-10-14T17:19:31+01:00",
+   "deadline": "2026-10-23T23:59:59+01:00",
+   "value": 500000,
+   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+   "cpv": [
+    "45233220"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/803958c2-b9c6-4928-81cd-d69dfd53730d",
+   "first_seen": "2026-10-15T06:32:27.235073+00:00"
+  },
+  {
    "id": "CF-e2d9dc88-6503-4899-a4b0-76f0a5c96ffe",
    "source": "Contracts Finder",
    "title": "H&amp;C1025 Sexual Health Services",
@@ -1189,6 +1107,25 @@
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
   },
   {
+   "id": "FTS-096971-2026",
+   "source": "Find a Tender",
+   "title": "Shorepower Civils Works",
+   "buyer": "Caledonian Maritime Assets Ltd (Utility)",
+   "description": "Construction of concrete foundations for shorepower equipment, ducts, pits and some steel works. The works are required at Port Askaig and Kennacraig ferry terminals. All works are within existing infrastructures and no environmental licences and considerations are required.",
+   "published": "2026-10-14T12:43:35+01:00",
+   "deadline": "2026-11-04T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "45200000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/096971-2026",
+   "first_seen": "2026-10-15T06:32:27.235073+00:00"
+  },
+  {
    "id": "FTS-094667-2026",
    "source": "Find a Tender",
    "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 4 Round 13 - Onboarding",
@@ -1560,6 +1497,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/096478-2026",
    "first_seen": "2026-10-14T06:31:51.759088+00:00"
+  },
+  {
+   "id": "FTS-097179-2026",
+   "source": "Find a Tender",
+   "title": "Teleradiology Service",
+   "buyer": "South Tyneside and Sunderland NHS Foundation Trust",
+   "description": "Provision of a Teleradiology Service to South Tyneside and Sunderland NHS Foundation Trust",
+   "published": "2026-10-14T16:15:43+01:00",
+   "deadline": "2026-11-11T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "85150000"
+   ],
+   "categories": [
+    "Teleradiology"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/097179-2026",
+   "first_seen": "2026-10-15T06:32:27.235073+00:00"
   },
   {
    "id": "FTS-096179-2026",
