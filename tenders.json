@@ -1,65 +1,6 @@
 {
- "generated": "2026-10-15T06:32:27.235073+00:00",
+ "generated": "2026-10-16T06:30:16.976396+00:00",
  "tenders": [
-  {
-   "id": "CF-518f6181-05a7-4bbb-85de-01e60a790f9d",
-   "source": "Contracts Finder",
-   "title": "Passenger Lift Replacement Within Diplomatic Mission",
-   "buyer": "BGIS Global Integrated Solutions Ltd",
-   "description": "This project involves the refurbishment and upgrade of the existing passenger lift installation at CH, London.\r\nThe scope includes the full removal and replacement of the lift car, associated shaft equipment, and integration with the building&#039;s lift controls and life safety systems. Works are to be undertaken in a live, high-security diplomatic building, requiring strict adherence to security protocols, with minimal disruption to operations.\r\nThe contract requires the provision of a compliant lift installation in accordance with BS EN 81-72:2020, BS 9999, and relevant Building Regulations",
-   "published": "2026-09-17T17:45:04+01:00",
-   "deadline": "2026-10-15T12:00:00+01:00",
-   "value": 200000,
-   "region": "London",
-   "cpv": [
-    "42417000 42416130 42416100 42416000 42419510"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/518f6181-05a7-4bbb-85de-01e60a790f9d",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
-  {
-   "id": "CF-211d6e84-eaa8-4260-9769-a6377a8025c8",
-   "source": "Contracts Finder",
-   "title": "TD2414 - Asbestos Removal and Remediation Services and Asbestos Analyst Services",
-   "buyer": "DERBY CITY COUNCIL",
-   "description": "Derby City Council (the Council) is undertaking this procurement to establish two contracts:\r\n\r\n\u2022\tLot 1\tAsbestos removal and remediation services\r\n\u2022\tLot 2\tAsbestos analyst services\r\n\r\nThe procurement process adopted by the Council is based on the &#039;Open&#039; tendering procedure as detailed in the Procurement Act 2023 (the &quot;Act&quot;) and the Procurement Regulations 2024 (the &quot;Regulations&quot;.) \r\n\r\nFor Lot 1 the asbestos removal and remediation services contract, the initial contract period is two years and is estimated to commence on 1st February 2027 and expire on 31st Januar",
-   "published": "2026-09-10T13:28:01+01:00",
-   "deadline": "2026-10-15T12:00:00+01:00",
-   "value": 3788000,
-   "region": "East Midlands",
-   "cpv": [
-    "45262660 71600000 90650000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/211d6e84-eaa8-4260-9769-a6377a8025c8",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
-  {
-   "id": "FTS-087385-2026",
-   "source": "Find a Tender",
-   "title": "Open Space Maintenance Contract 2026 - 2029",
-   "buyer": "East Kilbride Housing Association Ltd",
-   "description": "East Kilbride Housing Association are procuring 'Open Space Maintenance Contract 2026 \u2013 2029 (with 2 x single year extension options)'",
-   "published": "2026-09-15T15:00:51+01:00",
-   "deadline": "2026-10-15T12:00:00+01:00",
-   "value": 300000.0,
-   "region": null,
-   "cpv": [
-    "45112712",
-    "50000000",
-    "71421000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/087385-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
   {
    "id": "FTS-087577-2026",
    "source": "Find a Tender",
@@ -631,6 +572,25 @@
    "first_seen": "2026-10-15T06:32:27.235073+00:00"
   },
   {
+   "id": "FTS-097284-2026",
+   "source": "Find a Tender",
+   "title": "Fareham Shopping Centre - Arcading works",
+   "buyer": "Fareham Borough Council",
+   "description": "Fareham Borough Council is seeking expressions of interest from suitably qualified and experienced contractors for the proposed Arcading refurbishment of Fareham Shopping Centre, with an estimated project value of \u00a36.5M.\nThe project forms part of the Council's wider regeneration ambitions for Fareham Town Centre, aimed at improving the shopping environment, enhancing the visitor experience and supporting the long-term vitality and attractiveness of the town centre.\nThe proposed works involve the refurbishment and enhancement of internal shopping malls, public circulation areas, communal facili",
+   "published": "2026-10-15T09:29:13+01:00",
+   "deadline": "2026-10-26T00:00:00+00:00",
+   "value": 6500000,
+   "region": null,
+   "cpv": [
+    "45213111"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/097284-2026",
+   "first_seen": "2026-10-16T06:30:16.976396+00:00"
+  },
+  {
    "id": "CF-e2d9dc88-6503-4899-a4b0-76f0a5c96ffe",
    "source": "Contracts Finder",
    "title": "H&amp;C1025 Sexual Health Services",
@@ -710,6 +670,26 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/090206-2026",
    "first_seen": "2026-10-02T06:18:37.923737+00:00"
+  },
+  {
+   "id": "FTS-097389-2026",
+   "source": "Find a Tender",
+   "title": "Drug and Alcohol Treatment and Recovery",
+   "buyer": "Kingston Upon Hull City Council",
+   "description": "This is a Provider Selection Regime (PSR) intended to award notice. The awarding of this contract is subject to the Health Care Services (Provider Selection Regime) Regulations 2023. For the avoidance of doubt, the provisions of the Procurement Act do not apply to this award. In accordance with Regulation 10 of The Health Care Services (Provider Selection Regime) Regulations 2023, Hull City Council is looking to award a contract under the Direct Award Option C process as the Council is able to identify the existing provider will likely satisfy the proposed contract to a sufficient standard  ta",
+   "published": "2026-10-15T11:43:00+01:00",
+   "deadline": "2026-10-27T00:00:00+00:00",
+   "value": 187500,
+   "region": null,
+   "cpv": [
+    "85100000",
+    "85312500"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/097389-2026",
+   "first_seen": "2026-10-16T06:30:16.976396+00:00"
   },
   {
    "id": "FTS-090951-2026",
@@ -1682,6 +1662,45 @@
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
   },
   {
+   "id": "FTS-097600-2026",
+   "source": "Find a Tender",
+   "title": "NHSGGC - Support Services for Visually Impaired People",
+   "buyer": "NHS Greater Glasgow and Clyde",
+   "description": "NHS Greater Glasgow and Clyde is seeking a provider to deliver advice, emotional support, low vision follow-up and signposting for people with visual impairment, their families and carers. The service will operate primarily from Gartnavel General Hospital.",
+   "published": "2026-10-15T15:41:29+01:00",
+   "deadline": "2026-11-16T13:00:00+00:00",
+   "value": 741746,
+   "region": null,
+   "cpv": [
+    "85000000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/097600-2026",
+   "first_seen": "2026-10-16T06:30:16.976396+00:00"
+  },
+  {
+   "id": "FTS-097310-2026",
+   "source": "Find a Tender",
+   "title": "Water Hygiene Services",
+   "buyer": "Caledonian Sleeper Limited",
+   "description": "Caledonian Sleeper is tendering for legionella testing and water hygiene services on-train and at office and lounge locations",
+   "published": "2026-10-15T10:11:20+01:00",
+   "deadline": "2026-11-16T16:00:00+00:00",
+   "value": 680000,
+   "region": null,
+   "cpv": [
+    "45330000",
+    "85142300"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/097310-2026",
+   "first_seen": "2026-10-16T06:30:16.976396+00:00"
+  },
+  {
    "id": "CF-cf62aca6-c438-4f73-9156-354dcaf76167",
    "source": "Contracts Finder",
    "title": "Dynamic Purchasing System for the Provision of Housing Adaptation Works",
@@ -1699,6 +1718,63 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/cf62aca6-c438-4f73-9156-354dcaf76167",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "FTS-097325-2026",
+   "source": "Find a Tender",
+   "title": "Refurbishment and Modernisation (RM4S) - Scotland Framework Agreement",
+   "buyer": "LHC Procurement Group for the Scottish Procurement Alliance (SPA)",
+   "description": "LHC Procurement Group Limited (LHCPG) is procuring the Refurbishment and Modernisation Scotland Framework Agreement (RM4S) on behalf of the Scottish Procurement Alliance (SPA). LHCPG is acting as the Contracting Authority and central purchasing body for this procurement.\nThe Framework is being procured solely for use in Scotland and will provide eligible public sector organisations with a compliant and flexible route for the delivery of refurbishment, improvement, repair, maintenance and modernisation works, goods and associated services across residential and non-residential buildings.\nThe pr",
+   "published": "2026-10-15T10:33:06+01:00",
+   "deadline": "2026-12-11T12:00:00+00:00",
+   "value": 900000000,
+   "region": null,
+   "cpv": [
+    "39141000",
+    "39141400",
+    "39221000",
+    "45000000",
+    "45112700",
+    "45112710",
+    "45112712",
+    "45211310",
+    "45232450",
+    "45233222",
+    "45262510",
+    "45262522",
+    "45300000",
+    "45310000",
+    "45311000",
+    "45313000",
+    "45330000",
+    "45331210",
+    "45332200",
+    "45332400",
+    "45340000",
+    "45342000",
+    "45400000",
+    "45410000",
+    "45421000",
+    "45421151",
+    "45431200",
+    "45440000",
+    "45442100",
+    "45442110",
+    "45443000",
+    "45451000",
+    "45453100",
+    "45454100",
+    "50000000",
+    "50700000",
+    "50711000",
+    "77211500",
+    "77314000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/097325-2026",
+   "first_seen": "2026-10-16T06:30:16.976396+00:00"
   },
   {
    "id": "CF-ae5b9b25-7053-418b-9c38-e5290c1e9922",
