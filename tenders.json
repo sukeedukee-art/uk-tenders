@@ -1,159 +1,6 @@
 {
- "generated": "2026-10-16T06:30:16.976396+00:00",
+ "generated": "2026-10-17T06:26:56.127707+00:00",
  "tenders": [
-  {
-   "id": "FTS-087577-2026",
-   "source": "Find a Tender",
-   "title": "Supply, Delivery, Installation, Removal and Re-siting of Bus Shelters",
-   "buyer": "Falkirk Council",
-   "description": "This opportunity is for the appointment to a Framework Agreement with a Single Party for the Supply, Delivery, Installation, Removal and Re-siting of Bus Shelters throughout the Falkirk area.",
-   "published": "2026-09-16T09:30:45+01:00",
-   "deadline": "2026-10-16T11:00:00+01:00",
-   "value": 1250000,
-   "region": null,
-   "cpv": [
-    "34900000",
-    "34928000",
-    "44112000",
-    "44112100",
-    "44112110",
-    "44200000",
-    "44212320",
-    "44212321",
-    "45213300",
-    "45213310",
-    "45213315",
-    "45223110",
-    "45223800",
-    "45233290",
-    "45233293",
-    "50230000",
-    "50700000",
-    "51000000",
-    "60100000",
-    "60112000",
-    "63712000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/087577-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "CF-83d37637-0fb5-4370-9b4e-53882b62a218",
-   "source": "Contracts Finder",
-   "title": "BBV HS2 MWCC NORTH - Fire Engineer Services",
-   "buyer": "Balfour Beatty Vinci HS2",
-   "description": "BBV is seeking a company to undertake Fire Engineer Services across key MWCC North HS2 assets. \r\n      \r\n      The scope includes design reviews, inspections, compliance assessments, and certification of passive fire protection systems, including fire strategy reviews, compartmentation and fire stopping assessments, site inspections, compliance reporting, and handover support throughout the design and construction phases. Experience delivering fire engineering services on major infrastructure, rail, or similarly complex projects is preferred.",
-   "published": "2026-10-08T08:10:07+01:00",
-   "deadline": "2026-10-16T12:00:00+01:00",
-   "value": 2500000,
-   "region": "Any region",
-   "cpv": [
-    "51700000 45343220 45343100 75251110 45343000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/83d37637-0fb5-4370-9b4e-53882b62a218",
-   "first_seen": "2026-10-09T06:20:05.674853+00:00"
-  },
-  {
-   "id": "CF-b0472684-2784-4d0f-855b-ccc800bd6d67",
-   "source": "Contracts Finder",
-   "title": "T0222 - Provision of Replacement Heating System at Evesham Hospital",
-   "buyer": "Herefordshire and Worcestershire Health and Care NHS Trust",
-   "description": "Tenders are invited to bid for Provision of Replacement Heating System at Evesham Community Hospital (Physio &amp; Training Block) for Herefordshire &amp; Worcestershire Health &amp; Care NHS Trust",
-   "published": "2026-09-21T08:22:45+01:00",
-   "deadline": "2026-10-16T12:00:00+01:00",
-   "value": 450000,
-   "region": "West Midlands",
-   "cpv": [
-    "45210000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/b0472684-2784-4d0f-855b-ccc800bd6d67",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
-  {
-   "id": "FTS-091183-2026",
-   "source": "Find a Tender",
-   "title": "Berths 9-10-11 Construction, Montrose Port",
-   "buyer": "Montrose Port Authority",
-   "description": "Montrose Port intends to appoint a suitably experienced contractor for the design and construction of a new quay and associated hardstanding, utilities and dredging.",
-   "published": "2026-09-25T17:02:34+01:00",
-   "deadline": "2026-10-16T12:00:00+01:00",
-   "value": 35000000,
-   "region": null,
-   "cpv": [
-    "45241000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/091183-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-085568-2026",
-   "source": "Find a Tender",
-   "title": "Adult Community Audiology Services",
-   "buyer": "NHS HAMPSHIRE AND THE ISLE OF WIGHT INTEGRATED CARE BOARD",
-   "description": "NHS Hampshire and Isle of Wight Integrated Care Board would like to invite bids for the delivery of a new service that will provide an adult community audiology service to deliver assessment, diagnosis, and management of hearing loss for eligible adults, in accordance with NHS England standards, best practice, and local commissioning requirements. This service is required across the entire Hampshire and Isle of Wight footprint.",
-   "published": "2026-09-09T17:36:47+01:00",
-   "deadline": "2026-10-16T12:00:00+01:00",
-   "value": 39303225,
-   "region": null,
-   "cpv": [
-    "85121240"
-   ],
-   "categories": [
-    "Teleradiology"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/085568-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "CF-64a43aa2-d0e2-4988-9792-bdb6052db610",
-   "source": "Contracts Finder",
-   "title": "Manchester International Airport - Shotcrete works",
-   "buyer": "Kier Transportation - CP7 NWC",
-   "description": "The planned introduction of longer train services to the Airport in response to future demand growth will mean that double stacking arrangements of trains as currently used will no longer be viable.Through the project&#039;s Delivery Steering Group, Northern and TransPennine Express have carried out analysis which has identified that additional platform capacity is needed at the airport in order to realise the full benefit of longer train services serving the airport.\r\n      \r\n      The scheme is part of a package of proposed measures in the Manchester area that are being designed/planned to b",
-   "published": "2026-10-06T09:00:28+01:00",
-   "deadline": "2026-10-16T17:00:00+01:00",
-   "value": 500000,
-   "region": "North West,Any region",
-   "cpv": [
-    "44114100 45262310 44114210 45234000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/64a43aa2-d0e2-4988-9792-bdb6052db610",
-   "first_seen": "2026-10-07T06:17:53.468301+00:00"
-  },
-  {
-   "id": "CF-12f64315-e80b-4070-8d3f-08816bd8e838",
-   "source": "Contracts Finder",
-   "title": "Repair Works to Heritage Site - Ellesmere Yard",
-   "buyer": "Canal &amp; River Trust",
-   "description": "The project involves the refurbishment and repair of several historic buildings within Ellesmere Yard, together with construction of new facilities and extensive public realm improvements. \r\n\r\nThe Trust are looking for a full turnkey solution, the works involve, roofing, joinery, internal fit outs, landscaping, new build workshop &amp; M&amp;E.\r\n\r\nRefer to attached brief summary which includes procurement restrictions/requirements",
-   "published": "2026-10-01T15:49:55+01:00",
-   "deadline": "2026-10-16T17:00:00+01:00",
-   "value": 4000000,
-   "region": "",
-   "cpv": [
-    "45212350"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/12f64315-e80b-4070-8d3f-08816bd8e838",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
   {
    "id": "CF-94a2090b-0be7-4d35-b5c1-a595c4cc306e",
    "source": "Contracts Finder",
@@ -1087,6 +934,25 @@
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
   },
   {
+   "id": "FTS-098226-2026",
+   "source": "Find a Tender",
+   "title": "RRE-01284 - For the provision of a Digitally Enabled Children & Young People\u2019s Mental Health Service (South Staffordshire)",
+   "buyer": "Midlands Partnership Foundation Trust",
+   "description": "We are seeking a Provider to work in partnership with, who will provide therapeutic interventions and a resource library via patient facing digital tools and platforms for Children, Young People and/or their parents or carers. The tools will provide NICE recommended evidence-based interventions for common mental health presentations (with specified target populations e.g. age range). The tool with align with NICE guidance and activity and outcomes aligning with the NHSE CYP Access and Waiting Times Standard, with reporting directly into The Mental Health Services Data Set.",
+   "published": "2026-10-16T21:36:55+01:00",
+   "deadline": "2026-11-03T09:30:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "85121270"
+   ],
+   "categories": [
+    "Teleradiology"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/098226-2026",
+   "first_seen": "2026-10-17T06:26:56.127707+00:00"
+  },
+  {
    "id": "FTS-096971-2026",
    "source": "Find a Tender",
    "title": "Shorepower Civils Works",
@@ -1643,6 +1509,27 @@
    "first_seen": "2026-10-06T06:18:47.205870+00:00"
   },
   {
+   "id": "FTS-097721-2026",
+   "source": "Find a Tender",
+   "title": "Molendinar+Reidvale HAs Landscape Maintenance Framework 2027",
+   "buyer": "Molendinar Park Housing Association Limited",
+   "description": "The successful Candidate will be responsible for the landscape maintenance, landscaping work and services to be undertaken (hereinafter referred to as \u2018the works\u2019 or \u2018the services\u2019) as described at Schedule 3, Scope & Description of Works, in/ around the Employer\u2019s properties as indicated in the Schedule1 maps, Glasgow G31, G40 & G45, which is the Contract Area. It is a tender condition that the successful candidates shall require to enter into separate framework contracts with Molendinar Park Housing Association and Reidvale Housing Association, each individually",
+   "published": "2026-10-16T09:21:09+01:00",
+   "deadline": "2026-11-16T10:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "45112700",
+    "77314000",
+    "90513100"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/097721-2026",
+   "first_seen": "2026-10-17T06:26:56.127707+00:00"
+  },
+  {
    "id": "FTS-092466-2026",
    "source": "Find a Tender",
    "title": "Home Group Responsive, Voids and DAPA Works \u2013 Dumfries and Galloway Scotland",
@@ -1699,6 +1586,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/097310-2026",
    "first_seen": "2026-10-16T06:30:16.976396+00:00"
+  },
+  {
+   "id": "CF-7eeb3a8e-8f79-46c3-92bf-a032bedc89d7",
+   "source": "Contracts Finder",
+   "title": "CA18576 - Electrical Maintenance. 4 Year Opportunity",
+   "buyer": "New College Swindon",
+   "description": "New College Swindon invites tenders for Electrical Maintenance Services, including planned maintenance, statutory testing, reactive repairs and associated electrical works across the college estate. Fixed-term contract: 4 years. Estimated value: &#xA3;400,000. Full details are provided within the tender documentation.\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18576.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18576 as the reason for registration. \r\n\r\n Any queries please contact M",
+   "published": "2026-10-16T15:24:18+01:00",
+   "deadline": "2026-11-19T10:00:00+00:00",
+   "value": 400000,
+   "region": "Any region",
+   "cpv": [
+    "45310000 50711000 71314100"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/7eeb3a8e-8f79-46c3-92bf-a032bedc89d7",
+   "first_seen": "2026-10-17T06:26:56.127707+00:00"
   },
   {
    "id": "CF-cf62aca6-c438-4f73-9156-354dcaf76167",
