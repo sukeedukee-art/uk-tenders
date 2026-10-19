@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T06:26:31.912138+00:00",
+ "generated": "2026-10-19T06:36:28.075328+00:00",
  "tenders": [
   {
    "id": "CF-94a2090b-0be7-4d35-b5c1-a595c4cc306e",
@@ -932,6 +932,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/089252-2026",
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
+  },
+  {
+   "id": "CF-fa4e7e3d-8560-45e2-bef5-6de16a496fb4",
+   "source": "Contracts Finder",
+   "title": "RRE-01284 - For the provision of a Digitally Enabled Children &amp; Young People&#039;s Mental Health Service (South Staffordshire)",
+   "buyer": "Midlands Partnership Foundation Trust",
+   "description": "We are seeking a Provider to work in partnership with, who will provide therapeutic interventions and a resource library via patient facing digital tools and platforms for Children, Young People and/or their parents or carers. The tools will provide NICE recommended evidence-based interventions for common mental health presentations (with specified target populations e.g. age range). The tool with align with NICE guidance and activity and outcomes aligning with the NHSE CYP Access and Waiting Times Standard, with reporting directly into The Mental Health Services Data Set.",
+   "published": "2026-10-18T18:33:21+01:00",
+   "deadline": "2026-11-03T09:30:00+00:00",
+   "value": 0,
+   "region": "West Midlands",
+   "cpv": [
+    "85121270"
+   ],
+   "categories": [
+    "Teleradiology"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/fa4e7e3d-8560-45e2-bef5-6de16a496fb4",
+   "first_seen": "2026-10-19T06:36:28.075328+00:00"
   },
   {
    "id": "FTS-098226-2026",
