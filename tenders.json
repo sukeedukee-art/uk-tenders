@@ -1,103 +1,6 @@
 {
- "generated": "2026-10-19T06:36:28.075328+00:00",
+ "generated": "2026-10-20T06:31:10.527290+00:00",
  "tenders": [
-  {
-   "id": "CF-94a2090b-0be7-4d35-b5c1-a595c4cc306e",
-   "source": "Contracts Finder",
-   "title": "Luton Centre for Mental Health - Expansion of Section 136 Unit at Jade Ward",
-   "buyer": "East London NHS Foundation Trust",
-   "description": "Refurbishment/modernisation works for expansion to Section 136 Unit at Jade Ward, Luton Centre for Mental Health as indicated in the tendering specification.",
-   "published": "2026-10-07T09:57:09+01:00",
-   "deadline": "2026-10-19T12:00:00+01:00",
-   "value": 525000,
-   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
-   "cpv": [
-    "45453100 45210000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/94a2090b-0be7-4d35-b5c1-a595c4cc306e",
-   "first_seen": "2026-10-08T06:20:36.719660+00:00"
-  },
-  {
-   "id": "CF-4095602f-0317-4eef-b069-1c051fca4c03",
-   "source": "Contracts Finder",
-   "title": "Drummond Community Centre Refurbishment",
-   "buyer": "Hedge End Town Council",
-   "description": "Drummond Community Centre is an important community facility serving residents across Grange Park and the wider Hedge End area. The proposed improvement works will enhance the building both internally and externally, ensuring it remains a welcoming, functional and well-maintained facility for the community for years to come.\r\n\r\nPlease see additional information for specification and how to apply.",
-   "published": "2026-09-09T10:32:34+01:00",
-   "deadline": "2026-10-19T12:00:00+01:00",
-   "value": 120000,
-   "region": "",
-   "cpv": [
-    "45451000 45452000 50800000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/4095602f-0317-4eef-b069-1c051fca4c03",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
-  {
-   "id": "FTS-094555-2026",
-   "source": "Find a Tender",
-   "title": "Luton Centre for Mental Health \u2013 Expansion of Section 136 Unit at Jade Ward",
-   "buyer": "East London NHS Foundation Trust",
-   "description": "Refurbishment/modernisation works for expansion to Section 136 Unit at Jade Ward, Luton Centre for Mental Health as indicated in the tendering specification.",
-   "published": "2026-10-07T10:16:42+01:00",
-   "deadline": "2026-10-19T12:00:00+01:00",
-   "value": 525000.0,
-   "region": null,
-   "cpv": [
-    "45210000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/094555-2026",
-   "first_seen": "2026-10-08T06:20:36.719660+00:00"
-  },
-  {
-   "id": "FTS-088301-2026",
-   "source": "Find a Tender",
-   "title": "Early Learning, Childcare and Brokerage Services",
-   "buyer": "Dumfries and Galloway Council",
-   "description": "The Council has a statutory duty to make pre-school education available for eligible children under the Standards in Scotland\u2019s Schools Act 2000. The Children and Young People (Scotland) Act 2014 and Statutory Guidance set out the increased entitlement to 1140 hours for eligible children which became  a statutory duty from August 2021.\nThe Funding Follows the Child approach places choice in parents\u2019 and carers\u2019 hands enabling them to access their child\u2019s funded entitlement with a provider that best suits their needs.\nAll providers who apply and meet the expected standard, legislation and the C",
-   "published": "2026-09-17T14:54:48+01:00",
-   "deadline": "2026-10-19T12:00:00+01:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "80100000",
-    "80110000",
-    "85312110"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/088301-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-086578-2026",
-   "source": "Find a Tender",
-   "title": "Joinery Contractors Framework",
-   "buyer": "NHS Lanarkshire",
-   "description": "NHS Lanarkshire Health Board (\u201cthe Board\u201d) invites suitably qualified and experienced contractors to tender for appointment to the NHSL329-26 Joinery Contractors Framework. The framework will support the Property & Support Services Division in delivering planned, reactive, routine and emergency joinery works across NHS Lanarkshire\u2019s healthcare estate.\nThe framework will comprise three lots:\nLot 1: University Hospital Monklands, works below GBP 5,000 - Lot 1 covers planned, routine, reactive and emergency joinery works valued below GBP 5,000 at University Hospital Monklands. One contractor will",
-   "published": "2026-09-11T15:53:37+01:00",
-   "deadline": "2026-10-19T17:00:00+01:00",
-   "value": 4300000,
-   "region": null,
-   "cpv": [
-    "45421000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/086578-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
   {
    "id": "FTS-087374-2026",
    "source": "Find a Tender",
@@ -1547,6 +1450,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/097721-2026",
    "first_seen": "2026-10-17T06:26:56.127707+00:00"
+  },
+  {
+   "id": "FTS-098285-2026",
+   "source": "Find a Tender",
+   "title": "Boiler chemical and Softener Services",
+   "buyer": "Maidstone and Tunbridge Wells NHS Trust",
+   "description": "bpoler chemical, softener service, boiler service, plant softener",
+   "published": "2026-10-19T09:23:20+01:00",
+   "deadline": "2026-11-16T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "45232430"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/098285-2026",
+   "first_seen": "2026-10-20T06:31:10.527290+00:00"
   },
   {
    "id": "FTS-092466-2026",
@@ -5138,6 +5060,44 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/b49c0173-9cd6-42b7-a65f-ebd1462bd614",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "CF-19d8cf6d-c183-4b59-b592-47827c418d53",
+   "source": "Contracts Finder",
+   "title": "FDIS - Elgin External Refurbishments to 95 properties - FY2026/27 - Amey North Region - Scotland",
+   "buyer": "AMEY DEFENCE SERVICES LIMITED",
+   "description": "North Region - Scotland\r\n\r\nBrief Scope of Works\r\n\r\nReplace all existing timber/PVCu windows with white PVCu windows\r\n\r\nReplace all existing timber/PVCu doors with PVCu doors\r\n\r\nEase &amp; Adjust garage &#039;up &amp; over&#039; doors\r\n\r\nItemised electrical works\r\n\r\nShared role On Site Liaison Officer\r\n\r\nAmey have been tasked by the DIO through the FDIS to deliver the Regional Accommodation Maintenance Service for the Central and North Regions.\r\nThis notice is a call for competition and there may not be a further notice related to this opportunity.\r\nFor Amey to accept any EoI it is ESSENTIAL th",
+   "published": "2026-10-19T13:06:42+01:00",
+   "deadline": null,
+   "value": 870000,
+   "region": "Scotland",
+   "cpv": [
+    "45262690"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/19d8cf6d-c183-4b59-b592-47827c418d53",
+   "first_seen": "2026-10-20T06:31:10.527290+00:00"
+  },
+  {
+   "id": "CF-9bb657d8-166d-43c2-b83c-31250afd1141",
+   "source": "Contracts Finder",
+   "title": "FDIS - Newcastle-upon-Tyne Refurbishment to 7 properties - FY2026/27 - Amey North Region - North",
+   "buyer": "AMEY DEFENCE SERVICES LIMITED",
+   "description": "Brief scope of works:\r\nExternal Works\t\r\nRemove roof vent ducts \r\nCore 2x holes in wall &amp; redirect ducts\r\nInternal Works\t\r\nInstall kitchen at 1 SFA\r\nReplace all skirting boards/architraves\r\nInstall bathroom suite\r\nRemove existing radiators/install radiators \r\nInstall doors throughout\r\nPrepare wall/ceiling &amp; redecorate\r\nReplace floor coverings\r\nThis notice is a call for competition and there may not be a further notice related to this opportunity.\r\nFor Amey to accept any EoI it is ESSENTIAL that any subcontractor is:\r\nwilling to act as Main Contractor (essential requirement);\r\na Verified",
+   "published": "2026-10-19T14:56:33+01:00",
+   "deadline": null,
+   "value": 348000,
+   "region": "North East",
+   "cpv": [
+    "45262690"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/9bb657d8-166d-43c2-b83c-31250afd1141",
+   "first_seen": "2026-10-20T06:31:10.527290+00:00"
   },
   {
    "id": "CF-ec08d37d-fa5f-404f-a57a-f8aeeae2cdd0",
