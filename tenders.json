@@ -1,45 +1,6 @@
 {
- "generated": "2026-10-20T06:31:10.527290+00:00",
+ "generated": "2026-10-21T06:32:10.771288+00:00",
  "tenders": [
-  {
-   "id": "FTS-087374-2026",
-   "source": "Find a Tender",
-   "title": "Social Care Agency Workers Flexible Framework Agreement",
-   "buyer": "Scotland Excel",
-   "description": "This procurement exercise is to establish a \u2018National Flexible Framework Agreement\u2019 in accordance with Regulations 74-76 of the Public Contracts (Scotland) Regulations 2015, \u201cthe Regulations\u201d (further referred to as 'the Flexible Framework Agreement (FFA)') for the provision of trained and vetted Social Care Agency Workers in a variety of social care settings.\nOnce established, subject to the terms of the FFA, there may be opportunities for admission of new suppliers and existing suppliers may vary their service (see the Procurement Documents for full details).\nThe value provided in II.1.5 is ",
-   "published": "2026-09-15T14:52:37+01:00",
-   "deadline": "2026-10-20T12:00:00+01:00",
-   "value": 100000000,
-   "region": null,
-   "cpv": [
-    "55321000",
-    "55322000",
-    "79612000",
-    "79622000",
-    "85300000",
-    "85310000",
-    "85311000",
-    "85311100",
-    "85311200",
-    "85311300",
-    "85312000",
-    "85312100",
-    "85312110",
-    "85312120",
-    "85312400",
-    "85312500",
-    "85312510",
-    "85320000",
-    "85323000",
-    "98510000",
-    "98514000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/087374-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
   {
    "id": "FTS-093514-2026",
    "source": "Find a Tender",
@@ -186,6 +147,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/089780-2026",
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
+  },
+  {
+   "id": "CF-b583fb08-d85c-405e-81a1-fab5f053a5ca",
+   "source": "Contracts Finder",
+   "title": "Supply Chain Notice: WC1948344 - CIDP26 Islandwide Demolitions, Dhekelia &amp; Episkopi (CYPRUS)",
+   "buyer": "Ministry of Defence",
+   "description": "CIDP 26 ISLANDWIDE DEMOLITIONS - DHEKELIA &amp; EPISKOPI STATIONS\r\n\r\nProject Scope\r\n\r\nThe project comprises the demolition of 24 No. assets at Minden Village, Dhekelia, together with the removal of associated infrastructure, with the objective of returning the affected areas to brownfield status. The scope at Dhekelia also incorporates the brownfield conversion of the former Pergamos and Rhine Camp demolition sites. The Episkopi scope comprises the demolition of 9 No. building assets, together with the brownfield conversion of a previously demolished site.\r\n\r\nThe works include, but are not lim",
+   "published": "2026-10-20T11:10:18+01:00",
+   "deadline": "2026-10-22T23:59:00+01:00",
+   "value": 1000000,
+   "region": "West Midlands",
+   "cpv": [
+    "45111100"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/b583fb08-d85c-405e-81a1-fab5f053a5ca",
+   "first_seen": "2026-10-21T06:32:10.771288+00:00"
   },
   {
    "id": "FTS-089429-2026",
@@ -1565,6 +1545,112 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/cf62aca6-c438-4f73-9156-354dcaf76167",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "FTS-099191-2026",
+   "source": "Find a Tender",
+   "title": "EDC/2026/4397 Lift Refurbishment Milngavie Enterprise Centre",
+   "buyer": "East Dunbartonshire Council",
+   "description": "The Authority wishes to establish a contract for the provision of a Lift Refurbishment at Milngavie Enterprise Centre (MEC). The contract is for the supply, delivery, erection, connection, testing and servicing of all materials and equipment required to provide a fully refurbished lift meeting and certified to current standards, all in accordance with the terms and conditions of the Tender Preliminaries, Specifications and Schedules.",
+   "published": "2026-10-20T16:52:49+01:00",
+   "deadline": "2026-11-23T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "42416130",
+    "45313100"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/099191-2026",
+   "first_seen": "2026-10-21T06:32:10.771288+00:00"
+  },
+  {
+   "id": "FTS-099130-2026",
+   "source": "Find a Tender",
+   "title": "Subcontracting Framework for Works and Associated Services",
+   "buyer": "Tayside Contracts",
+   "description": "Tayside Contracts invites suitably qualified and experienced contractors to submit a completed Single Procurement Document (SPD) in connection with the proposed Subcontracting Framework for Works and Associated Services.\nThe Framework is intended to provide a flexible, compliant and efficient route to market for subcontracted works and specialist services that supplement internal delivery capacity and support operational resilience across the organisation.\nThis procurement will be conducted using the Restricted Procedure in accordance with the Public Contracts (Scotland) Regulations 2015.\nThe ",
+   "published": "2026-10-20T15:34:26+01:00",
+   "deadline": "2026-11-26T12:00:00+00:00",
+   "value": 17200000,
+   "region": null,
+   "cpv": [
+    "34922100",
+    "34923000",
+    "45000000",
+    "45220000",
+    "45233221",
+    "45233223",
+    "45233228",
+    "45233280",
+    "45342000",
+    "63712700",
+    "77310000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/099130-2026",
+   "first_seen": "2026-10-21T06:32:10.771288+00:00"
+  },
+  {
+   "id": "CF-7f9a030d-c41d-4f56-8806-67c681600b21",
+   "source": "Contracts Finder",
+   "title": "CA18585 -  ITT Repair and replacement works to whole site drainage system",
+   "buyer": "Diocese of Norwich Education and Academies Trust",
+   "description": "?The Diocese of Norwich Education Services Company (DoNESC) is carrying out a procurement exercise on the behalf of Diss Church of England Junior Academy to procure repair and replacement works to whole site drainage system.  \r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18585.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18585 as the reason for registration. \r\n\r\n Any queries please contact MultiQuote on 020 3920 8054.",
+   "published": "2026-10-20T12:18:14+01:00",
+   "deadline": "2026-11-27T17:00:00+00:00",
+   "value": 100000,
+   "region": "Any region",
+   "cpv": [
+    "45210000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/7f9a030d-c41d-4f56-8806-67c681600b21",
+   "first_seen": "2026-10-21T06:32:10.771288+00:00"
+  },
+  {
+   "id": "CF-c5220f56-6af4-449e-ac5f-ec2993bbe258",
+   "source": "Contracts Finder",
+   "title": "Swanley Park Footpath Refurbishment",
+   "buyer": "Swanley Town Council",
+   "description": "Swanley Town Council is seeking suitably qualified and experienced contractors to undertake the excavation, removal, reconstruction and improvement of two existing footpaths. The project aims to improve accessibility, durability and the overall quality of the footpath network through the installation of wider, fit-for-purpose pathways that meet the requirements of their intended use.\r\n\r\nThe works will comprise the following:\r\n\r\nFootpath One\r\n\r\nFootpath One extends approximately 355.4 linear metres and will broadly follow the alignment of the existing footpath. The pathway will be widened to pr",
+   "published": "2026-10-20T16:32:07+01:00",
+   "deadline": "2026-11-30T12:00:00+00:00",
+   "value": 20000,
+   "region": "",
+   "cpv": [
+    "45233161 45233253"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/c5220f56-6af4-449e-ac5f-ec2993bbe258",
+   "first_seen": "2026-10-21T06:32:10.771288+00:00"
+  },
+  {
+   "id": "FTS-098841-2026",
+   "source": "Find a Tender",
+   "title": "2026 - Aberdeen City - Integrated Children with Disabilities Services",
+   "buyer": "Aberdeen City Council",
+   "description": "Aberdeen City Council requires the provision of an integrated specialist support service for disabled children and young people aged from birth to 18 years who have complex and/or significant care and support needs requiring a level of specialist support beyond that ordinarily available through universal, community-based or mainstream care provision. This may include children and young people with complex health, physical, learning, developmental, sensory, communication and/or behavioural support needs, including needs associated with autism. Eligibility for, and the nature of, support will be",
+   "published": "2026-10-20T10:35:30+01:00",
+   "deadline": "2026-12-01T12:00:00+00:00",
+   "value": 11475000,
+   "region": null,
+   "cpv": [
+    "85000000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/098841-2026",
+   "first_seen": "2026-10-21T06:32:10.771288+00:00"
   },
   {
    "id": "FTS-097325-2026",
