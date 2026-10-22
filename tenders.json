@@ -1,130 +1,6 @@
 {
- "generated": "2026-10-21T06:32:10.771288+00:00",
+ "generated": "2026-10-22T06:32:54.202343+00:00",
  "tenders": [
-  {
-   "id": "FTS-093514-2026",
-   "source": "Find a Tender",
-   "title": "Insourced Breast USC One-Stop Triple Assessment and Symptomatic Breast Radiology",
-   "buyer": "Hull University Teaching Hospitals NHS Trust",
-   "description": "Hull University Hospitals NHS Trust (HUTH) on behalf of the Humber Health Partnership (HHP) plan to work in partnership with an Independent Sector (IS) Provider to facilitate provision of additional \u201cone-stop\u201d outpatient clinic capacity within the Breast Urgent Suspected Cancer (USC) pathway, to proactively manage capacity to maintain the delivery of the Cancer Faster Diagnostic Standard during periods where there is a demand vs capacity imbalance, and symptomatic breast radiology clinic support.<br/><br/>The \u201cOne-Stop Triple Assessment Clinic\" is a new-patient outpatient clinic that delivers ",
-   "published": "2026-10-02T16:18:43+01:00",
-   "deadline": "2026-10-21T12:00:00+01:00",
-   "value": 765000.0,
-   "region": null,
-   "cpv": [
-    "85111100",
-    "85121200",
-    "85148000",
-    "85150000"
-   ],
-   "categories": [
-    "Teleradiology"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/093514-2026",
-   "first_seen": "2026-10-03T06:21:58.945632+00:00"
-  },
-  {
-   "id": "FTS-089322-2026",
-   "source": "Find a Tender",
-   "title": "Framework Agreement for Design, Supply & Installation of Kitchens (Lot 1) and Bathrooms (Lot 2) & Associated Works 2026 to 2030",
-   "buyer": "Loreburn Housing Association",
-   "description": "The kitchen upgrades comprise the replacement of existing kitchens, the supply and installation of wall cabinets and base units, laminate worktops with mitred joints, sinks with single level mixer taps and relevant waste fittings.\nThe works will also comprise wall boarding above worktops and to the underside of wall cabinets, all as detailed within the Employers Requirements.\nThe bathroom upgrades comprise the replacement of existing bathroom /wet floor room installations, the supply and installation of new\nshower screens, electrical showers, extractor fans, IP rated LED light fitting and all ",
-   "published": "2026-09-21T16:29:04+01:00",
-   "deadline": "2026-10-21T12:00:00+01:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "45211310",
-    "45421151"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/089322-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-089112-2026",
-   "source": "Find a Tender",
-   "title": "Community Harm Reduction and Recovery Initiation Services \u2013 Core Locality Hub Services",
-   "buyer": "The City of Edinburgh Council",
-   "description": "The Edinburgh Health and Social Care Partnership (EH&SCP), through the City of Edinburgh Council (the Council), wish to tender for the provision of a city-wide Community Harm Reduction and Recovery Initiation Service, delivered via local hubs throughout the City. The Service supports people over the age of 18 who encounter problems as a result of substance use or who are in recovery from substance use. The Service facilitates initiation of recovery and provides help to manage community harm related to the use of drugs and alcohol across the city. Please see the attached document 'CT1428 Specif",
-   "published": "2026-09-21T12:33:36+01:00",
-   "deadline": "2026-10-21T12:00:00+01:00",
-   "value": 16517844,
-   "region": null,
-   "cpv": [
-    "85000000",
-    "85310000",
-    "98000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/089112-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-088982-2026",
-   "source": "Find a Tender",
-   "title": "Provision of a Mental Health Recovery Service",
-   "buyer": "Inverclyde Council",
-   "description": "Inverclyde Council requires the Provider to provide a Mental Health Recovery Support Service which provides personalised and collective support to adults with mental health and /or drug and alcohol related issue. In delivering the Service, the Provider shall have regard to and support, where relevant and proportionate to the Services, the principles, objectives and outcomes of the New Scots Refugee Integration Strategy and any successor national refugee integration strategy or associated delivery framework applicable during the term of the Contract.",
-   "published": "2026-09-21T10:11:00+01:00",
-   "deadline": "2026-10-21T12:00:00+01:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85000000",
-    "85312400",
-    "85312500",
-    "85323000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/088982-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-089255-2026",
-   "source": "Find a Tender",
-   "title": "Children's Services Re-Opening of the Open Select List 2026 for all Independent Placement",
-   "buyer": "Lincolnshire County Council",
-   "description": "Lincolnshire Children's Services Re-Opening of the Open Select List 2026 for all Independent Placements. This procurement is under the Light Touch Regime established pursuant to Regulations 74-76 and Regulation 76(7) of the Public Contracts Regulations  2015 for the purposes of commissioning an Open Select List for the provision of placements for all Independent Placements;\n* Independent Non-Maintained (Special) Schools (INMS)\n* Independent Residential Children's Homes\n* Independent Foster Care (IFA)\n* Supported Accommodation\n* Domiciliary Care for Children with Disabilities (CWD)\n* Short Brea",
-   "published": "2026-09-21T14:55:57+01:00",
-   "deadline": "2026-10-21T15:00:00+01:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85300000"
-   ],
-   "categories": [
-    "Supported Living",
-    "Supported Accommodation"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/089255-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "CF-47c7022c-d9fb-4faf-a1f3-101d87508099",
-   "source": "Contracts Finder",
-   "title": "Ascent Homes - Coulson Park - Roads &amp; Sewers",
-   "buyer": "Advance Northumberland Limited",
-   "description": "Advance Northumberland (Developments) Limited, trading as Advance Northumberland (Developments) Ltd requires a Roads &amp; Sewers sub-contractor for our new build housing development consisting of 57no new build plots in Coulson Park, Ashington, Northumberland.\r\nAll tender documentation can be found on the ProContract Portal",
-   "published": "2026-09-11T11:55:13+01:00",
-   "deadline": "2026-10-21T23:59:00+01:00",
-   "value": 0,
-   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
-   "cpv": [
-    "44000000 45000000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/47c7022c-d9fb-4faf-a1f3-101d87508099",
-   "first_seen": "2026-10-08T06:20:36.719660+00:00"
-  },
   {
    "id": "FTS-089780-2026",
    "source": "Find a Tender",
@@ -441,6 +317,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/090951-2026",
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
+  },
+  {
+   "id": "CF-57d674b8-2d82-4713-be97-25a6d77e8185",
+   "source": "Contracts Finder",
+   "title": "BBV HS2 MWCC North - Pumped Drainage",
+   "buyer": "Balfour Beatty VINCI JV HS2",
+   "description": "Balfour Beatty VINCI (BBV) have been awarded HS2 main works civils contracts for the Area North project in the West Midlands. \r\n      \r\n      We are looking to engage with an experienced contractor supply chain who provide Pumped Drainage works.\r\n      \r\n      Full details and specifications will be provided to the successfully shortlisted suppliers. Suppliers should be aware of the scale of this project and should assess their internal capabilities to be able to carry out the intended scope of works, prior to completing this expression of interest (EOI).",
+   "published": "2026-10-21T11:40:04+01:00",
+   "deadline": "2026-10-28T12:00:00+00:00",
+   "value": 5000000,
+   "region": "West Midlands",
+   "cpv": [
+    "45200000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/57d674b8-2d82-4713-be97-25a6d77e8185",
+   "first_seen": "2026-10-22T06:32:54.202343+00:00"
   },
   {
    "id": "FTS-091262-2026",
@@ -817,6 +712,44 @@
    "first_seen": "2026-10-01T13:18:18.834692+00:00"
   },
   {
+   "id": "CF-3b95f7c6-f7ba-4062-bcbd-f33f12eaf0c7",
+   "source": "Contracts Finder",
+   "title": "Ascent Homes - Coulson Park - Roads &amp; Sewers",
+   "buyer": "Advance Northumberland Limited",
+   "description": "Advance Northumberland (Developments) Limited, trading as Advance Northumberland (Developments) Ltd requires a Roads &amp; Sewers sub-contractor for our new build housing development consisting of 57no new build plots in Coulson Park, Ashington, Northumberland.\r\nAll tender documentation can be found on the ProContract Portal",
+   "published": "2026-09-11T11:55:13+01:00",
+   "deadline": "2026-11-02T17:00:00+00:00",
+   "value": 0,
+   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+   "cpv": [
+    "44000000 45000000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/3b95f7c6-f7ba-4062-bcbd-f33f12eaf0c7",
+   "first_seen": "2026-10-22T06:32:54.202343+00:00"
+  },
+  {
+   "id": "CF-6641d3b8-65a9-41e5-b43c-350b49d0b605",
+   "source": "Contracts Finder",
+   "title": "Ascent Homes - Coulson Park - Groundworks",
+   "buyer": "Advance Northumberland Limited",
+   "description": "Advance Northumberland (Developments) Limited, trading as Advance Northumberland (Developments) Ltd requires a Groundworks sub-contractor for our new build housing development consisting of 57no new build plots in Coulson Park, Ashington, Northumberland.\r\nAll tender documentation can be found on the ProContract Portal.",
+   "published": "2026-10-21T15:38:35+01:00",
+   "deadline": "2026-11-02T23:59:00+00:00",
+   "value": 0,
+   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West",
+   "cpv": [
+    "45000000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/6641d3b8-65a9-41e5-b43c-350b49d0b605",
+   "first_seen": "2026-10-22T06:32:54.202343+00:00"
+  },
+  {
    "id": "CF-fa4e7e3d-8560-45e2-bef5-6de16a496fb4",
    "source": "Contracts Finder",
    "title": "RRE-01284 - For the provision of a Digitally Enabled Children &amp; Young People&#039;s Mental Health Service (South Staffordshire)",
@@ -853,6 +786,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/098226-2026",
    "first_seen": "2026-10-17T06:26:56.127707+00:00"
+  },
+  {
+   "id": "CF-ad1a57b4-db57-4466-a143-15b0af91c989",
+   "source": "Contracts Finder",
+   "title": "DNWP0016 - WAGR Enabling Works and Strip-out - Sellafield - A2R JV",
+   "buyer": "Altrad AtkinsRealis Joint Venture (A2R JV)",
+   "description": "WAGR Overview and Site Information\r\n    \r\n    The Windscale Advanced Gas-cooled Reactor (WAGR), commissioned in 1962, was the prototype for the UK&#039;s second-generation Advanced Gas-cooled Reactor (AGR) fleet. The facility (Building B50), recognised by its distinctive spherical containment shell, was supported by the fuel assembly building (B52) and turbine hall (B55).\r\n    \r\n    Following reactor core dismantling and removal in 2012, the WAGR Complex entered Care and Maintenance (C&amp;M). The facility is now progressing towards its final phase of decommissioning and demolition. Existing r",
+   "published": "2026-10-21T13:50:03+01:00",
+   "deadline": "2026-11-03T17:00:00+00:00",
+   "value": 20000000,
+   "region": "Any region",
+   "cpv": [
+    "45251111 98113100 42151000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/ad1a57b4-db57-4466-a143-15b0af91c989",
+   "first_seen": "2026-10-22T06:32:54.202343+00:00"
   },
   {
    "id": "FTS-096971-2026",
@@ -1596,6 +1548,26 @@
    "first_seen": "2026-10-21T06:32:10.771288+00:00"
   },
   {
+   "id": "FTS-099692-2026",
+   "source": "Find a Tender",
+   "title": "Unpaid Carer Support Service",
+   "buyer": "Midlothian Council",
+   "description": "Midlothian Council seeks a single Provider to be the main service delivering a range of community based unpaid carer support services to relevant carers in Midlothian. The services will support carers in a range of carer roles and circumstances, including carers who are currently underserved within services. The service contract is focussed on delivery of Midlothian Integration Joint Board (IJB) Unpaid Carer Strategy (2025-28), and the Provider will support development and delivery of future strategies in place during the duration of the contract. The Provider is expected to work collaborative",
+   "published": "2026-10-21T16:57:52+01:00",
+   "deadline": "2026-11-27T12:00:00+00:00",
+   "value": 3720798.75,
+   "region": null,
+   "cpv": [
+    "85000000",
+    "85300000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/099692-2026",
+   "first_seen": "2026-10-22T06:32:54.202343+00:00"
+  },
+  {
    "id": "CF-7f9a030d-c41d-4f56-8806-67c681600b21",
    "source": "Contracts Finder",
    "title": "CA18585 -  ITT Repair and replacement works to whole site drainage system",
@@ -1632,6 +1604,27 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/c5220f56-6af4-449e-ac5f-ec2993bbe258",
    "first_seen": "2026-10-21T06:32:10.771288+00:00"
+  },
+  {
+   "id": "FTS-099247-2026",
+   "source": "Find a Tender",
+   "title": "Services for Unaccompanied Asylum Seeking Children (UASC) in Highland",
+   "buyer": "The Highland Council",
+   "description": "A holistic support service for Unaccompanied Asylum Seeking Children (UASC) referred through the National Transfer Scheme (NTS) and those arriving spontaneously within the Highland area.\nThe initial contract length will be two years (April 2027 - March 2029) with additional options to extend the contract on a yearly basis for up a further three years (March 2032).\nFunding will be provided through the UK Government's funding arrangements and the Council's ability to exercise any extension option will be dependent on the continuation of this funding supply.",
+   "published": "2026-10-21T08:54:51+01:00",
+   "deadline": "2026-12-01T12:00:00+00:00",
+   "value": 3600000,
+   "region": null,
+   "cpv": [
+    "85000000",
+    "85311300",
+    "85312000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/099247-2026",
+   "first_seen": "2026-10-22T06:32:54.202343+00:00"
   },
   {
    "id": "FTS-098841-2026",
@@ -1882,6 +1875,25 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/670f3692-293a-46e8-9022-c4a0f5098482",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "FTS-099557-2026",
+   "source": "Find a Tender",
+   "title": "Commissioning Homes for Children Looked After & Care Leavers PDPS - Lot 4 Rd 7",
+   "buyer": "London Borough of Newham",
+   "description": "The London Borough of Newham has established a Pseudo-Dynamic Purchasing System (PDPS) for the supply of services in respect of children's externally commissioned care, accommodation and support services.\nThis notice is for the re-opening of Lot 4 Round 7.\nThe services include:\nLot 1: Provision of Semi-Independent Living Services - already established\nLot 2: Provision of Children's Homes regulated by Ofsted - already established\nLot 3: Provision of Supported Lodgings\nLot 4: Provision of Independent Fostering Agencies (IFA) regulated by Ofsted\nThese services will be available to looked after ch",
+   "published": "2026-10-21T14:35:10+01:00",
+   "deadline": "2027-02-26T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "85300000"
+   ],
+   "categories": [
+    "Supported Accommodation"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/099557-2026",
+   "first_seen": "2026-10-22T06:32:54.202343+00:00"
   },
   {
    "id": "FTS-083529-2026",
