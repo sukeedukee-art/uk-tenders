@@ -1,48 +1,6 @@
 {
- "generated": "2026-10-22T06:32:54.202343+00:00",
+ "generated": "2026-10-23T06:32:08.052236+00:00",
  "tenders": [
-  {
-   "id": "FTS-089780-2026",
-   "source": "Find a Tender",
-   "title": "Professional Estate Management Services Framework",
-   "buyer": "National Records of Scotland",
-   "description": "National Records of Scotland (NRS) operates across an estate comprising five buildings, four of which are located in Edinburgh (three being Category \u2018A\u2019 listed) and one in Dumfries. The historic and cultural significance of these assets requires the engagement of suppliers with demonstrable expertise in conservation led estates services and  operational, specialist archival storage facilities and a clear understanding of the statutory, technical and professional requirements associated with working within protected and sensitive environments. Such services are critical to ensuring that NRS can",
-   "published": "2026-09-22T15:52:40+01:00",
-   "deadline": "2026-10-22T12:00:00+01:00",
-   "value": 4000000,
-   "region": null,
-   "cpv": [
-    "45212350",
-    "70330000",
-    "71000000",
-    "71200000",
-    "71210000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/089780-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "CF-b583fb08-d85c-405e-81a1-fab5f053a5ca",
-   "source": "Contracts Finder",
-   "title": "Supply Chain Notice: WC1948344 - CIDP26 Islandwide Demolitions, Dhekelia &amp; Episkopi (CYPRUS)",
-   "buyer": "Ministry of Defence",
-   "description": "CIDP 26 ISLANDWIDE DEMOLITIONS - DHEKELIA &amp; EPISKOPI STATIONS\r\n\r\nProject Scope\r\n\r\nThe project comprises the demolition of 24 No. assets at Minden Village, Dhekelia, together with the removal of associated infrastructure, with the objective of returning the affected areas to brownfield status. The scope at Dhekelia also incorporates the brownfield conversion of the former Pergamos and Rhine Camp demolition sites. The Episkopi scope comprises the demolition of 9 No. building assets, together with the brownfield conversion of a previously demolished site.\r\n\r\nThe works include, but are not lim",
-   "published": "2026-10-20T11:10:18+01:00",
-   "deadline": "2026-10-22T23:59:00+01:00",
-   "value": 1000000,
-   "region": "West Midlands",
-   "cpv": [
-    "45111100"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/b583fb08-d85c-405e-81a1-fab5f053a5ca",
-   "first_seen": "2026-10-21T06:32:10.771288+00:00"
-  },
   {
    "id": "FTS-089429-2026",
    "source": "Find a Tender",
@@ -1459,6 +1417,26 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/097310-2026",
    "first_seen": "2026-10-16T06:30:16.976396+00:00"
+  },
+  {
+   "id": "FTS-099867-2026",
+   "source": "Find a Tender",
+   "title": "Fostering and Continuing Care Services 0924",
+   "buyer": "Scotland Excel",
+   "description": "This Contract Notice pertains to a Flexible Framework for Fostering and Continuing Care Services 0924. The Flexible Framework will support local authorities to access nurturing family homes for children and young people who are care experienced. For more detail- see CONTRACT NOTICE ATTACHMENT (per III.1.4).",
+   "published": "2026-10-22T11:07:51+01:00",
+   "deadline": "2026-11-18T12:00:00+00:00",
+   "value": 345000000,
+   "region": null,
+   "cpv": [
+    "85300000",
+    "85310000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/099867-2026",
+   "first_seen": "2026-10-23T06:32:08.052236+00:00"
   },
   {
    "id": "CF-7eeb3a8e-8f79-46c3-92bf-a032bedc89d7",
