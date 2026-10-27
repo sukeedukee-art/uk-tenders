@@ -1,107 +1,6 @@
 {
- "generated": "2026-10-26T06:36:56.944724+00:00",
+ "generated": "2026-10-27T06:34:53.450138+00:00",
  "tenders": [
-  {
-   "id": "CF-e2d9dc88-6503-4899-a4b0-76f0a5c96ffe",
-   "source": "Contracts Finder",
-   "title": "H&amp;C1025 Sexual Health Services",
-   "buyer": "East Riding of Yorkshire Council",
-   "description": "Sexual health needs in the East Riding are shaped by a combination of demographic, geographic, and health inequality factors. Sexual ill health is closely linked with deprivation, rurality, and limited access to services, contributing to avoidable harm and poorer outcomes for specific population groups. In the East Riding sexually transmitted infections, unplanned pregnancies, and associated complications continue to present a significant impact on individuals and the wider health systemThe Service will support delivery against the three nationally mandated Public Health Outcomes Framework (PH",
-   "published": "2026-09-26T01:03:28+01:00",
-   "deadline": "2026-10-26T12:00:00+00:00",
-   "value": 8400000,
-   "region": "Yorkshire and The Humber",
-   "cpv": [
-    "85000000 85140000 85141000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/e2d9dc88-6503-4899-a4b0-76f0a5c96ffe",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
-  {
-   "id": "FTS-091204-2026",
-   "source": "Find a Tender",
-   "title": "H&C1025 Sexual Health Services",
-   "buyer": "East Riding of Yorkshire Council",
-   "description": "Sexual health needs in the East Riding are shaped by a combination of demographic, geographic, and health inequality factors. Sexual ill health is closely linked with deprivation, rurality, and limited access to services, contributing to avoidable harm and poorer outcomes for specific population groups. In the East Riding sexually transmitted infections, unplanned pregnancies, and associated complications continue to present a significant impact on individuals and the wider health systemThe Service will support delivery against the three nationally mandated Public Health Outcomes Framework (PH",
-   "published": "2026-09-25T23:16:45+01:00",
-   "deadline": "2026-10-26T12:00:00+00:00",
-   "value": 8400000.0,
-   "region": null,
-   "cpv": [
-    "85000000",
-    "85140000",
-    "85141000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/091204-2026",
-   "first_seen": "2026-10-02T06:18:37.923737+00:00"
-  },
-  {
-   "id": "FTS-090994-2026",
-   "source": "Find a Tender",
-   "title": "Measured Term Contract for Combined Re-Roofing, Re-Rendering, EWI and Solar PV Programme",
-   "buyer": "North Ayrshire Council",
-   "description": "North Ayrshire Council (\"the Council\") invites tenders for the provision of a Measured `Term Contract for a combined re-roofing, re-rendering, external wall insulation and solar photovoltaic (PV) installation programme to residential properties at various locations throughout North Ayrshire.\nThe initial contract period will be three (3) years from the commencement date of 1 April 2027 to 31 March 2030, with the option to extend for up to two (2) additional periods of twelve (12) months each, at the sole discretion of the Council.",
-   "published": "2026-09-25T13:16:58+01:00",
-   "deadline": "2026-10-26T12:00:00+00:00",
-   "value": 44894399,
-   "region": null,
-   "cpv": [
-    "45260000",
-    "45261215",
-    "45320000",
-    "50700000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/090994-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-090206-2026",
-   "source": "Find a Tender",
-   "title": "Family Support Services (Inverclyde)",
-   "buyer": "NHS Greater Glasgow and Clyde",
-   "description": "Inverclyde Health and Social Care Partnership (HSCP) and the Inverclyde Alcohol and Drug\nPartnership (ADP) require the delivery of a Family Support Service (FSS) for adults and young\npeople aged 16 years and over, who reside in Inverclyde and are affected by the alcohol\nand/or drug use of a family member, partner, friend or loved one.\nThe Family Support service will recognise that substance use can have a significant and\nlasting impact on family members in their own right and that families require support regardless\nof whether their loved one is currently engaged in treatment, recovery or acti",
-   "published": "2026-09-23T14:48:33+01:00",
-   "deadline": "2026-10-26T13:00:00+00:00",
-   "value": 500000,
-   "region": null,
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/090206-2026",
-   "first_seen": "2026-10-02T06:18:37.923737+00:00"
-  },
-  {
-   "id": "FTS-097389-2026",
-   "source": "Find a Tender",
-   "title": "Drug and Alcohol Treatment and Recovery",
-   "buyer": "Kingston Upon Hull City Council",
-   "description": "This is a Provider Selection Regime (PSR) intended to award notice. The awarding of this contract is subject to the Health Care Services (Provider Selection Regime) Regulations 2023. For the avoidance of doubt, the provisions of the Procurement Act do not apply to this award. In accordance with Regulation 10 of The Health Care Services (Provider Selection Regime) Regulations 2023, Hull City Council is looking to award a contract under the Direct Award Option C process as the Council is able to identify the existing provider will likely satisfy the proposed contract to a sufficient standard  ta",
-   "published": "2026-10-15T11:43:00+01:00",
-   "deadline": "2026-10-27T00:00:00+00:00",
-   "value": 187500,
-   "region": null,
-   "cpv": [
-    "85100000",
-    "85312500"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/097389-2026",
-   "first_seen": "2026-10-16T06:30:16.976396+00:00"
-  },
   {
    "id": "FTS-090951-2026",
    "source": "Find a Tender",
@@ -1043,6 +942,25 @@
    "first_seen": "2026-10-14T06:31:51.759088+00:00"
   },
   {
+   "id": "CF-3244a195-4d3f-4923-b52f-8858e90ad9d1",
+   "source": "Contracts Finder",
+   "title": "DNWP0027- Lot 1B / WAGR B55 Demolition - Sellafield - A2R JV",
+   "buyer": "Altrad AtkinsRealis Joint Venture (A2R JV)",
+   "description": "The B55 and B55.2 demolition project at Sellafield involves the controlled demolition and dismantling of the B55 Office Complex and B55.2 Turbine Hall, located within the WAGR complex, down to existing ground-floor slab level. The scope includes soft stripping, asbestos remediation, high-reach mechanical demolition of the structural frame, cladding and reinforced-concrete floors, together with segregation and processing of demolition arisings, backfilling of voids and final site clearance.\r\n    \r\n    A key constraint is Substation 65, which is located within the B55/B55.2 structure and must re",
+   "published": "2026-10-26T16:00:04Z",
+   "deadline": "2026-11-10T17:00:00+00:00",
+   "value": 5000000,
+   "region": "Any region",
+   "cpv": [
+    "45251111 98113100 42151000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/3244a195-4d3f-4923-b52f-8858e90ad9d1",
+   "first_seen": "2026-10-27T06:34:53.450138+00:00"
+  },
+  {
    "id": "FTS-097179-2026",
    "source": "Find a Tender",
    "title": "Teleradiology Service",
@@ -1363,6 +1281,25 @@
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
   },
   {
+   "id": "FTS-100985-2026",
+   "source": "Find a Tender",
+   "title": "Conservation & Repair Works to Mid 20th Century Gantry Conveyor Structure",
+   "buyer": "NATIONAL COAL MINING MUSEUM FOR ENGLAND",
+   "description": "The National Coal Mining Museum for England are looking to appoint an appropriately experienced contractor to carry out repair and conservation works to a steel Gantry Conveyor, measuring approximately 100 metres in length, built circa 1970. \nThe works are part of a programme of works supported by the Public Bodies Infrastructure Fund",
+   "published": "2026-10-26T12:42:28Z",
+   "deadline": "2026-11-23T12:00:00+00:00",
+   "value": 250000,
+   "region": null,
+   "cpv": [
+    "45254100"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/100985-2026",
+   "first_seen": "2026-10-27T06:34:53.450138+00:00"
+  },
+  {
    "id": "FTS-099191-2026",
    "source": "Find a Tender",
    "title": "EDC/2026/4397 Lift Refurbishment Milngavie Enterprise Centre",
@@ -1419,6 +1356,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/100624-2026",
    "first_seen": "2026-10-24T06:27:10.602047+00:00"
+  },
+  {
+   "id": "FTS-101074-2026",
+   "source": "Find a Tender",
+   "title": "Supported Living Services Flexible Framework Agreement",
+   "buyer": "East Renfrewshire Council",
+   "description": "East Renfrewshire Council on behalf of the Health & Social Care Partnership is inviting tenders, from suitably qualified providers for the Provision of Supported Living Services. Contract award will be offered as a Flexible Framework Agreement in accordance with Regulations 74-76 of the Public Contracts (Scotland) Regulations 2015.\nThe Flexible Framework allows for new entrants to be admitted, as Providers, after it has been established.\nThere will be no guarantee given with regard to the Council\u2019s overall uptake with any provider.\nCall off contracts under the Flexible Framework Agreement will",
+   "published": "2026-10-26T14:19:08Z",
+   "deadline": "2026-11-26T12:00:00+00:00",
+   "value": 150000000,
+   "region": null,
+   "cpv": [
+    "85000000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/101074-2026",
+   "first_seen": "2026-10-27T06:34:53.450138+00:00"
   },
   {
    "id": "FTS-099130-2026",
@@ -1546,6 +1502,26 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/098841-2026",
    "first_seen": "2026-10-21T06:32:10.771288+00:00"
+  },
+  {
+   "id": "FTS-101073-2026",
+   "source": "Find a Tender",
+   "title": "Early Learning & Childcare Provision Framework (New Applicants October 2026)",
+   "buyer": "East Ayrshire Council",
+   "description": "Framework Agreement for Early Learning and Childcare Provision - New Applicants October 2026\nOCTOBER 2026 REOPENING OF FLEXIBLE FRAMEWORK - NOTE THAT FUNDED PROVIDERS ALREADY INCLUDED IN THE FRAMEWORK DO NOT REQUIRE TO RE-APPLY, THIS NOTICE IS APPLICABLE FOR NEW APPLICANTS ONLY",
+   "published": "2026-10-26T14:17:43Z",
+   "deadline": "2026-12-10T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "80110000",
+    "85312110"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/101073-2026",
+   "first_seen": "2026-10-27T06:34:53.450138+00:00"
   },
   {
    "id": "FTS-097325-2026",
@@ -5116,25 +5092,6 @@
     "Supported Living"
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/ec08d37d-fa5f-404f-a57a-f8aeeae2cdd0",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
-  {
-   "id": "CF-a3194791-c613-428c-973e-e85e7c47f857",
-   "source": "Contracts Finder",
-   "title": "Early Help Alliance Project",
-   "buyer": "Wirral Borough Council",
-   "description": "The Early Help Alliance will provide support for children, young people and their families in Wirral.\r\nThe Alliance will be there for:\r\n\u2022 All families in Wirral who want some free information, resources, ideas or support to help their family be the best it can be\r\n\u2022 Any families who aren&#039;t sure exactly what they need but are beginning to feel overwhelmed\r\n\u2022 Families facing specific challenges and looking for additional support.",
-   "published": "2022-02-22T09:30:12Z",
-   "deadline": null,
-   "value": 3325000,
-   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/a3194791-c613-428c-973e-e85e7c47f857",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
   },
   {
