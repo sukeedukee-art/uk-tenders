@@ -5,14 +5,17 @@ Sources  : Contracts Finder API              (CF)
            Sell2Wales Atom                   (S2W)
            eTendersNI Atom                   (NI)
            TED / EU OJEU REST API            (TED) – optional, set TED_API_KEY env var.
-Output   : tenders.json  (read by index.html).  Run daily.
+Output   : tenders.json  (read by index.html) + tenders.csv.  Run daily.
 """
 from concurrent.futures import ThreadPoolExecutor
-import json, re, datetime as dt, requests, os
+import csv, json, re, datetime as dt, requests, os
 import xml.etree.ElementTree as ET
 
 UA       = {"User-Agent": "TenderMonitor/1.0 (contact@example.com)"}
 OUT      = "tenders.json"
+OUT_CSV  = "tenders.csv"
+CSV_COLS = ["id", "source", "title", "buyer", "value", "deadline", "published",
+            "first_seen", "region", "categories", "cpv", "url", "description"]
 NOW      = dt.datetime.now(dt.timezone.utc)
 FTS_BASE = "https://www.find-tender.service.gov.uk"
 ATOM_NS  = {"a": "http://www.w3.org/2005/Atom"}
@@ -420,6 +423,19 @@ def ted_notices():
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
+def write_csv(tenders, path=OUT_CSV):
+    # utf-8-sig so Excel opens £ and accented characters correctly
+    with open(path, "w", encoding="utf-8-sig", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=CSV_COLS, extrasaction="ignore")
+        w.writeheader()
+        for t in tenders:
+            row = {k: t.get(k) for k in CSV_COLS}
+            row["categories"] = "; ".join(t.get("categories") or [])
+            row["cpv"]        = "; ".join(t.get("cpv") or [])
+            w.writerow(row)
+    print(f"✓ Saved {len(tenders)} tenders → {path}")
+
+
 def main():
     prev = {}
     if os.path.exists(OUT):
@@ -457,6 +473,7 @@ def main():
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump({"generated": NOW.isoformat(), "tenders": tenders}, f, indent=1)
     print(f"\n✓ Saved {len(tenders)} tenders → {OUT}")
+    write_csv(tenders)
 
 
 if __name__ == "__main__":
