@@ -1,27 +1,6 @@
 {
- "generated": "2026-10-27T06:34:53.450138+00:00",
+ "generated": "2026-10-28T06:40:59.112785+00:00",
  "tenders": [
-  {
-   "id": "FTS-090951-2026",
-   "source": "Find a Tender",
-   "title": "Minor Archaeological Services Call-Off Contract",
-   "buyer": "Historic Environment Scotland",
-   "description": "Historic Environment Scotland (HES) requires a call off contract to be put in place for minor archaeological services.",
-   "published": "2026-09-25T12:13:18+01:00",
-   "deadline": "2026-10-27T12:00:00+00:00",
-   "value": 480000,
-   "region": null,
-   "cpv": [
-    "45112450",
-    "71351720",
-    "71351914"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/090951-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
   {
    "id": "CF-57d674b8-2d82-4713-be97-25a6d77e8185",
    "source": "Contracts Finder",
@@ -642,6 +621,26 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/094279-2026",
    "first_seen": "2026-10-07T06:17:53.468301+00:00"
+  },
+  {
+   "id": "FTS-101778-2026",
+   "source": "Find a Tender",
+   "title": "HtH-DPS-Semi-Independent Living",
+   "buyer": "London Borough of Haringey",
+   "description": "Support and life-skills coaching for care leavers living at Hornsey Town Hall (HtH) training flats",
+   "published": "2026-10-27T17:11:14Z",
+   "deadline": "2026-11-06T00:00:00+00:00",
+   "value": 292501,
+   "region": null,
+   "cpv": [
+    "85310000"
+   ],
+   "categories": [
+    "Supported Living",
+    "Supported Accommodation"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/101778-2026",
+   "first_seen": "2026-10-28T06:40:59.112785+00:00"
   },
   {
    "id": "CF-40c4facb-d342-4f6d-a3d6-0a1ac6a31a03",
@@ -1464,6 +1463,28 @@
    "first_seen": "2026-10-21T06:32:10.771288+00:00"
   },
   {
+   "id": "FTS-101613-2026",
+   "source": "Find a Tender",
+   "title": "Subcontractors and Specialist Contractors for Building Services - UPVC Windows and Doors",
+   "buyer": "West Dunbartonshire Council",
+   "description": "The provision is to give West Dunbartonshire Council a route to identify qualified multi-trade contractors and trade groups to deliver maintenance, routine servicing and emergency repairs to West Dunbartonshire Council buildings, including works to void properties in a multi-trade environment and a 24 hour 356 days emergency response service to be carried out in compliance with the contract conditions.\nContractors will be required to provide details on how their organisation in terms of skill, qualifications and competence that fit and meet with the specification the skills. They will need to ",
+   "published": "2026-10-27T14:31:05Z",
+   "deadline": "2026-12-01T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "44221000",
+    "45421100",
+    "45421110",
+    "50000000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/101613-2026",
+   "first_seen": "2026-10-28T06:40:59.112785+00:00"
+  },
+  {
    "id": "FTS-099247-2026",
    "source": "Find a Tender",
    "title": "Services for Unaccompanied Asylum Seeking Children (UASC) in Highland",
@@ -1579,6 +1600,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/097325-2026",
    "first_seen": "2026-10-16T06:30:16.976396+00:00"
+  },
+  {
+   "id": "FTS-101395-2026",
+   "source": "Find a Tender",
+   "title": "HAC6052 Integrated Adult Alcohol and Drug Prevention, Treatment and Recovery Service",
+   "buyer": "Tower Hamlets",
+   "description": "This tender is for the recommission of the adult drug and alcohol treatment and recovery system through one integrated contract with a single accountable provider. The service will:\n\u2022\tbring together core treatment, prescribing, psychosocial interventions, outreach, recovery support, IPS and agreed criminal-justice treatment/case-management functions;\n\u2022\tprovide a coherent resident pathway with strong harm-reduction, rough-sleeping, hospital, mental-health, primary-care, family, 18\u201325 and digital pathways;\n\u2022\tretain formal interfaces with services outside the contract, including Reset Discovery (",
+   "published": "2026-10-27T10:48:23Z",
+   "deadline": "2026-12-23T12:00:00+00:00",
+   "value": 36850000,
+   "region": null,
+   "cpv": [
+    "85312500"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/101395-2026",
+   "first_seen": "2026-10-28T06:40:59.112785+00:00"
   },
   {
    "id": "CF-ae5b9b25-7053-418b-9c38-e5290c1e9922",
@@ -5017,6 +5057,25 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/039d89a4-3acf-4880-9a70-ad039a282224",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "CF-81ac5f19-2fa9-40a7-870a-a78c4b563f48",
+   "source": "Contracts Finder",
+   "title": "FDIS - Catterick Disability Adaptation to 1 property - FY2026/27 - Amey North Region - Northern England",
+   "buyer": "AMEY DEFENCE SERVICES LIMITED",
+   "description": "North Region - Northern England\r\n\r\nBrief scope of works:\r\n\r\n\u2022\tInternal adaptation works\r\n\r\n\u2022\tInternal refurbishment \r\n\r\n\u2022\tThrough floor lift\r\n\r\n\u2022\tExternal ramp\r\n\r\nAmey have been tasked by the DIO through the FDIS to deliver the Regional Accommodation Maintenance Service for the Central and North Regions.\r\n\r\nThis notice is a call for competition and there may not be a further notice related to this opportunity.\r\n\r\nFor Amey to accept any EoI it is ESSENTIAL that any subcontractor is:\r\n\u2022\twilling to act as Main Contractor (essential requirement);\r\n\u2022\ta Verified member of Constructionline (GOLD), re",
+   "published": "2026-10-27T15:21:04Z",
+   "deadline": null,
+   "value": 113000,
+   "region": "Yorkshire and The Humber",
+   "cpv": [
+    "45262690"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/81ac5f19-2fa9-40a7-870a-a78c4b563f48",
+   "first_seen": "2026-10-28T06:40:59.112785+00:00"
   },
   {
    "id": "CF-b49c0173-9cd6-42b7-a65f-ebd1462bd614",
