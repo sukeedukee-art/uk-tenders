@@ -1,77 +1,6 @@
 {
- "generated": "2026-10-28T06:40:59.112785+00:00",
+ "generated": "2026-10-29T06:43:06.309501+00:00",
  "tenders": [
-  {
-   "id": "CF-57d674b8-2d82-4713-be97-25a6d77e8185",
-   "source": "Contracts Finder",
-   "title": "BBV HS2 MWCC North - Pumped Drainage",
-   "buyer": "Balfour Beatty VINCI JV HS2",
-   "description": "Balfour Beatty VINCI (BBV) have been awarded HS2 main works civils contracts for the Area North project in the West Midlands. \r\n      \r\n      We are looking to engage with an experienced contractor supply chain who provide Pumped Drainage works.\r\n      \r\n      Full details and specifications will be provided to the successfully shortlisted suppliers. Suppliers should be aware of the scale of this project and should assess their internal capabilities to be able to carry out the intended scope of works, prior to completing this expression of interest (EOI).",
-   "published": "2026-10-21T11:40:04+01:00",
-   "deadline": "2026-10-28T12:00:00+00:00",
-   "value": 5000000,
-   "region": "West Midlands",
-   "cpv": [
-    "45200000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/57d674b8-2d82-4713-be97-25a6d77e8185",
-   "first_seen": "2026-10-22T06:32:54.202343+00:00"
-  },
-  {
-   "id": "FTS-091262-2026",
-   "source": "Find a Tender",
-   "title": "Provision of an Alcohol and Drug Prevention, Early Intervention and Recovery Support Service",
-   "buyer": "North Ayrshire Council",
-   "description": "North Ayrshire Council (\u201cNAC\u201d) invites tenders for the provision of an Alcohol and Drug Prevention, Early Intervention and Recovery Support Service.\nThe anticipated contract start date is 15th May 2027. The contract period is 3 years with the option to extend for up to 24 months (this will be at the sole discretion of NAC and subject to satisfactory performance and funding).",
-   "published": "2026-09-28T09:35:53+01:00",
-   "deadline": "2026-10-28T12:00:00+00:00",
-   "value": 2200000,
-   "region": null,
-   "cpv": [
-    "75200000",
-    "75231240",
-    "85000000",
-    "85100000",
-    "85140000",
-    "85300000",
-    "85310000",
-    "85312000",
-    "85312300",
-    "85312320",
-    "85312500",
-    "85323000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/091262-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
-  {
-   "id": "FTS-091235-2026",
-   "source": "Find a Tender",
-   "title": "Framework for the Supply, Installation and Decommissioning of Bus Shelters",
-   "buyer": "Angus Council",
-   "description": "Angus Council, acting as Lead Authority on behalf of participating Councils, is seeking to establish a multi-supplier Framework Agreement for the supply, installation and decommissioning of bus shelters and associated services. The Framework will be divided into two Lots reflecting the requirements of the participating authorities.",
-   "published": "2026-09-28T08:55:06+01:00",
-   "deadline": "2026-10-28T17:00:00+00:00",
-   "value": 5900000,
-   "region": null,
-   "cpv": [
-    "44112110",
-    "44212321",
-    "45213315",
-    "45233293"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/091235-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
   {
    "id": "FTS-091075-2026",
    "source": "Find a Tender",
@@ -1280,6 +1209,25 @@
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
   },
   {
+   "id": "CF-fa06e7d2-9504-4b7c-8191-b9ea3c51277a",
+   "source": "Contracts Finder",
+   "title": "CA18609 - R9387 - SHGH - ECU STAFF ROOM",
+   "buyer": "Epsom &amp; St Helier University Hospitals NHS Trust",
+   "description": "Epsom and St Helier University Hospitals NHS Trust invites suitably qualified and experienced contractors to submit a fully priced tender for the refurbishment and conversion of an existing room within the Ground Floor Eye Care Unit at St Helier Hospital to provide a new staff welfare facility. The works include associated strip-out, building fabric alterations, installation of a new fire-rated door, suspended ceilings, safety vinyl flooring, internal decorations, enclosed kitchenette, hot and cold water supplies, drainage, electrical installations, lighting, fire stopping and all associated b",
+   "published": "2026-10-28T08:36:07Z",
+   "deadline": "2026-11-20T12:00:00+00:00",
+   "value": 75000,
+   "region": "Any region",
+   "cpv": [
+    "45000000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/fa06e7d2-9504-4b7c-8191-b9ea3c51277a",
+   "first_seen": "2026-10-29T06:43:06.309501+00:00"
+  },
+  {
    "id": "FTS-100985-2026",
    "source": "Find a Tender",
    "title": "Conservation & Repair Works to Mid 20th Century Gantry Conveyor Structure",
@@ -1355,6 +1303,58 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/100624-2026",
    "first_seen": "2026-10-24T06:27:10.602047+00:00"
+  },
+  {
+   "id": "FTS-101852-2026",
+   "source": "Find a Tender",
+   "title": "Mobility Installation, Repairs and Maintenance",
+   "buyer": "London Borough of Southwark",
+   "description": "The Council intends to appoint separate Contractors for two (2) Call-off Contracts (Contracts A (north of the borough), B (south of the borough for an initial contract term of three (3) years starting in December 2026 The Contract Works will cover any or all the following range of work streams required for the Council\u2019s housing stock: Installation of mobility units Responsive repairs to mobility units Minor refurbishment of mobility units PPM of mobility units Maintaining the Assets Register",
+   "published": "2026-10-28T09:21:07Z",
+   "deadline": "2026-11-25T00:00:00+00:00",
+   "value": 1180000,
+   "region": null,
+   "cpv": [
+    "45000000",
+    "45300000",
+    "45310000",
+    "45313000",
+    "45313100",
+    "45313200",
+    "45313210",
+    "45400000",
+    "45420000",
+    "45421000",
+    "45421100",
+    "45421110",
+    "45421111",
+    "45421112",
+    "45421120",
+    "45421130",
+    "45421131",
+    "45421132",
+    "45421140",
+    "45421141",
+    "45421142",
+    "45421143",
+    "45421144",
+    "45421145",
+    "45421146",
+    "45421147",
+    "45421148",
+    "45421150",
+    "45421151",
+    "45421152",
+    "45421153",
+    "45421160",
+    "45422000",
+    "45422100"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/101852-2026",
+   "first_seen": "2026-10-29T06:43:06.309501+00:00"
   },
   {
    "id": "FTS-101074-2026",
@@ -1927,6 +1927,25 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/a6d988c2-9b33-4e19-9c37-ccb051acd417",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "FTS-101977-2026",
+   "source": "Find a Tender",
+   "title": "Commissioning Homes for Children Looked After & Care Leavers PDPS - Lot 2 Rd 10",
+   "buyer": "London Borough of Newham",
+   "description": "The London Borough of Newham has established a Pseudo-Dynamic Purchasing System (PDPS) for the supply of services in respect of children's externally commissioned care, accommodation and support services.\nThis notice is for the re-opening of Lot 2 Round 10.\nThe services include:\nLot 1: Provision of Semi-Independent Living Services - already established\nLot 2: Provision of Children's Homes regulated by Ofsted - already established\nLot 3: Provision of Supported Lodgings\nLot 4: Provision of Independent Fostering Agencies (IFA) regulated by Ofsted\nThese services will be available to looked after c",
+   "published": "2026-10-28T11:29:10Z",
+   "deadline": "2027-03-29T12:00:00+01:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "85300000"
+   ],
+   "categories": [
+    "Supported Accommodation"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/101977-2026",
+   "first_seen": "2026-10-29T06:43:06.309501+00:00"
   },
   {
    "id": "CF-ec5aaea1-4d7c-4b6f-8253-73489d6f2de2",
