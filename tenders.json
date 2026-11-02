@@ -1,119 +1,6 @@
 {
- "generated": "2026-11-01T06:47:24.747993+00:00",
+ "generated": "2026-11-02T15:08:47.630422+00:00",
  "tenders": [
-  {
-   "id": "CF-6c9bc3b0-a6c1-4686-982d-a8b85fe75838",
-   "source": "Contracts Finder",
-   "title": "TD2340 - Framework for Highways Services",
-   "buyer": "Derby City Council",
-   "description": "The Council is seeking to establish a multi-supplier Highways Framework Agreement to support the delivery of highway maintenance, improvement, construction, specialist services, materials supply, plant hire and associated activities across the highway network and related infrastructure.\r\n\r\nThe Framework will provide a compliant and flexible route to market for planned and reactive works and services and will be divided into the following 11 lots:\r\n\r\nLot 1 - Road Markings &amp; High Friction Surfacing\r\nLot 2 - Road Restraint Systems\r\nLot 3 - Temporary Traffic Management\r\nLot 4 - Traffic Signals",
-   "published": "2026-10-07T09:15:03+01:00",
-   "deadline": "2026-11-02T12:00:00+00:00",
-   "value": 72000000,
-   "region": "East Midlands",
-   "cpv": [
-    "45233000 45233100 45233110 45233120 45233121 45233122 45233123 45233124 45233125 45233126 45233127 45233128 45233129 45233130 45233131 45233139 45233140 45233141 45233142 45233144 45233150 45233160 45233161 45233162 45233200 45233210 45233220 45233221 45233222 45233223 45233224 45233225 45233226 45233227 45233228 45233229 45233250 45233251 45233252 45233253 45233260 45233261 45233262 45233270 45233280 45233290 45233291 45233292 45233293 45233294 45233300 45233310 45233320 45233330 45233340 45316000 45316100 45316110 45316200 45316210 45316211 45316212 45316213 45316220 45316230 45500000 45510000 45520000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/6c9bc3b0-a6c1-4686-982d-a8b85fe75838",
-   "first_seen": "2026-10-08T06:20:36.719660+00:00"
-  },
-  {
-   "id": "FTS-093513-2026",
-   "source": "Find a Tender",
-   "title": "Supply, Delivery and Installation of Office Furniture",
-   "buyer": "Scottish Police Authority",
-   "description": "The Scottish Police Authority (known as \u201cthe Authority\u201d) has a requirement for Supply, Delivery and Installation of Office Furniture and Associated Equipment across its estate throughout Scotland.\nThe current provision for the Supply, Delivery and Installation of Office Furniture and Associated Equipment is due to expire on 31 March 2027.  The Authority therefore requires a suitably experienced and competent Contractor to deliver these services under a single-supplier framework.\nThe successful Contractor will be responsible for the comprehensive supply, delivery, installation and associated su",
-   "published": "2026-10-02T16:15:49+01:00",
-   "deadline": "2026-11-02T12:00:00+00:00",
-   "value": 6000000,
-   "region": null,
-   "cpv": [
-    "39000000",
-    "39110000",
-    "39112000",
-    "39120000",
-    "39121100",
-    "39122000",
-    "39122100",
-    "39122200",
-    "39130000",
-    "45421153"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/093513-2026",
-   "first_seen": "2026-10-03T06:21:58.945632+00:00"
-  },
-  {
-   "id": "FTS-093459-2026",
-   "source": "Find a Tender",
-   "title": "Kishorn Port - Phase 1B - East Quay Development",
-   "buyer": "Kishorn Port Limited",
-   "description": "Kishorn Port Limited (KPL) own and operate the drydock facility at Kishorn.  The existing drydock has been enlarged with the rock material blasted and removed to reclaim 8.5 hectares of foreshore land to the east of the drydock.  The contractor will construct a new 150m long quay at the newly formed reclamation area with -12m CD water depth.  In support of its ongoing operations, KPL is engaging in market research with a view to launching a competitive tender process for works associated with the Phase 1B - East Quay Development at a later date for the award of a contract.",
-   "published": "2026-10-02T15:24:29+01:00",
-   "deadline": "2026-11-02T12:00:00+00:00",
-   "value": 30000000,
-   "region": null,
-   "cpv": [
-    "45241000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/093459-2026",
-   "first_seen": "2026-10-03T06:21:58.945632+00:00"
-  },
-  {
-   "id": "FTS-093101-2026",
-   "source": "Find a Tender",
-   "title": "Four Year Framework Agreement for Main Building Contractors for New Build Housing with a possible one year extension",
-   "buyer": "Link Group",
-   "description": "Link Group intends to enter into a Framework Agreement with a limited number of Building Contractors to provide construction services for a four year period with a possible one year extension. This may also include the provision of design and construction services. Link works in partnership with a number of subsidiary companies who will also be entitled to purchase works & services from the Framework Agreement. The subsidiaries of Link Group Ltd currently include, Link Living, C~urb 6 Ltd (C~urb), Horizon Housing Association Ltd, Larkfield Housing Association and West Highland Housing Associat",
-   "published": "2026-10-02T08:56:42+01:00",
-   "deadline": "2026-11-02T12:00:00+00:00",
-   "value": 840000000,
-   "region": null,
-   "cpv": [
-    "45210000",
-    "45211000",
-    "45211100",
-    "45211300",
-    "45211340",
-    "45211341"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/093101-2026",
-   "first_seen": "2026-10-03T06:21:58.945632+00:00"
-  },
-  {
-   "id": "FTS-089252-2026",
-   "source": "Find a Tender",
-   "title": "SPS-02319 Prisoner Records 2 (PR2) \u2013 Technical Change",
-   "buyer": "Scottish Prison Service",
-   "description": "SPS is undertaking a strategic technology modernisation project to migrate the  PR2 system from a legacy Oracle Forms and Reports platform, operating on an Oracle database, to a modern, modular, opensource technology stack deployed within a secure Cloud environment. This project shall include the migration and on-going support and maintenance for the duration of the Contract Term.\nThe Contract Term shall be 7 years (not including implementation which shall be limited to a maximum of 18 months) with the option to extend by up to an additional 6 years.",
-   "published": "2026-09-21T14:54:57+01:00",
-   "deadline": "2026-11-02T12:00:00+00:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "48000000",
-    "48900000",
-    "72000000",
-    "72200000",
-    "72222300"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/089252-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
   {
    "id": "CF-3b95f7c6-f7ba-4062-bcbd-f33f12eaf0c7",
    "source": "Contracts Finder",
@@ -1302,6 +1189,25 @@
    "first_seen": "2026-10-21T06:32:10.771288+00:00"
   },
   {
+   "id": "CF-3396ec81-113a-4cfd-9282-2cabdcd653c7",
+   "source": "Contracts Finder",
+   "title": "GB-Cromer: PROC152 Car Park Re Surfacing Works",
+   "buyer": "North Norfolk District Council",
+   "description": "The Council is seeking to appoint  suitably qualified contractor to carry out it&#039;s  Contract for resurfacing works to our car parks in multiple locations.  There are seven possible locations to include, but not limited to, also the Councils has the discretion to not move forward on all locations.",
+   "published": "2026-11-02T10:10:02Z",
+   "deadline": "2026-11-30T12:00:00+00:00",
+   "value": 1000000,
+   "region": "East of England",
+   "cpv": [
+    "45213312"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/3396ec81-113a-4cfd-9282-2cabdcd653c7",
+   "first_seen": "2026-11-02T15:08:47.630422+00:00"
+  },
+  {
    "id": "CF-c5220f56-6af4-449e-ac5f-ec2993bbe258",
    "source": "Contracts Finder",
    "title": "Swanley Park Footpath Refurbishment",
@@ -1341,6 +1247,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/102564-2026",
    "first_seen": "2026-10-30T06:44:04.014001+00:00"
+  },
+  {
+   "id": "FTS-103802-2026",
+   "source": "Find a Tender",
+   "title": "Garden Landscaping",
+   "buyer": "Billericay Town Council",
+   "description": "The Town Council owns and manages a small green space known as Jim Shields Garden.  This area is situated at the end of Billericay High Street.  Post code is CM12 9BA.\nThe garden is being enhanced by a redesign project and the Council is seeking tenders from professional companies/individuals who can deliver an exceptional landscaping service.\nThe work is to take place during spring 2027 and it is required to be completed by summer 2027",
+   "published": "2026-11-02T14:48:27Z",
+   "deadline": "2026-11-30T17:00:00+00:00",
+   "value": 30000,
+   "region": null,
+   "cpv": [
+    "45112712"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/103802-2026",
+   "first_seen": "2026-11-02T15:08:47.630422+00:00"
   },
   {
    "id": "FTS-101613-2026",
@@ -1403,6 +1328,56 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/098841-2026",
    "first_seen": "2026-10-21T06:32:10.771288+00:00"
+  },
+  {
+   "id": "FTS-103759-2026",
+   "source": "Find a Tender",
+   "title": "Creation of a new mountain bike trail at Balloch Castle Country Park",
+   "buyer": "West Dunbartonshire Council",
+   "description": "West Dunbartonshire Council (the Council) intends to appoint a competent & experienced mountain bike trail contractor who is an experienced trail builder for the construction of a new Mountain Bike Skills Track at Balloch Castle Country Park.\nThe new 1km trail aims to cater to the growing demand for mountain biking by providing a purpose-built facility to support and encourage cycling skills development for all riders of all levels resulting in the development of a Mountain Bike Club.",
+   "published": "2026-11-02T14:00:44Z",
+   "deadline": "2026-12-02T12:00:00+00:00",
+   "value": 434000.0,
+   "region": null,
+   "cpv": [
+    "45000000",
+    "45100000",
+    "45111200",
+    "45212200",
+    "45212210",
+    "45232451",
+    "45233160",
+    "45233162",
+    "45233200",
+    "71400000",
+    "71420000",
+    "71421000",
+    "90721100"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/103759-2026",
+   "first_seen": "2026-11-02T15:08:47.630422+00:00"
+  },
+  {
+   "id": "FTS-103756-2026",
+   "source": "Find a Tender",
+   "title": "PKC14277 Independent Advocacy Services for Children and Young people within Perth & Kinross",
+   "buyer": "Perth & Kinross Council",
+   "description": "1.1\tPerth and Kinross Council are seeking to appoint suitably qualified and experienced Contractors to provide independent advocacy services for children and young people within Perth and Kinross.",
+   "published": "2026-11-02T13:58:50Z",
+   "deadline": "2026-12-07T12:00:00+00:00",
+   "value": 375000,
+   "region": null,
+   "cpv": [
+    "85000000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/103756-2026",
+   "first_seen": "2026-11-02T15:08:47.630422+00:00"
   },
   {
    "id": "FTS-101073-2026",
@@ -1480,6 +1455,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/097325-2026",
    "first_seen": "2026-10-16T06:30:16.976396+00:00"
+  },
+  {
+   "id": "FTS-103686-2026",
+   "source": "Find a Tender",
+   "title": "Pre-Construction, Contract Administration and Post Contract Duties in Connection with the the Construction of a New Municipal Cemetery in Brandon, Suffolk",
+   "buyer": "Brandon Town Council",
+   "description": "Project Background\nBrandon Town Council invites firm priced tenders from suitably qualified and experienced consultants to provide tender preparation, contract administration and associated professional services for the development of a new municipal cemetery. West Suffolk County Council Planning Application Reference: DC/25/1445/FUL. Site: Cemetery, Manor Road, Brandon, Suffolk. Development includes change of use from agricultural land to a new municipal cemetery, creation of vehicular and pedestrian access arrangements, and construction of entrance walls and gates. Progression beyond Phase 1",
+   "published": "2026-11-02T12:20:21Z",
+   "deadline": "2026-12-14T12:00:00+00:00",
+   "value": 28000,
+   "region": null,
+   "cpv": [
+    "45215400"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/103686-2026",
+   "first_seen": "2026-11-02T15:08:47.630422+00:00"
   },
   {
    "id": "FTS-101395-2026",
