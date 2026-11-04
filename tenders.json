@@ -1,120 +1,6 @@
 {
- "generated": "2026-11-03T13:51:23.418795+00:00",
+ "generated": "2026-11-04T13:58:54.308044+00:00",
  "tenders": [
-  {
-   "id": "CF-ad1a57b4-db57-4466-a143-15b0af91c989",
-   "source": "Contracts Finder",
-   "title": "DNWP0016 - WAGR Enabling Works and Strip-out - Sellafield - A2R JV",
-   "buyer": "Altrad AtkinsRealis Joint Venture (A2R JV)",
-   "description": "WAGR Overview and Site Information\r\n    \r\n    The Windscale Advanced Gas-cooled Reactor (WAGR), commissioned in 1962, was the prototype for the UK&#039;s second-generation Advanced Gas-cooled Reactor (AGR) fleet. The facility (Building B50), recognised by its distinctive spherical containment shell, was supported by the fuel assembly building (B52) and turbine hall (B55).\r\n    \r\n    Following reactor core dismantling and removal in 2012, the WAGR Complex entered Care and Maintenance (C&amp;M). The facility is now progressing towards its final phase of decommissioning and demolition. Existing r",
-   "published": "2026-10-21T13:50:03+01:00",
-   "deadline": "2026-11-03T17:00:00+00:00",
-   "value": 20000000,
-   "region": "Any region",
-   "cpv": [
-    "45251111 98113100 42151000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/ad1a57b4-db57-4466-a143-15b0af91c989",
-   "first_seen": "2026-10-22T06:32:54.202343+00:00"
-  },
-  {
-   "id": "FTS-096971-2026",
-   "source": "Find a Tender",
-   "title": "Shorepower Civils Works",
-   "buyer": "Caledonian Maritime Assets Ltd (Utility)",
-   "description": "Construction of concrete foundations for shorepower equipment, ducts, pits and some steel works. The works are required at Port Askaig and Kennacraig ferry terminals. All works are within existing infrastructures and no environmental licences and considerations are required.",
-   "published": "2026-10-14T12:43:35+01:00",
-   "deadline": "2026-11-04T12:00:00+00:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "45200000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/096971-2026",
-   "first_seen": "2026-10-15T06:32:27.235073+00:00"
-  },
-  {
-   "id": "FTS-094667-2026",
-   "source": "Find a Tender",
-   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 4 Round 13 - Onboarding",
-   "buyer": "London Borough of Newham",
-   "description": "This is an opening of the Onboarding Round 13 for Category 4 - Addressing resource inequality\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid.\nA new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closing. Please note from time to ",
-   "published": "2026-10-07T11:56:29+01:00",
-   "deadline": "2026-11-04T12:00:00+00:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/094667-2026",
-   "first_seen": "2026-10-08T06:20:36.719660+00:00"
-  },
-  {
-   "id": "FTS-094665-2026",
-   "source": "Find a Tender",
-   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 3 Round 14 - Onboarding",
-   "buyer": "London Borough of Newham",
-   "description": "This is an opening of the Onboarding Round 14 for Category 3 - Community projects for health and wellbeing\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid.\nA new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closing.\nPlease note ",
-   "published": "2026-10-07T11:55:54+01:00",
-   "deadline": "2026-11-04T12:00:00+00:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/094665-2026",
-   "first_seen": "2026-10-08T06:20:36.719660+00:00"
-  },
-  {
-   "id": "FTS-094664-2026",
-   "source": "Find a Tender",
-   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 2 Round 14 - Onboarding",
-   "buyer": "London Borough of Newham",
-   "description": "This is an opening of the Onboarding Round 14 for Category 2 - Specialist all-age weight management and movement service\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid. A new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closing",
-   "published": "2026-10-07T11:55:28+01:00",
-   "deadline": "2026-11-04T12:00:00+00:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/094664-2026",
-   "first_seen": "2026-10-08T06:20:36.719660+00:00"
-  },
-  {
-   "id": "FTS-094663-2026",
-   "source": "Find a Tender",
-   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 1 Round 14 - Onboarding",
-   "buyer": "London Borough of Newham",
-   "description": "This is an opening of the Onboarding Round 14 for Category 1 - Specialist smoking cessation service.\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid.\nA new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closing. Please note from t",
-   "published": "2026-10-07T11:54:39+01:00",
-   "deadline": "2026-11-04T12:00:00+00:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/094663-2026",
-   "first_seen": "2026-10-08T06:20:36.719660+00:00"
-  },
   {
    "id": "FTS-094279-2026",
    "source": "Find a Tender",
@@ -655,6 +541,25 @@
    "first_seen": "2026-10-08T06:20:36.719660+00:00"
   },
   {
+   "id": "CF-6ea78e35-3ad4-46d9-87f6-edaeda072b40",
+   "source": "Contracts Finder",
+   "title": "BBV Sublot 4 - HSST1020 - SALTLEY VIADUCT GABION WALL",
+   "buyer": "Balfour Beatty VINCI JV HS2",
+   "description": "Opportunity Summary - Gabion Retaining Wall Works\r\n      \r\n      We are seeking experienced suppliers and subcontractors to provide the supply, delivery and installation of a gabion retaining wall system as part of a civil engineering project.\r\n      \r\n      Scope of Requirements\r\n      \r\n      The successful supplier shall be responsible for:\r\n      \r\n      Supply of gabion baskets, including all lacing wires, diaphragms, ties and associated components required for a complete installation.\r\n      Supply and delivery of Class 6G gabion stone suitable for basket infill.\r\n      Installation of g",
+   "published": "2026-11-04T12:30:04Z",
+   "deadline": "2026-11-13T17:00:00+00:00",
+   "value": 1000000,
+   "region": "Any region,North East,London,Yorkshire and The Humber,East of England,North West,South West,West Midlands,East Midlands",
+   "cpv": [
+    "44100000 90721100 45221122 45234114 45200000 45213310 45220000 45210000 45233120 45243510 44000000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/6ea78e35-3ad4-46d9-87f6-edaeda072b40",
+   "first_seen": "2026-11-04T13:58:54.308044+00:00"
+  },
+  {
    "id": "FTS-093968-2026",
    "source": "Find a Tender",
    "title": "Provision of Individual, bespoke Community Packages of Care for Children and Young People aged 0 - 18 years with Continuing Care Needs to enable Children and Young People to be cared for in their home",
@@ -1170,25 +1075,6 @@
    "first_seen": "2026-11-02T15:08:47.630422+00:00"
   },
   {
-   "id": "CF-c5220f56-6af4-449e-ac5f-ec2993bbe258",
-   "source": "Contracts Finder",
-   "title": "Swanley Park Footpath Refurbishment",
-   "buyer": "Swanley Town Council",
-   "description": "Swanley Town Council is seeking suitably qualified and experienced contractors to undertake the excavation, removal, reconstruction and improvement of two existing footpaths. The project aims to improve accessibility, durability and the overall quality of the footpath network through the installation of wider, fit-for-purpose pathways that meet the requirements of their intended use.\r\n\r\nThe works will comprise the following:\r\n\r\nFootpath One\r\n\r\nFootpath One extends approximately 355.4 linear metres and will broadly follow the alignment of the existing footpath. The pathway will be widened to pr",
-   "published": "2026-10-20T16:32:07+01:00",
-   "deadline": "2026-11-30T12:00:00+00:00",
-   "value": 20000,
-   "region": "",
-   "cpv": [
-    "45233161 45233253"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/c5220f56-6af4-449e-ac5f-ec2993bbe258",
-   "first_seen": "2026-10-21T06:32:10.771288+00:00"
-  },
-  {
    "id": "FTS-102564-2026",
    "source": "Find a Tender",
    "title": "PROC-26-3457 Supply and Delivery of Modular Rapid Assembly Training Venues",
@@ -1362,6 +1248,48 @@
    "first_seen": "2026-11-02T15:08:47.630422+00:00"
   },
   {
+   "id": "FTS-104358-2026",
+   "source": "Find a Tender",
+   "title": "CAWT PEACEPLUS EASY Project: Early Intervention Support for Children, Young People and Families presenting with Neurodevelopmental Needs (SHSCT Area)",
+   "buyer": "Regional Business Services Organisation, Procurement and Logistics Service",
+   "description": "This is a project supported by PEACEPLUS, a programme managed by the Special EU Programmes Body (SEUPB).\nThe CAWT PEACEPLUS Early Intervention Support Youth Hubs (EASY) project aims to establish new cross border early intervention support services for families with children and young people presenting with traits consistent with a neurodevelopmental type need or who have been recently diagnosed with a neurodevelopmental condition. \nBy providing help based on presenting need/symptoms, the project aims to improve outcomes for children, young people and their families by helping families' access ",
+   "published": "2026-11-03T15:40:11Z",
+   "deadline": "2026-12-03T15:00:00+00:00",
+   "value": 653870,
+   "region": null,
+   "cpv": [
+    "85000000",
+    "85100000",
+    "85323000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/104358-2026",
+   "first_seen": "2026-11-04T13:58:54.308044+00:00"
+  },
+  {
+   "id": "FTS-104309-2026",
+   "source": "Find a Tender",
+   "title": "ITT for Supply of Windows & Doors for Individuals Batch 05 (T1398)",
+   "buyer": "Dundee City Council",
+   "description": "Manufacture, supply and delivery of uPVC windows and doors for Individuals Batch 05. This contract is for supply only as installation will be undertaken by DCC Construction Services.",
+   "published": "2026-11-03T14:47:22Z",
+   "deadline": "2026-12-04T12:00:00+00:00",
+   "value": 220000,
+   "region": null,
+   "cpv": [
+    "44221000",
+    "44221100",
+    "44221110"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/104309-2026",
+   "first_seen": "2026-11-04T13:58:54.308044+00:00"
+  },
+  {
    "id": "FTS-103849-2026",
    "source": "Find a Tender",
    "title": "Flexible Framework Agreement for the Provision of Alcohol and Drug Recovery Services and Supports in South and East Ayrshire",
@@ -1403,6 +1331,35 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/103756-2026",
    "first_seen": "2026-11-02T15:08:47.630422+00:00"
+  },
+  {
+   "id": "FTS-104619-2026",
+   "source": "Find a Tender",
+   "title": "Digital Connectivity Programme - 1gb Broadband Install and Service Delivery",
+   "buyer": "North Lanarkshire Council",
+   "description": "North Lanarkshire Council (the \u201cCouncil\u201d) is undertaking a major digital transformation programme to deliver gigabit capable broadband connectivity to approximately 37,000 Council owned social housing properties across the authority area. The programme is a core component of the Council\u2019s Digital Connectivity Masterplan and supports wider strategic ambitions including but not limited to:\n-Inclusive growth,\n-Tackling digital exclusion,\n-Improving access to public and digital services, and\n-Enabling technology enabled living within Council homes\nThe programme reinforces the Council\u2019s commitment ",
+   "published": "2026-11-04T12:16:36Z",
+   "deadline": "2026-12-08T12:00:00+00:00",
+   "value": 85450527,
+   "region": null,
+   "cpv": [
+    "32412100",
+    "32412110",
+    "32571000",
+    "45314000",
+    "45314320",
+    "50332000",
+    "64200000",
+    "64227000",
+    "72400000",
+    "72411000",
+    "72420000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/104619-2026",
+   "first_seen": "2026-11-04T13:58:54.308044+00:00"
   },
   {
    "id": "FTS-104142-2026",
@@ -5083,6 +5040,63 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/19d8cf6d-c183-4b59-b592-47827c418d53",
    "first_seen": "2026-10-20T06:31:10.527290+00:00"
+  },
+  {
+   "id": "CF-c89a5dc9-0523-4ac6-973d-31ef3c0af5ab",
+   "source": "Contracts Finder",
+   "title": "FDIS - Helensburgh Fencing - FY2026/27 - Amey North Region - Scotland",
+   "buyer": "AMEY DEFENCE SERVICES LIMITED",
+   "description": "North Region - Scotland\r\n\r\nBrief Scope of Works\r\n\r\nReplace/install 2000m fencing as follows:\r\n\r\nRemove old fencing, clear vegetation and bushes to install 6 foot fence\r\n- Concrete posts with gravel boards\r\n- 5 foot timber slats and rails to be inserted\r\n\r\nAmey have been tasked by the DIO through the FDIS to deliver the Regional Accommodation Maintenance Service for the Central and North Regions.\r\n\r\nThis notice is a call for competition and there may not be a further notice related to this opportunity.\r\n\r\nFor Amey to accept any EoI it is ESSENTIAL that any subcontractor is:\r\n\u2022\twilling to act as",
+   "published": "2026-11-04T13:12:24Z",
+   "deadline": null,
+   "value": 348000,
+   "region": "Scotland",
+   "cpv": [
+    "45340000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/c89a5dc9-0523-4ac6-973d-31ef3c0af5ab",
+   "first_seen": "2026-11-04T13:58:54.308044+00:00"
+  },
+  {
+   "id": "CF-ddf7dd52-80d9-4892-b3b7-49240ed19056",
+   "source": "Contracts Finder",
+   "title": "FDIS - Lossiemouth External Refurbishments to 27 properties - FY2026/27 - Amey North Region - Scotland",
+   "buyer": "AMEY DEFENCE SERVICES LIMITED",
+   "description": "North Region - Scotland\r\nBrief Scope of Works\r\n\u2022\tReplace timber windows to dwelling with PVCu\r\n\u2022\tReplace timber doors to dwelling with PVCu\r\n\u2022\tRedecoration of garage up&amp;over door\r\n\u2022\tDecoration of timber porch/canopy\r\n\u2022\tReplace MAINS ELECTRIC doorbells (will need electrician, plasterer/decorator to make good walls) \r\n\u2022\tShared role On Site Liaison Officer\r\nAmey have been tasked by the DIO through the FDIS to deliver the RAMS for the Central/North Regions.\r\nThis notice is a call for competition and there may not be a further notice related to this opportunity.\r\nFor Amey to accept any EoI it i",
+   "published": "2026-11-04T12:25:14Z",
+   "deadline": null,
+   "value": 348000,
+   "region": "Scotland",
+   "cpv": [
+    "45262690"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/ddf7dd52-80d9-4892-b3b7-49240ed19056",
+   "first_seen": "2026-11-04T13:58:54.308044+00:00"
+  },
+  {
+   "id": "CF-6b48d4e4-5670-43bd-ac19-98e3227fb850",
+   "source": "Contracts Finder",
+   "title": "FDIS - Lossiemouth External Refurbishments to 28 properties - FY2026/27 - Amey North Region - Scotland",
+   "buyer": "AMEY DEFENCE SERVICES LIMITED",
+   "description": "North Region - Scotland\r\nBrief Scope of Works\r\n\u2022\tReplace timber windows to dwelling with PVCu\r\n\u2022\tReplace timber doors to dwelling with PVCu\r\n\u2022\tRedecoration of garage up&amp;over door\r\n\u2022\tDecoration of timber porch/canopy\r\n\u2022\tReplace MAINS ELECTRIC doorbells (will need electrician, plasterer/decorator to make good walls) \r\n\u2022\tShared role On Site Liaison Officer\r\nAmey have been tasked by the DIO through the FDIS to deliver the RAMS for the Central/North Regions.\r\nThis notice is a call for competition and there may not be a further notice related to this opportunity.\r\nFor Amey to accept any EoI it i",
+   "published": "2026-11-04T11:59:12Z",
+   "deadline": null,
+   "value": 348000,
+   "region": "Scotland",
+   "cpv": [
+    "45262690"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/6b48d4e4-5670-43bd-ac19-98e3227fb850",
+   "first_seen": "2026-11-04T13:58:54.308044+00:00"
   },
   {
    "id": "CF-9bb657d8-166d-43c2-b83c-31250afd1141",
