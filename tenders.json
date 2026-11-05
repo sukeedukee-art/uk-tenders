@@ -1,25 +1,6 @@
 {
- "generated": "2026-11-04T13:58:54.308044+00:00",
+ "generated": "2026-11-05T14:20:03.300169+00:00",
  "tenders": [
-  {
-   "id": "FTS-094279-2026",
-   "source": "Find a Tender",
-   "title": "Seafood Expo Global 2027 Stand Design and Build",
-   "buyer": "Scottish Enterprise",
-   "description": "The purpose of this Invitation to Tender (ITT) is to appoint a single supplier to deliver stand design, build (construction) and dismantling at\nSeafood Expo Global 2027 as set out in the ITT, to Scottish Enterprise.",
-   "published": "2026-10-06T13:51:31+01:00",
-   "deadline": "2026-11-05T11:00:00+00:00",
-   "value": 242000.0,
-   "region": null,
-   "cpv": [
-    "79952000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/094279-2026",
-   "first_seen": "2026-10-07T06:17:53.468301+00:00"
-  },
   {
    "id": "FTS-101778-2026",
    "source": "Find a Tender",
@@ -754,6 +735,25 @@
    "first_seen": "2026-10-29T06:43:06.309501+00:00"
   },
   {
+   "id": "CF-ea93fe7d-b5c4-4243-a2cf-16e4f6989cdf",
+   "source": "Contracts Finder",
+   "title": "RFI Tactical Cache System",
+   "buyer": "Ministry of Defence",
+   "description": "The Authority is exploring a modular family of Tactical Cache Systems. At this stage, the requirement remains subject to development and validation through analysis, demonstrator activity and user experimentation. \r\n\r\n \r\n\r\nThe system should offer scalable storage options with common or interoperable features and interfaces. \r\n\r\nSolutions may comprise an established product, adaptation of an existing product, integration of several technologies, or a development partnership. \r\n\r\nPlease see description link\r\nhttps://contracts.mod.uk/esop/guest/go/opportunity/detail?opportunityId=61622",
+   "published": "2026-11-04T14:34:29Z",
+   "deadline": "2026-11-20T23:59:59+00:00",
+   "value": 0,
+   "region": "South East",
+   "cpv": [
+    "44613400"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/ea93fe7d-b5c4-4243-a2cf-16e4f6989cdf",
+   "first_seen": "2026-11-05T14:20:03.300169+00:00"
+  },
+  {
    "id": "FTS-100985-2026",
    "source": "Find a Tender",
    "title": "Conservation & Repair Works to Mid 20th Century Gantry Conveyor Structure",
@@ -1037,6 +1037,25 @@
    "first_seen": "2026-10-22T06:32:54.202343+00:00"
   },
   {
+   "id": "CF-b6442fed-62cb-4ca9-8081-552bc2c6a85b",
+   "source": "Contracts Finder",
+   "title": "Railway Street Footbridge (20/79/49) Geotechnical Investigations",
+   "buyer": "North East Lincolnshire Borough Council",
+   "description": "North East Lincolnshire Council is seeking a suitably qualified consultant to carry out surveys, testing, geotechnical investigations and reports for Railway Street Footbridge.   The overall goal is to have all information needed for refurbishment design (including foundation details) and to inform a future temporary works design as required by Network Rail for lifting works etc adjacent to their tracks.\r\nPlease note this is a retender.",
+   "published": "2026-11-04T14:04:56Z",
+   "deadline": "2026-11-27T13:00:00+00:00",
+   "value": 90000,
+   "region": "Yorkshire and The Humber",
+   "cpv": [
+    "71000000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/b6442fed-62cb-4ca9-8081-552bc2c6a85b",
+   "first_seen": "2026-11-05T14:20:03.300169+00:00"
+  },
+  {
    "id": "CF-7f9a030d-c41d-4f56-8806-67c681600b21",
    "source": "Contracts Finder",
    "title": "CA18585 -  ITT Repair and replacement works to whole site drainage system",
@@ -1197,6 +1216,82 @@
    "first_seen": "2026-10-21T06:32:10.771288+00:00"
   },
   {
+   "id": "FTS-105055-2026",
+   "source": "Find a Tender",
+   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 4 Round 14 - Onboarding",
+   "buyer": "London Borough of Newham",
+   "description": "This is an opening of the Onboarding Round 14 for Category 4 - Addressing resource inequality\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid.\nA new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closing. Please note from time to ",
+   "published": "2026-11-05T10:50:36Z",
+   "deadline": "2026-12-02T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "85000000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/105055-2026",
+   "first_seen": "2026-11-05T14:20:03.300169+00:00"
+  },
+  {
+   "id": "FTS-105050-2026",
+   "source": "Find a Tender",
+   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 3 Round 15 - Onboarding",
+   "buyer": "London Borough of Newham",
+   "description": "This is an opening of the Onboarding Round 15 for Category 3 - Community projects for health and wellbeing\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid.\nA new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closing.\nPlease note ",
+   "published": "2026-11-05T10:45:52Z",
+   "deadline": "2026-12-02T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "85000000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/105050-2026",
+   "first_seen": "2026-11-05T14:20:03.300169+00:00"
+  },
+  {
+   "id": "FTS-105048-2026",
+   "source": "Find a Tender",
+   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 2 Round 15 - Onboarding",
+   "buyer": "London Borough of Newham",
+   "description": "This is an opening of the Onboarding Round 15 for Category 2 - Specialist all-age weight management and movement service\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid. A new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closing",
+   "published": "2026-11-05T10:44:16Z",
+   "deadline": "2026-12-02T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "85000000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/105048-2026",
+   "first_seen": "2026-11-05T14:20:03.300169+00:00"
+  },
+  {
+   "id": "FTS-105046-2026",
+   "source": "Find a Tender",
+   "title": "Healthy Lives Dynamic Purchasing Vehicle - Category 1 Round 15 - Onboarding",
+   "buyer": "London Borough of Newham",
+   "description": "This is an opening of the Onboarding Round 15 for Category 1 - Specialist smoking cessation service.\nRounds will open and close throughout the lifetime of the Healthy Lives Dynamic Purchasing Vehicle at the Authorities discretion.\nThe initial \"Round\" for this Healthy Lives Dynamic Purchasing Vehicle will be open for twenty eight (28) calendar days.\nFollowing on from this, each \"Round\" will be open to new or previously unsuccessful Suppliers to submit their bid.\nA new Round will be opened within forty-eight (48) hours (excluding bank holidays and weekends) of a Round closing. Please note from t",
+   "published": "2026-11-05T10:42:50Z",
+   "deadline": "2026-12-02T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "85000000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/105046-2026",
+   "first_seen": "2026-11-05T14:20:03.300169+00:00"
+  },
+  {
    "id": "FTS-103904-2026",
    "source": "Find a Tender",
    "title": "Local Employability Flexible Framework",
@@ -1246,6 +1341,26 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/103759-2026",
    "first_seen": "2026-11-02T15:08:47.630422+00:00"
+  },
+  {
+   "id": "FTS-105076-2026",
+   "source": "Find a Tender",
+   "title": "Crane Provision Framework",
+   "buyer": "KBS Maritime Ltd",
+   "description": "KBS Maritime is seeking to establish a multi-supplier Framework for complete third-party crane services in support of Alongside Services operations. The Framework will supplement, not replace, KBS internal Heavy Lift capability and will provide planned surge, operational resilience, out-of-hours support, concurrent-lift capacity and specialist crane capability. This Framework will also cover the supply of Crane Operatives where required.",
+   "published": "2026-11-05T11:12:08Z",
+   "deadline": "2026-12-03T15:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "42414100",
+    "45510000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/105076-2026",
+   "first_seen": "2026-11-05T14:20:03.300169+00:00"
   },
   {
    "id": "FTS-104358-2026",
@@ -3309,25 +3424,6 @@
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
   },
   {
-   "id": "CF-3b683a43-8674-4015-8749-d6c2827c98ec",
-   "source": "Contracts Finder",
-   "title": "YPO - 000882 FM Services - Internal Fit-out and Maintenance",
-   "buyer": "YPO",
-   "description": "YPO are looking for providers to be appointed onto a Dynamic Purchasing System (DPS) for the provision of FM Services - Internal Fit out and Maintenance.  The DPS is designed to meet the needs of all public sector organisations which includes YPOs internal requirements and any of YPOs wholly owned associated or subsidiary companies.  Details regarding this opportunity can be found by following the links set out in this notice and registering your interest.",
-   "published": "2018-08-01T12:47:53+01:00",
-   "deadline": "2029-02-23T23:55:00+00:00",
-   "value": 500000000,
-   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
-   "cpv": [
-    "45210000 45000000 45300000 31625000 39141400 45453100 45442100"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/3b683a43-8674-4015-8749-d6c2827c98ec",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
-  {
    "id": "CF-e5f5d77f-b55c-4364-92b2-d743b3ac3e09",
    "source": "Contracts Finder",
    "title": "Dynamic Purchasing System for Construction Contractors and Subcontractors and Ancillary Services",
@@ -5097,6 +5193,25 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/6b48d4e4-5670-43bd-ac19-98e3227fb850",
    "first_seen": "2026-11-04T13:58:54.308044+00:00"
+  },
+  {
+   "id": "CF-0f7a1268-f357-40ec-9bf6-fdfa7764715c",
+   "source": "Contracts Finder",
+   "title": "FDIS - Brampton Pump House Remediation - FY2026/27 - Amey Central  Region - East",
+   "buyer": "AMEY DEFENCE SERVICES LIMITED",
+   "description": "Central Region - East \r\nBrief scope of works (subject to confirmation):\r\nA specialist inspection has identified significant defects with the existing pumping station, principally relating to the incoming electrical supply, flooding/water ingress, safe access arrangements and the condition of the pumps. \r\n1. Make safe / maintain isolation\r\n2. Resolve the incoming electrical supply\r\n3. Develop a permanent safe-access solution\r\n4. Address flooding and groundwater ingress\r\n5. Remove and inspect both pumps\r\n6. Undertake wet-well remedial works\r\n7. Investigate Inlet No. 2\r\n8. Review ancillary works\r",
+   "published": "2026-11-04T14:47:41Z",
+   "deadline": null,
+   "value": 113000,
+   "region": "Scotland",
+   "cpv": [
+    "45232152"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/0f7a1268-f357-40ec-9bf6-fdfa7764715c",
+   "first_seen": "2026-11-05T14:20:03.300169+00:00"
   },
   {
    "id": "CF-9bb657d8-166d-43c2-b83c-31250afd1141",
