@@ -1,76 +1,6 @@
 {
- "generated": "2026-11-05T14:20:03.300169+00:00",
+ "generated": "2026-11-06T13:57:03.014407+00:00",
  "tenders": [
-  {
-   "id": "FTS-101778-2026",
-   "source": "Find a Tender",
-   "title": "HtH-DPS-Semi-Independent Living",
-   "buyer": "London Borough of Haringey",
-   "description": "Support and life-skills coaching for care leavers living at Hornsey Town Hall (HtH) training flats",
-   "published": "2026-10-27T17:11:14Z",
-   "deadline": "2026-11-06T00:00:00+00:00",
-   "value": 292501,
-   "region": null,
-   "cpv": [
-    "85310000"
-   ],
-   "categories": [
-    "Supported Living",
-    "Supported Accommodation"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/101778-2026",
-   "first_seen": "2026-10-28T06:40:59.112785+00:00"
-  },
-  {
-   "id": "CF-40c4facb-d342-4f6d-a3d6-0a1ac6a31a03",
-   "source": "Contracts Finder",
-   "title": "Conversion of Storm Shelter into Public Convenience Facilities and Refurbishment of Accessible Toilet Accommodation, Blenheim Gardens, Minehead",
-   "buyer": "Minehead Town Council",
-   "description": "Minehead Town Council invites suitably qualified and experienced contractors to submit tenders for the conversion of the former storm shelter within Blenheim Gardens, Minehead into modern public convenience facilities together with the refurbishment and conversion of a separate toilet building within the gardens to provide fully accessible toilet accommodation and associated storage facilities.\r\n\r\nThe site occupies a prominent position within Blenheim Gardens, Minehead&#039;s principal public open space, and lies within the Wellington Square Conservation Area. The Council wishes to deliver att",
-   "published": "2026-10-06T12:01:39+01:00",
-   "deadline": "2026-11-06T12:00:00+00:00",
-   "value": 200000,
-   "region": "",
-   "cpv": [
-    "45211310"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/40c4facb-d342-4f6d-a3d6-0a1ac6a31a03",
-   "first_seen": "2026-10-07T06:17:53.468301+00:00"
-  },
-  {
-   "id": "FTS-086589-2026",
-   "source": "Find a Tender",
-   "title": "Peatland ACTION FW02 Field Ecologists Framework",
-   "buyer": "Scottish Natural Heritage",
-   "description": "NatureScot work to improve our natural environment in Scotland and inspire everyone to care more about it. We work to ensure that all nature in Scotland - our key habitats and landscapes, all our green space and our native species - are maintained, enhanced and bring us benefits. Our priority is a nature-rich future for Scotland and an effective response to the climate emergency.\nPeatland ACTION funding - from Scottish Government - primarily supports on-the-ground peatland restoration activities and is open for applications from eligible land managers who have peatlands that would benefit from",
-   "published": "2026-09-11T16:04:29+01:00",
-   "deadline": "2026-11-06T12:00:00+00:00",
-   "value": 450000,
-   "region": null,
-   "cpv": [
-    "09112000",
-    "09112200",
-    "45100000",
-    "45111230",
-    "45111240",
-    "71350000",
-    "71354100",
-    "77000000",
-    "90700000",
-    "90711000",
-    "90711300",
-    "90711400",
-    "90711500"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/086589-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
   {
    "id": "CF-c757ec81-6c0b-4a55-acb6-e9d4d9079c0e",
    "source": "Contracts Finder",
@@ -1094,6 +1024,25 @@
    "first_seen": "2026-11-02T15:08:47.630422+00:00"
   },
   {
+   "id": "CF-f075e29c-9077-44f9-82a0-364f1c9faf35",
+   "source": "Contracts Finder",
+   "title": "Structural Engineer",
+   "buyer": "Thetford Town Council",
+   "description": "Thetford Town Council wishes to appoint a Structural Engineer with demonstrable experience in historic buildings, conservation projects and traditional construction.\r\n\r\nThe successful consultant will assess the structural condition of the building, develop repair recommendations, contribute to design development and support the wider consultant team in delivering a viable and fundable project.\r\n\r\nThe Structural Engineer will provide technical support throughout the Development Phase and assist in the preparation of documentation required for planning, listed building consent, cost planning and",
+   "published": "2026-11-06T09:20:40Z",
+   "deadline": "2026-11-30T12:00:00+00:00",
+   "value": 15000,
+   "region": "",
+   "cpv": [
+    "71312000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/f075e29c-9077-44f9-82a0-364f1c9faf35",
+   "first_seen": "2026-11-06T13:57:03.014407+00:00"
+  },
+  {
    "id": "FTS-102564-2026",
    "source": "Find a Tender",
    "title": "PROC-26-3457 Supply and Delivery of Modular Rapid Assembly Training Venues",
@@ -1341,6 +1290,66 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/103759-2026",
    "first_seen": "2026-11-02T15:08:47.630422+00:00"
+  },
+  {
+   "id": "FTS-105326-2026",
+   "source": "Find a Tender",
+   "title": "Supply and Delivery of Hygiene Services and Equipment 0226",
+   "buyer": "Scotland Excel",
+   "description": "Scotland Excel is seeking to establish a multi-supplier framework agreement for the supply, delivery and servicing of hygiene products, janitorial supplies, cleaning chemicals, washroom solutions and cleaning equipment on behalf of participating local authorities and other eligible bodies across Scotland.  The scope of items covered in the framework will include but not be limited to paper towels, cleaning chemicals, hand soap, refuse sacks and cleaning equipment such as mops and buckets, vacuums, scrubber-dryers, sweepers, rotary machines, and carpet extractors.",
+   "published": "2026-11-05T15:15:20Z",
+   "deadline": "2026-12-03T12:00:00+00:00",
+   "value": 84000000,
+   "region": null,
+   "cpv": [
+    "19640000",
+    "24455000",
+    "33141118",
+    "33141123",
+    "33631600",
+    "33711430",
+    "33711900",
+    "33741100",
+    "33760000",
+    "33761000",
+    "33763000",
+    "33771000",
+    "33771100",
+    "39224000",
+    "39291000",
+    "39532000",
+    "39713400",
+    "39713410",
+    "39713420",
+    "39713430",
+    "39713431",
+    "39811100",
+    "39811200",
+    "39812100",
+    "39831200",
+    "39831300",
+    "39831600",
+    "39832100",
+    "42933100",
+    "42968200",
+    "42972000",
+    "42997300",
+    "42999000",
+    "42999100",
+    "42999200",
+    "42999300",
+    "42999400",
+    "44411000",
+    "45232460",
+    "50000000",
+    "90524100",
+    "90900000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/105326-2026",
+   "first_seen": "2026-11-06T13:57:03.014407+00:00"
   },
   {
    "id": "FTS-105076-2026",
@@ -3364,25 +3373,6 @@
     "Construction"
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/47715897-8d78-43f1-b218-6fb3fc7afc57",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
-  {
-   "id": "CF-5f7c1dbe-8dd0-48d0-8438-deb684f3a843",
-   "source": "Contracts Finder",
-   "title": "YPO - 000925 Highway Electrical Installations",
-   "buyer": "YPO",
-   "description": "YPO are looking for providers to be appointed onto a Dynamic Purchasing System (DPS) for the provision of Highway Electrical Installation Services and are seeking to appoint providers that are accredited by the National Electricity Registration Scheme (NERS) or equivalent and the Highway Electrical Registration Scheme (HERS) or equivalent. The DPS is designed to meet the needs of all public sector organisations, which includes YPO&#039;s internal requirements and any of YPO&#039;s wholly owned associated or subsidiary companies.",
-   "published": "2019-03-13T14:21:13Z",
-   "deadline": "2029-02-23T23:30:00+00:00",
-   "value": 100000000,
-   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
-   "cpv": [
-    "45311000 45311100 45311200"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/5f7c1dbe-8dd0-48d0-8438-deb684f3a843",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
   },
   {
