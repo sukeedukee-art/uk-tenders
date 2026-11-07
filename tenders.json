@@ -1,44 +1,6 @@
 {
- "generated": "2026-11-06T13:57:03.014407+00:00",
+ "generated": "2026-11-07T12:41:24.389932+00:00",
  "tenders": [
-  {
-   "id": "CF-c757ec81-6c0b-4a55-acb6-e9d4d9079c0e",
-   "source": "Contracts Finder",
-   "title": "CA18546 - Telford College - Building Refurbishment Design Services",
-   "buyer": "Telford College",
-   "description": "The design team will be commissioned to deliver RIBA Stages 2 - 4, including the development of a comprehensive tender specification for the appointment of the Advanced Technology Centre Refurbishment Design Services Provider and the Defence Industry Hub Project Services Provider. \r\nThe specifications supplied from this tender will form part of a Minor Works project that will follow.\r\n\r\nIncludes Lots: \r\nLot 1: Lot 1 - Advanced Technology Centre Refurbishment Project\r\nLot 2: Lot 2 - Defence Industry Hub Project\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquot",
-   "published": "2026-10-12T14:57:18+01:00",
-   "deadline": "2026-11-06T17:00:00+00:00",
-   "value": 175000,
-   "region": "Any region",
-   "cpv": [
-    "79415200"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/c757ec81-6c0b-4a55-acb6-e9d4d9079c0e",
-   "first_seen": "2026-10-13T06:22:18.447083+00:00"
-  },
-  {
-   "id": "CF-5f434b45-93ed-4fa4-819f-89f50f25248e",
-   "source": "Contracts Finder",
-   "title": "A66 Northern Trans Pennine Project(NTP) Schemes1&amp;2 - Skirsgill Access Civils Package",
-   "buyer": "KIER TRANSPORTATION LIMITED",
-   "description": "Kier Infrastructure intends to engage an experienced and qualified Civil contractors for the construction of access road and associated civils works, including but not limited to, earthworks, drainage, ducting and kerbing at the Skirsgill depot on Schemes 1 &amp; 2 of the A66 Northern Trans-Pennine Scheme. \r\n\r\nThe A66 upgrade will see single-lane sections of the 80km stretch between the M6 and the A1 made into dual carriageway, while key junctions will be improved. The A66 project is to be delivered in collaboration by three Tier 1 contractors, Balfour Beatty, Kier and Keltbray. The A66 projec",
-   "published": "2026-11-02T15:52:25Z",
-   "deadline": "2026-11-06T17:00:00+00:00",
-   "value": 50000,
-   "region": "North West",
-   "cpv": [
-    "44115100 45232451 45233226"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/5f434b45-93ed-4fa4-819f-89f50f25248e",
-   "first_seen": "2026-11-03T13:51:23.418795+00:00"
-  },
   {
    "id": "CF-44894d9f-2289-40fd-9a81-fec7b5f4a77f",
    "source": "Contracts Finder",
@@ -1438,6 +1400,27 @@
    "first_seen": "2026-11-03T13:51:23.418795+00:00"
   },
   {
+   "id": "FTS-105516-2026",
+   "source": "Find a Tender",
+   "title": "Temporary Traffic Management Services",
+   "buyer": "Falkirk Council",
+   "description": "Provision of Temporary Traffic Management Services at various sites within the Clackmannanshire, Falkirk and Stirling Council areas of operations. The service is to be delivered in line with the principles set out in the Traffic Signs Manual Chapter 8 (parts 1 & 2), and in accordance with the Safety at Street Works and Road Works\u2013 A Code of Practice.",
+   "published": "2026-11-06T09:23:45Z",
+   "deadline": "2026-12-07T11:00:00+00:00",
+   "value": 3100000,
+   "region": null,
+   "cpv": [
+    "34996100",
+    "45316212",
+    "63712700"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/105516-2026",
+   "first_seen": "2026-11-07T12:41:24.389932+00:00"
+  },
+  {
    "id": "FTS-103756-2026",
    "source": "Find a Tender",
    "title": "PKC14277 Independent Advocacy Services for Children and Young people within Perth & Kinross",
@@ -1629,6 +1612,103 @@
    "first_seen": "2026-11-02T15:08:47.630422+00:00"
   },
   {
+   "id": "FTS-105634-2026",
+   "source": "Find a Tender",
+   "title": "Chilton Grove",
+   "buyer": "London Borough of Southwark",
+   "description": "works will include:Recovering of flat roof. Partial cladding  Removal and reinstatement of windows incorporating new cills/drips Replacement of balustrading to staircase areas Replacement of taircase windows New communal lighting Partial FED replacement Fire stopping External Landscaping works",
+   "published": "2026-11-06T11:48:39Z",
+   "deadline": "2026-12-18T00:00:00+00:00",
+   "value": 4000000,
+   "region": null,
+   "cpv": [
+    "45000000",
+    "45200000",
+    "45260000",
+    "45261000",
+    "45261100",
+    "45261200",
+    "45261210",
+    "45261211",
+    "45261212",
+    "45261213",
+    "45261214",
+    "45261215",
+    "45261220",
+    "45261221",
+    "45261222",
+    "45261300",
+    "45261310",
+    "45261320",
+    "45261400",
+    "45261410",
+    "45261420",
+    "45261900",
+    "45261910",
+    "45261920",
+    "45262000",
+    "45262100",
+    "45262110",
+    "45262120",
+    "45262200",
+    "45262210",
+    "45262211",
+    "45262212",
+    "45262213",
+    "45262220",
+    "45262300",
+    "45262310",
+    "45262311",
+    "45262320",
+    "45262321",
+    "45262330",
+    "45262340",
+    "45262350",
+    "45262360",
+    "45262370",
+    "45262400",
+    "45262410",
+    "45262420",
+    "45262421",
+    "45262422",
+    "45262423",
+    "45262424",
+    "45262425",
+    "45262426",
+    "45262500",
+    "45262510",
+    "45262511",
+    "45262512",
+    "45262520",
+    "45262521",
+    "45262522",
+    "45262600",
+    "45262610",
+    "45262620",
+    "45262630",
+    "45262640",
+    "45262650",
+    "45262660",
+    "45262670",
+    "45262680",
+    "45262690",
+    "45262700",
+    "45262710",
+    "45262800",
+    "45262900",
+    "71000000",
+    "71400000",
+    "71410000",
+    "71420000",
+    "71421000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/105634-2026",
+   "first_seen": "2026-11-07T12:41:24.389932+00:00"
+  },
+  {
    "id": "FTS-104096-2026",
    "source": "Find a Tender",
    "title": "Treatment & Disposal of Residual Waste, Bulky Waste, Commercial & Demolition Waste & Street Cleansing Waste\u200b",
@@ -1729,6 +1809,26 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/fa4cdab1-5c0e-4686-b247-aa72d034dac7",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "FTS-105515-2026",
+   "source": "Find a Tender",
+   "title": "Provision of Roofing Services",
+   "buyer": "UHI North,West and Hebrides",
+   "description": "UHI North, West and Hebrides seek to appoint a suitably qualified and experienced Contractor to deliver roofing services across its estate. The contract/s will cover a mix of planned maintenance, reactive repairs, and small works projects up to a maximum individual value of GBP15,000.\nWorks will be instructed on an as-required basis throughout the contract period. Annual spend for the whole contract is anticipated to be GBP70K - 80K, however, there is no specific guarantee of work.",
+   "published": "2026-11-06T09:23:28Z",
+   "deadline": "2027-01-11T12:00:00+00:00",
+   "value": 240000,
+   "region": null,
+   "cpv": [
+    "45261900",
+    "45261910"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/105515-2026",
+   "first_seen": "2026-11-07T12:41:24.389932+00:00"
   },
   {
    "id": "CF-5ad54ae7-b62b-4578-bfc7-eb90d8ac6a82",
@@ -3374,6 +3474,25 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/47715897-8d78-43f1-b218-6fb3fc7afc57",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "CF-5f7c1dbe-8dd0-48d0-8438-deb684f3a843",
+   "source": "Contracts Finder",
+   "title": "YPO - 000925 Highway Electrical Installations",
+   "buyer": "YPO",
+   "description": "YPO are looking for providers to be appointed onto a Dynamic Purchasing System (DPS) for the provision of Highway Electrical Installation Services and are seeking to appoint providers that are accredited by the National Electricity Registration Scheme (NERS) or equivalent and the Highway Electrical Registration Scheme (HERS) or equivalent. The DPS is designed to meet the needs of all public sector organisations, which includes YPO&#039;s internal requirements and any of YPO&#039;s wholly owned associated or subsidiary companies.",
+   "published": "2019-03-13T14:21:13Z",
+   "deadline": "2029-02-23T23:30:00+00:00",
+   "value": 100000000,
+   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+   "cpv": [
+    "45311000 45311100 45311200"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/5f7c1dbe-8dd0-48d0-8438-deb684f3a843",
+   "first_seen": "2026-11-07T12:41:24.389932+00:00"
   },
   {
    "id": "CF-79ea80c3-8e3f-4da5-9548-22edd79323cd",
