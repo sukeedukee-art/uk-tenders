@@ -1,25 +1,6 @@
 {
- "generated": "2026-11-07T12:41:24.389932+00:00",
+ "generated": "2026-11-08T12:58:26.578091+00:00",
  "tenders": [
-  {
-   "id": "CF-44894d9f-2289-40fd-9a81-fec7b5f4a77f",
-   "source": "Contracts Finder",
-   "title": "Shropshire and Telford &amp; Wrekin VCSE Mental Health Transformation",
-   "buyer": "Midlands Partnership Foundation Trust",
-   "description": "Shropshire and Telford &amp; Wrekin VCSE Mental Health Transformation\r\n\r\nPLEASE NOTE : THE CONTRACT START DATE WILL COMMENCE ON 9th NOVEMBER 2022 AND EXPIRE ON 9th NOVEMBER 2026.",
-   "published": "2022-11-09T13:03:55Z",
-   "deadline": "2026-11-08T12:00:00+00:00",
-   "value": 2,
-   "region": "Any region",
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/44894d9f-2289-40fd-9a81-fec7b5f4a77f",
-   "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
   {
    "id": "FTS-096422-2026",
    "source": "Find a Tender",
@@ -1981,45 +1962,6 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/1120d6df-0ebc-4ec1-b6ae-552ff080b1f2",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
-  },
-  {
-   "id": "FTS-084788-2026",
-   "source": "Find a Tender",
-   "title": "UK DTE Projects (various upcoming)",
-   "buyer": "Ministry of Defence",
-   "description": "General advert covering a wide range of projects across the entire estate over the coming 6 months and an invitation for contractors to express an interest in working with Landmarc.",
-   "published": "2026-09-08T11:25:27+01:00",
-   "deadline": "2027-03-08T12:00:00+00:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "42512300",
-    "45111100",
-    "45111200",
-    "45111220",
-    "45112700",
-    "45211350",
-    "45213240",
-    "45216200",
-    "45223200",
-    "45231110",
-    "45232141",
-    "45261900",
-    "45262520",
-    "45262640",
-    "45311100",
-    "45315100",
-    "45331200",
-    "45351000",
-    "45421130",
-    "45442100",
-    "REALISATION_REQUIREMENTS_SPECIFIED_CONTRACTING_AUTHORITIES"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/084788-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
   },
   {
    "id": "CF-a5898968-04fb-4de0-91f4-709ab99d528f",
