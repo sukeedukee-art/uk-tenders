@@ -1,137 +1,6 @@
 {
- "generated": "2026-11-08T12:58:26.578091+00:00",
+ "generated": "2026-11-09T15:39:08.271340+00:00",
  "tenders": [
-  {
-   "id": "FTS-096422-2026",
-   "source": "Find a Tender",
-   "title": "Provision of Homeless Supported Accommodation, Outreach Tenancy Support and Housing First Services",
-   "buyer": "Falkirk Council",
-   "description": "Provision of housing support services to assist individuals and households experiencing homelessness, housing instability or requiring support to sustain accommodation. The service will contribute to homelessness prevention, tenancy sustainment, independent living and improved wellbeing outcomes. The requirement is expected to include:\n- Housing First support services for individuals with multiple and complex needs.\n- Outreach tenancy support services for people residing within the Falkirk Council area.\n- Supported accommodation services, including accommodation management and support provisio",
-   "published": "2026-10-13T10:52:22+01:00",
-   "deadline": "2026-11-09T11:00:00+00:00",
-   "value": 6122802,
-   "region": null,
-   "cpv": [
-    "85300000",
-    "85310000",
-    "85311000",
-    "85312000"
-   ],
-   "categories": [
-    "Supported Living",
-    "Supported Accommodation"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/096422-2026",
-   "first_seen": "2026-10-14T06:31:51.759088+00:00"
-  },
-  {
-   "id": "FTS-095655-2026",
-   "source": "Find a Tender",
-   "title": "The Provision of Community Based Mental Health Services Incorporating Distress Brief Intervention Services Level 2",
-   "buyer": "Renfrewshire Council",
-   "description": "Renfrewshire Council/Renfrewshire Health and Social Care Partnership (RHSCP) are seeking a Provider to deliver  a community based mental health service for adults aged over 16 in Renfrewshire experiencing stress and distress in their mental health. This will include the three following components to support and manage their current episode of stress and distress and provide the tools to prevent and manage future episodes:\n1.\tDistress Brief Intervention (DBI) Services Level 2\n2.\tCounselling and Therapeutic Support\n3.\tGroup-Based Support and Wellbeing Activities\nThe outcomes the Council/RHSCP wi",
-   "published": "2026-10-09T12:52:28+01:00",
-   "deadline": "2026-11-09T12:00:00+00:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/095655-2026",
-   "first_seen": "2026-10-10T06:17:57.494873+00:00"
-  },
-  {
-   "id": "FTS-095491-2026",
-   "source": "Find a Tender",
-   "title": "Angus Rural Mobility Hub - Enabling Infrastructure Works",
-   "buyer": "Angus Council",
-   "description": "The project comprises the enabling infrastructure only required for a new Mobility Hub.",
-   "published": "2026-10-09T09:56:54+01:00",
-   "deadline": "2026-11-09T12:00:00+00:00",
-   "value": 4650000,
-   "region": null,
-   "cpv": [
-    "45000000",
-    "45111200",
-    "45112700",
-    "45232452",
-    "45233000",
-    "45340000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/095491-2026",
-   "first_seen": "2026-10-10T06:17:57.494873+00:00"
-  },
-  {
-   "id": "FTS-095000-2026",
-   "source": "Find a Tender",
-   "title": "Provision of Motor Control Centres, Systems Integration and ICA Services",
-   "buyer": "Scottish Water",
-   "description": "Scottish Water is seeking to establish a multi-supplier Framework Agreement for the provision of Motor Control Centres (MCCs), Instrumentation, Control and Automation (ICA), Systems Integration (SI) and ICA maintenance and support services. The Framework will provide a flexible, scalable and resilient route to market for electrical, control, automation and Operational Technology (OT) requirements across Scottish Water's water and wastewater assets, supporting capital delivery, asset renewal and operational requirements.<br/><br/>The Framework will be divided into three Lots, with multiple supp",
-   "published": "2026-10-08T08:45:17+01:00",
-   "deadline": "2026-11-09T12:00:00+00:00",
-   "value": 140000000.0,
-   "region": null,
-   "cpv": [
-    "31211110",
-    "45310000",
-    "50530000",
-    "50532400",
-    "72212150"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/095000-2026",
-   "first_seen": "2026-10-09T06:20:05.674853+00:00"
-  },
-  {
-   "id": "FTS-094996-2026",
-   "source": "Find a Tender",
-   "title": "Gardeen HA Gas Maintenance 2027",
-   "buyer": "Gardeen Housing Association Ltd",
-   "description": "The work and services to be undertaken comprises the provision of a term maintenance contract for an all-inclusive comprehensive annual inspection, servicing & maintenance contract, with provisional associated replacement works [including boilers, detectors, and associated works] and reporting for approximately 253 domestic and 2 commercial [office] gas central heating installations covering all parts, labour and certification to maintain fully functioning gas fired hot water & heating systems as categorised under the Right to Repair Statutory Scheme in the Employer\u2019s tenanted flats/ houses (w",
-   "published": "2026-10-08T08:32:53+01:00",
-   "deadline": "2026-11-09T12:00:00+00:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "45331110",
-    "50531100",
-    "50531200"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/094996-2026",
-   "first_seen": "2026-10-09T06:20:05.674853+00:00"
-  },
-  {
-   "id": "FTS-091498-2026",
-   "source": "Find a Tender",
-   "title": "Provision of Temporary Emergency Accommodation (East Lothian Council)",
-   "buyer": "East Lothian Council",
-   "description": "East Lothian Council wishes to establish a flexible purchasing system for the Provision of Temporary Emergency Accommodation for individuals and households experiencing homelessness within East Lothian Geographical area.  Emergency Accommodation is Hotel or Bed & Breakfast (B&B) style accommodation which the Council may need to use when there is no other form of temporary accommodation available to meet demand. The council will be purchasing a room on a per night basis only and will have no responsibility for any aspect of the accommodation.\nThe proposed contract duration is two years, with an",
-   "published": "2026-09-28T14:49:55+01:00",
-   "deadline": "2026-11-09T12:00:00+00:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "55270000",
-    "85311000"
-   ],
-   "categories": [
-    "Supported Living",
-    "Supported Accommodation"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/091498-2026",
-   "first_seen": "2026-10-01T13:18:18.834692+00:00"
-  },
   {
    "id": "FTS-100405-2026",
    "source": "Find a Tender",
@@ -625,6 +494,25 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/ea93fe7d-b5c4-4243-a2cf-16e4f6989cdf",
    "first_seen": "2026-11-05T14:20:03.300169+00:00"
+  },
+  {
+   "id": "FTS-106268-2026",
+   "source": "Find a Tender",
+   "title": "CP-401 - Aster Group External Decorations",
+   "buyer": "ASTER GROUP LIMITED",
+   "description": "Aster Group is a housing association which provides quality, affordable homes to thousands of people across the south of England and London. Its vision is that everyone has a home. See our website for more details www.aster.co.uk/corporate/about-us\nThe not-for-dividend business was established in 1990 and has \u00a32.5 billion worth of social housing assets. The Group reinvests profits from open market sale and shared ownership to support the development of affordable homes. It owns and maintains over 37,000 homes and employs over 2,000 people.\nCentral and Cecil Housing Trust (C&C), East Boro Housi",
+   "published": "2026-11-09T14:05:13Z",
+   "deadline": "2026-11-23T00:00:00+00:00",
+   "value": 31500000,
+   "region": null,
+   "cpv": [
+    "45443000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/106268-2026",
+   "first_seen": "2026-11-09T15:39:08.271340+00:00"
   },
   {
    "id": "FTS-100985-2026",
@@ -1334,6 +1222,29 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/104358-2026",
    "first_seen": "2026-11-04T13:58:54.308044+00:00"
+  },
+  {
+   "id": "FTS-106021-2026",
+   "source": "Find a Tender",
+   "title": "The Provision of a Mental Health Crisis Text Support Service on behalf of NHS Cheshire and Merseyside Integrated Care Board",
+   "buyer": "NHS CHESHIRE AND MERSEYSIDE INTEGRATED CARE BOARD",
+   "description": "NHS Cheshire and Merseyside is seeking to engage with the market regarding the provision of an all-age, 24-hour, 7 days a week/ 365 days a year Mental Health Crisis Text Service across Cheshire and Merseyside.\nThe service will provide immediate, accessible and inclusive text-based support for individuals experiencing a mental health crisis and will operate 24 hours a day, 365 days a year. The service is intended to be fully integrated with NHS 111 (Mental Health Option) and local crisis response pathways, ensuring seamless access to urgent mental health support and onward referral where requir",
+   "published": "2026-11-09T09:51:24Z",
+   "deadline": "2026-12-04T12:00:00+00:00",
+   "value": 1400000,
+   "region": null,
+   "cpv": [
+    "79430000",
+    "85100000",
+    "85121270",
+    "85323000"
+   ],
+   "categories": [
+    "Supported Living",
+    "Teleradiology"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/106021-2026",
+   "first_seen": "2026-11-09T15:39:08.271340+00:00"
   },
   {
    "id": "FTS-104309-2026",
@@ -3473,6 +3384,25 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/2c749ea5-7268-4dee-9044-0022248974df",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "CF-3b683a43-8674-4015-8749-d6c2827c98ec",
+   "source": "Contracts Finder",
+   "title": "YPO - 000882 FM Services - Internal Fit-out and Maintenance",
+   "buyer": "YPO",
+   "description": "YPO are looking for providers to be appointed onto a Dynamic Purchasing System (DPS) for the provision of FM Services - Internal Fit out and Maintenance.  The DPS is designed to meet the needs of all public sector organisations which includes YPOs internal requirements and any of YPOs wholly owned associated or subsidiary companies.  Details regarding this opportunity can be found by following the links set out in this notice and registering your interest.",
+   "published": "2018-08-01T12:47:53+01:00",
+   "deadline": "2029-02-23T23:55:00+00:00",
+   "value": 500000000,
+   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+   "cpv": [
+    "45210000 45000000 45300000 31625000 39141400 45453100 45442100"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/3b683a43-8674-4015-8749-d6c2827c98ec",
+   "first_seen": "2026-11-09T15:39:08.271340+00:00"
   },
   {
    "id": "CF-e5f5d77f-b55c-4364-92b2-d743b3ac3e09",
