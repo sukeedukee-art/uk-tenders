@@ -1,85 +1,6 @@
 {
- "generated": "2026-11-09T15:39:08.271340+00:00",
+ "generated": "2026-11-10T14:34:06.235968+00:00",
  "tenders": [
-  {
-   "id": "FTS-100405-2026",
-   "source": "Find a Tender",
-   "title": "C-014237 - Medical Assessments and Advisor Reports for Fostering and Kinship Carers",
-   "buyer": "Newcastle City Council",
-   "description": "Medical Assessments and generation of supporting Advisor Reports for Fostering and Kinship Carers for Newcastle City Council carers",
-   "published": "2026-10-23T12:03:58+01:00",
-   "deadline": "2026-11-09T17:00:00+00:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85000000",
-    "85100000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/100405-2026",
-   "first_seen": "2026-10-24T06:27:10.602047+00:00"
-  },
-  {
-   "id": "FTS-095921-2026",
-   "source": "Find a Tender",
-   "title": "Southside Housing Association - Asbestos Management Surveys",
-   "buyer": "Southside Housing Association",
-   "description": "Carry out Asbestos Management Surveys within residential property common areas.\nWorks orders may be issued for R&D Surveys and removal/encapsulation of Asbestos.",
-   "published": "2026-10-12T09:42:47+01:00",
-   "deadline": "2026-11-09T17:00:00+00:00",
-   "value": 120000,
-   "region": null,
-   "cpv": [
-    "45262660",
-    "90650000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/095921-2026",
-   "first_seen": "2026-10-13T06:22:18.447083+00:00"
-  },
-  {
-   "id": "FTS-096480-2026",
-   "source": "Find a Tender",
-   "title": "Targeted Prostate Cancer Screening Programme \u2013 PSA Laboratory Processing Service",
-   "buyer": "NHS England",
-   "description": "The Contracting Authority is procuring a targeted prostate cancer screening pathway with a focus on men at increased risk due to an inherited BRCA2 variant utilising the competitive provider selection process under the Health Care Services (Provider Selection Regime) Regulations 2023.<br/><br/>NHS England is seeking a provider to deliver a national Prostate Specific Antigen (PSA) Laboratory Processing and Virtual Screening Pathway Coordination service to support the Targeted Prostate Cancer Screening Programme for England.<br/><br/>The service will include PSA Sample logistics from the agreed ",
-   "published": "2026-10-13T11:51:31+01:00",
-   "deadline": "2026-11-10T12:00:00+00:00",
-   "value": 238607.9,
-   "region": null,
-   "cpv": [
-    "85111810",
-    "85145000"
-   ],
-   "categories": [
-    "Teleradiology"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/096480-2026",
-   "first_seen": "2026-10-14T06:31:51.759088+00:00"
-  },
-  {
-   "id": "FTS-096478-2026",
-   "source": "Find a Tender",
-   "title": "Targeted Prostate Cancer Screening Programme - MRI Reporting Service",
-   "buyer": "NHS England",
-   "description": "The Contracting Authority is procuring a targeted prostate cancer screening pathway with a focus on men at increased risk due to an inherited BRCA2 variant utilising the competitive provider selection process under the Health Care Services (Provider Selection Regime) Regulations 2023.<br/><br/>NHS England is seeking a provider to deliver a national centralised Prostate MRI Reporting Service to support the Targeted Prostate Cancer Screening Programme for England.<br/><br/>The service will provide specialist reporting of prostate MRI examinations for Programme Participants requiring MRI followin",
-   "published": "2026-10-13T11:51:03+01:00",
-   "deadline": "2026-11-10T12:00:00+00:00",
-   "value": 143654.56,
-   "region": null,
-   "cpv": [
-    "85150000"
-   ],
-   "categories": [
-    "Teleradiology"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/096478-2026",
-   "first_seen": "2026-10-14T06:31:51.759088+00:00"
-  },
   {
    "id": "CF-3244a195-4d3f-4923-b52f-8858e90ad9d1",
    "source": "Contracts Finder",
@@ -1402,6 +1323,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/101073-2026",
    "first_seen": "2026-10-27T06:34:53.450138+00:00"
+  },
+  {
+   "id": "FTS-106687-2026",
+   "source": "Find a Tender",
+   "title": "NHSGGC Provision of Breastfeeding Support Services",
+   "buyer": "NHS Greater Glasgow and Clyde",
+   "description": "NHS GGC recognises the important contribution that third-sector organisations can make through the provision of breastfeeding peer support. Peer support offers families access to people with relevant lived experience who can provide practical, social and emotional support, complementing the clinical and professional support provided by NHS services.\nThe service will contribute to the implementation of the Scottish Government Breastfeeding and Infant Feeding Strategic Framework and NHS GGC's Infant Feeding Policy and will support the delivery and sustainability of UNICEF UK Baby Friendly standa",
+   "published": "2026-11-10T13:43:31Z",
+   "deadline": "2026-12-10T13:00:00+00:00",
+   "value": 165000,
+   "region": null,
+   "cpv": [
+    "85000000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/106687-2026",
+   "first_seen": "2026-11-10T14:34:06.235968+00:00"
   },
   {
    "id": "FTS-097325-2026",
@@ -5100,25 +5040,6 @@
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
   },
   {
-   "id": "CF-19d8cf6d-c183-4b59-b592-47827c418d53",
-   "source": "Contracts Finder",
-   "title": "FDIS - Elgin External Refurbishments to 95 properties - FY2026/27 - Amey North Region - Scotland",
-   "buyer": "AMEY DEFENCE SERVICES LIMITED",
-   "description": "North Region - Scotland\r\n\r\nBrief Scope of Works\r\n\r\nReplace all existing timber/PVCu windows with white PVCu windows\r\n\r\nReplace all existing timber/PVCu doors with PVCu doors\r\n\r\nEase &amp; Adjust garage &#039;up &amp; over&#039; doors\r\n\r\nItemised electrical works\r\n\r\nShared role On Site Liaison Officer\r\n\r\nAmey have been tasked by the DIO through the FDIS to deliver the Regional Accommodation Maintenance Service for the Central and North Regions.\r\nThis notice is a call for competition and there may not be a further notice related to this opportunity.\r\nFor Amey to accept any EoI it is ESSENTIAL th",
-   "published": "2026-10-19T13:06:42+01:00",
-   "deadline": null,
-   "value": 870000,
-   "region": "Scotland",
-   "cpv": [
-    "45262690"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/19d8cf6d-c183-4b59-b592-47827c418d53",
-   "first_seen": "2026-10-20T06:31:10.527290+00:00"
-  },
-  {
    "id": "CF-c89a5dc9-0523-4ac6-973d-31ef3c0af5ab",
    "source": "Contracts Finder",
    "title": "FDIS - Helensburgh Fencing - FY2026/27 - Amey North Region - Scotland",
@@ -5136,6 +5057,44 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/c89a5dc9-0523-4ac6-973d-31ef3c0af5ab",
    "first_seen": "2026-11-04T13:58:54.308044+00:00"
+  },
+  {
+   "id": "CF-a8ac3151-16f0-49c6-abaa-7fc3565f42e0",
+   "source": "Contracts Finder",
+   "title": "FDIS - Glasgow Fencing - FY2026/27 - Amey North Region - Scotland",
+   "buyer": "AMEY DEFENCE SERVICES LIMITED",
+   "description": "North Region - Scotland\r\n\r\nReplace/install up to 2000m fencing consisting of 6ft concrete posts with weatherboard panels and timber gravel boards:\r\n\r\nRemove old fencing, clear vegetation and bushes to install 6 foot fence\r\n- Concrete posts with gravel boards\r\n- 5 foot timber slats and rails to be inserted\r\n\r\nAmey have been tasked by the DIO through the FDIS to deliver the Regional Accommodation Maintenance Service for the Central and North Regions.\r\n\r\nThis notice is a call for competition and there may not be a further notice related to this opportunity.\r\n\r\nFor Amey to accept any EoI it is ESS",
+   "published": "2026-11-10T14:19:06Z",
+   "deadline": null,
+   "value": 348000,
+   "region": "Scotland",
+   "cpv": [
+    "45340000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/a8ac3151-16f0-49c6-abaa-7fc3565f42e0",
+   "first_seen": "2026-11-10T14:34:06.235968+00:00"
+  },
+  {
+   "id": "CF-c50905b0-3add-4b79-a18d-f815dc4a4153",
+   "source": "Contracts Finder",
+   "title": "FDIS - Catterick Fencing - FY2026/27 - Amey North Region - Northern England",
+   "buyer": "AMEY DEFENCE SERVICES LIMITED",
+   "description": "North Region - North England\r\n\r\nReplace/install up to 2000m fencing consisting of 6ft concrete posts with weatherboard panels and timber gravel boards:\r\n\r\nRemove old fencing, clear vegetation and bushes to install 6 foot fence\r\n- Concrete posts with gravel boards\r\n- 5 foot timber slats and rails to be inserted\r\n\r\nAmey have been tasked by the DIO through the FDIS to deliver the Regional Accommodation Maintenance Service for the Central and North Regions.\r\n\r\nThis notice is a call for competition and there may not be a further notice related to this opportunity.\r\n\r\nFor Amey to accept any EoI it i",
+   "published": "2026-11-10T13:53:28Z",
+   "deadline": null,
+   "value": 348000,
+   "region": "Yorkshire and The Humber",
+   "cpv": [
+    "45340000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/c50905b0-3add-4b79-a18d-f815dc4a4153",
+   "first_seen": "2026-11-10T14:34:06.235968+00:00"
   },
   {
    "id": "CF-ddf7dd52-80d9-4892-b3b7-49240ed19056",
@@ -5193,25 +5152,6 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/0f7a1268-f357-40ec-9bf6-fdfa7764715c",
    "first_seen": "2026-11-05T14:20:03.300169+00:00"
-  },
-  {
-   "id": "CF-9bb657d8-166d-43c2-b83c-31250afd1141",
-   "source": "Contracts Finder",
-   "title": "FDIS - Newcastle-upon-Tyne Refurbishment to 7 properties - FY2026/27 - Amey North Region - North",
-   "buyer": "AMEY DEFENCE SERVICES LIMITED",
-   "description": "Brief scope of works:\r\nExternal Works\t\r\nRemove roof vent ducts \r\nCore 2x holes in wall &amp; redirect ducts\r\nInternal Works\t\r\nInstall kitchen at 1 SFA\r\nReplace all skirting boards/architraves\r\nInstall bathroom suite\r\nRemove existing radiators/install radiators \r\nInstall doors throughout\r\nPrepare wall/ceiling &amp; redecorate\r\nReplace floor coverings\r\nThis notice is a call for competition and there may not be a further notice related to this opportunity.\r\nFor Amey to accept any EoI it is ESSENTIAL that any subcontractor is:\r\nwilling to act as Main Contractor (essential requirement);\r\na Verified",
-   "published": "2026-10-19T14:56:33+01:00",
-   "deadline": null,
-   "value": 348000,
-   "region": "North East",
-   "cpv": [
-    "45262690"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/9bb657d8-166d-43c2-b83c-31250afd1141",
-   "first_seen": "2026-10-20T06:31:10.527290+00:00"
   },
   {
    "id": "CF-ec08d37d-fa5f-404f-a57a-f8aeeae2cdd0",
