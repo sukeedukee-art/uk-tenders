@@ -1,123 +1,6 @@
 {
- "generated": "2026-11-10T14:34:06.235968+00:00",
+ "generated": "2026-11-11T13:48:37.689541+00:00",
  "tenders": [
-  {
-   "id": "CF-3244a195-4d3f-4923-b52f-8858e90ad9d1",
-   "source": "Contracts Finder",
-   "title": "DNWP0027- Lot 1B / WAGR B55 Demolition - Sellafield - A2R JV",
-   "buyer": "Altrad AtkinsRealis Joint Venture (A2R JV)",
-   "description": "The B55 and B55.2 demolition project at Sellafield involves the controlled demolition and dismantling of the B55 Office Complex and B55.2 Turbine Hall, located within the WAGR complex, down to existing ground-floor slab level. The scope includes soft stripping, asbestos remediation, high-reach mechanical demolition of the structural frame, cladding and reinforced-concrete floors, together with segregation and processing of demolition arisings, backfilling of voids and final site clearance.\r\n    \r\n    A key constraint is Substation 65, which is located within the B55/B55.2 structure and must re",
-   "published": "2026-10-26T16:00:04Z",
-   "deadline": "2026-11-10T17:00:00+00:00",
-   "value": 5000000,
-   "region": "Any region",
-   "cpv": [
-    "45251111 98113100 42151000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/3244a195-4d3f-4923-b52f-8858e90ad9d1",
-   "first_seen": "2026-10-27T06:34:53.450138+00:00"
-  },
-  {
-   "id": "FTS-102981-2026",
-   "source": "Find a Tender",
-   "title": "HtH - Semi Independent Living - Lot 4",
-   "buyer": "London Borough of Haringey",
-   "description": "PROVISION OF THE SUPPORT AND LIFE SKILL COACHING FOR CARE LEAVERS",
-   "published": "2026-10-30T09:40:19Z",
-   "deadline": "2026-11-11T00:00:00+00:00",
-   "value": 292500,
-   "region": null,
-   "cpv": [
-    "85310000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/102981-2026",
-   "first_seen": "2026-10-31T06:41:13.998364+00:00"
-  },
-  {
-   "id": "FTS-097179-2026",
-   "source": "Find a Tender",
-   "title": "Teleradiology Service",
-   "buyer": "South Tyneside and Sunderland NHS Foundation Trust",
-   "description": "Provision of a Teleradiology Service to South Tyneside and Sunderland NHS Foundation Trust",
-   "published": "2026-10-14T16:15:43+01:00",
-   "deadline": "2026-11-11T12:00:00+00:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85150000"
-   ],
-   "categories": [
-    "Teleradiology"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/097179-2026",
-   "first_seen": "2026-10-15T06:32:27.235073+00:00"
-  },
-  {
-   "id": "FTS-096179-2026",
-   "source": "Find a Tender",
-   "title": "Reopening of Framework Agreement for Live-in Care (All-Ages), Complex Care (All-Ages) and Trusted Assessors for Spot Therapy and Clinical Psychology Provision for NHS Devon Integrated Care Board",
-   "buyer": "NHS DEVON INTEGRATED CARE BOARD",
-   "description": "NHS Devon Integrated Care Board (the Commissioner) is seeking to reopen the Framework Agreement and appoint suitable providers who have the capability and capacity to deliver the following services:\nLOT 1 - Live-in Care at Home for All-Ages\nLOT 2 - Complex Care for All-Ages\nLOT 3 - Trusted Assessors for Spot Therapy and Clinical Psychology Provision (SEND)\nThe geography covered is that of NHS Devon ICB.\n4) The framework agreement was established on 12th January 2026 for a period of 4 years ending on 11th January 2030.\n5) The combined maximum value of the Framework Agreement is \u00a361,297,064 for ",
-   "published": "2026-10-12T15:27:07+01:00",
-   "deadline": "2026-11-11T12:00:00+00:00",
-   "value": 61297064,
-   "region": null,
-   "cpv": [
-    "85100000",
-    "85312500",
-    "85323000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/096179-2026",
-   "first_seen": "2026-10-13T06:22:18.447083+00:00"
-  },
-  {
-   "id": "FTS-095906-2026",
-   "source": "Find a Tender",
-   "title": "Sunderland Alternative Provider Medical Services (APMS)",
-   "buyer": "NHS North East and North Cumbria Integrated Care Board",
-   "description": "North of England Commissioning Support (NECS) is a commissioning support service working for and on behalf of NHS North East and North Cumbria Integrated Care Board (the Relevant Authority) who are undertaking a competition to provide. Alternative Provider Medical Service (APMS) to be delivered for patients of Sunderland.\nContract Start Date: 15 April 2027\nContract End Date: 14 April 2036\nThe contract term is for an initial period of 7 years, with an option to extend for a further 2 years at the discretion of the Relevant Authority and subject to satisfactory contractual and financial performa",
-   "published": "2026-10-12T09:20:36+01:00",
-   "deadline": "2026-11-11T12:00:00+00:00",
-   "value": 10793077,
-   "region": null,
-   "cpv": [
-    "85100000",
-    "85120000"
-   ],
-   "categories": [
-    "Teleradiology"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/095906-2026",
-   "first_seen": "2026-10-13T06:22:18.447083+00:00"
-  },
-  {
-   "id": "FTS-095692-2026",
-   "source": "Find a Tender",
-   "title": "Distress Brief Intervention",
-   "buyer": "North Lanarkshire Council",
-   "description": "North Lanarkshire Council (the \"Council\") propose to establish a contract with a sole contractor for Distress Brief Intervention.\n.\nThere is a longstanding culture of joint integration and partnership working across Lanarkshire which is further evidenced through the Lanarkshire Health and Social Care Partnership (H&SCP) agreement for North Lanarkshire Social Care services to take a lead role in the commissioning of the DBI service on behalf of South Lanarkshire Social Care service and NHS Lanarkshire.\n.\nThe approach to this procurement is in accordance with Regulation 74 (Social and Other Spec",
-   "published": "2026-10-09T14:03:46+01:00",
-   "deadline": "2026-11-11T12:00:00+00:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "85312320"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/095692-2026",
-   "first_seen": "2026-10-10T06:17:57.494873+00:00"
-  },
   {
    "id": "FTS-096362-2026",
    "source": "Find a Tender",
@@ -1344,6 +1227,60 @@
    "first_seen": "2026-11-10T14:34:06.235968+00:00"
   },
   {
+   "id": "FTS-106971-2026",
+   "source": "Find a Tender",
+   "title": "Clyde Valley Group - Contract for Roof Repairs and Minor Works",
+   "buyer": "Clyde Valley Housing Association Limited",
+   "description": "Clyde Valley Group is procuring a Contract which shall deliver Responsive Maintenance Roof Repair Services and Minor Works\nthroughout Lanarkshire, Glasgow and East Dunbartonshire.\nThe properties applicable to the Contract are described within Tender Document E, and it is intended that that one Provider will be\nappointed to deliver all requirements for all properties listed in Tender Document E that are located in North Lanarkshire, South\nLanarkshire, Glasgow and East Dunbartonshire.\nThe properties are anticipated to include sandstone tenement flats, new build modern housing and flats, and post",
+   "published": "2026-11-11T10:16:30Z",
+   "deadline": "2026-12-11T12:00:00+00:00",
+   "value": 375000,
+   "region": null,
+   "cpv": [
+    "44112400",
+    "44112500",
+    "45260000",
+    "45261200",
+    "45261210",
+    "45261211",
+    "45261212",
+    "45261410",
+    "45261900",
+    "45261910",
+    "45261920",
+    "50700000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/106971-2026",
+   "first_seen": "2026-11-11T13:48:37.689541+00:00"
+  },
+  {
+   "id": "FTS-106832-2026",
+   "source": "Find a Tender",
+   "title": "EDC/2026/4497 Framework Agreement for Drainage Civil Engineering Works",
+   "buyer": "East Dunbartonshire Council",
+   "description": "East Dunbartonshire Council wishes to establish a public contract (within the meaning of the Procurement Regulations) and appoint a number of suppliers under an overarching ranked framework arrangement to carry out work and provide Work Orders in relation to Drainage Civil Engineering Works throughout the local government area of East Dunbartonshire over a minimum period of three (3) years with an option to extend up to a further 12 months.",
+   "published": "2026-11-10T16:09:52Z",
+   "deadline": "2026-12-11T12:00:00+00:00",
+   "value": 3600000,
+   "region": null,
+   "cpv": [
+    "45111240",
+    "45232411",
+    "45232450",
+    "45232451",
+    "45232452",
+    "45232453"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/106832-2026",
+   "first_seen": "2026-11-11T13:48:37.689541+00:00"
+  },
+  {
    "id": "FTS-097325-2026",
    "source": "Find a Tender",
    "title": "Refurbishment and Modernisation (RM4S) - Scotland Framework Agreement",
@@ -1442,6 +1379,31 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/103686-2026",
    "first_seen": "2026-11-02T15:08:47.630422+00:00"
+  },
+  {
+   "id": "FTS-107056-2026",
+   "source": "Find a Tender",
+   "title": "Clinical Diagnosis and Treatment",
+   "buyer": "East of England NHS collaborative Procurement Hub c/o West Suffolk NHS Foundation Trust",
+   "description": "The purpose of this framework is for the provision of Clinical Diagnosis & Treatment services that fall under the Lots listed in the ITT.\nServices offered under this framework will meet the highest industry standards and support Beneficiaries with the current and future day-to-day activities in respect of the requirements.\nThe intention is to offer an accessible and compliant route to market for organisations to easily manage multiple services, assisting Beneficiaries in the management of waiting list within services to meet NHS targets.\nThe framework will be comprised of 9 lots:\n\u2022 Lot 1 - Der",
+   "published": "2026-11-11T12:02:08Z",
+   "deadline": "2026-12-15T12:00:00+00:00",
+   "value": 15000000,
+   "region": null,
+   "cpv": [
+    "85100000",
+    "85121240",
+    "85121251",
+    "85121281",
+    "85121282",
+    "85121292",
+    "85130000"
+   ],
+   "categories": [
+    "Teleradiology"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/107056-2026",
+   "first_seen": "2026-11-11T13:48:37.689541+00:00"
   },
   {
    "id": "FTS-105634-2026",
@@ -1641,6 +1603,25 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/fa4cdab1-5c0e-4686-b247-aa72d034dac7",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "CF-c8aa3e6a-b378-4f65-970d-1638d964cc13",
+   "source": "Contracts Finder",
+   "title": "CA18658 - Replacement of 3 G pitches and associated works",
+   "buyer": "The Co-operative Academy of Manchester",
+   "description": "Renewal of 3G pitch surface and floodlights at Co-op Academy Failsworth, Manchester\r\nArea - 102m x 63m\r\n\r\nScope of Works:\r\n1. Preliminaries &amp; Site Establishment;\r\n2. Site Clearance;\r\n3. Supply and Install 3G Synthetic Turf;\r\n4. Reinstatement;\r\n5. Testing and Commissioning;\r\n6. A suitable warranty to be provided for the pitch;\r\n7. New goals and nets to be provided;\r\n8. Replacement of floodlights to LED for MUGA.\r\n\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18658.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.",
+   "published": "2026-11-10T14:45:06Z",
+   "deadline": "2027-01-06T12:00:00+00:00",
+   "value": 280000,
+   "region": "Any region",
+   "cpv": [
+    "45212200"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/c8aa3e6a-b378-4f65-970d-1638d964cc13",
+   "first_seen": "2026-11-11T13:48:37.689541+00:00"
   },
   {
    "id": "FTS-105515-2026",
@@ -5038,6 +5019,25 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/b49c0173-9cd6-42b7-a65f-ebd1462bd614",
    "first_seen": "2026-10-04T11:23:09.770721+00:00"
+  },
+  {
+   "id": "CF-c8ac3f07-00f4-4601-991e-78cc7d452f59",
+   "source": "Contracts Finder",
+   "title": "FDIS - Helensburgh Rhu Fencing - FY2026/27 - Amey North Region - Scotland",
+   "buyer": "AMEY DEFENCE SERVICES LIMITED",
+   "description": "North Region - Scotland\r\n\r\nBrief Scope of Works\r\n\r\nReplace/install up to 2000m fencing as follows:\r\n\r\nRemove old fencing, clear vegetation and bushes to install 6 foot fence\r\n- Concrete posts with gravel boards\r\n- 5 foot timber slats and rails to be inserted\r\n\r\nAmey have been tasked by the DIO through the FDIS to deliver the Regional Accommodation Maintenance Service for the Central and North Regions.\r\n\r\nThis notice is a call for competition and there may not be a further notice related to this opportunity.\r\n\r\nFor Amey to accept any EoI it is ESSENTIAL that any subcontractor is:\r\n\u2022\twilling to ",
+   "published": "2026-11-10T14:43:23Z",
+   "deadline": null,
+   "value": 348000,
+   "region": "Scotland",
+   "cpv": [
+    "45340000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/c8ac3f07-00f4-4601-991e-78cc7d452f59",
+   "first_seen": "2026-11-11T13:48:37.689541+00:00"
   },
   {
    "id": "CF-c89a5dc9-0523-4ac6-973d-31ef3c0af5ab",
