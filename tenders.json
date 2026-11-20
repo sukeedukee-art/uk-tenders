@@ -1,44 +1,6 @@
 {
- "generated": "2026-11-19T15:27:46.624341+00:00",
+ "generated": "2026-11-20T15:05:04.744708+00:00",
  "tenders": [
-  {
-   "id": "CF-cf62aca6-c438-4f73-9156-354dcaf76167",
-   "source": "Contracts Finder",
-   "title": "Dynamic Purchasing System for the Provision of Housing Adaptation Works",
-   "buyer": "Doncaster Council",
-   "description": "Doncaster Borough Council (The Council) is to establish a Dynamic Purchasing System (DPS) for housing adaptation works that are currently funded through the Disables Facilities Grant (DFG). The funding received from the DFG is to pay for essential adaptation to a person&#039;s current home to enable them to continue to live an independent life. The property could be owned by a housing association, St Leger Homes of Doncaster (SLH), private landlord or privately owned.  The Council is seeking to appoint a range of Contractors able to provide adaptation works consisting of, but not limited to, t",
-   "published": "2021-10-05T12:30:51+01:00",
-   "deadline": "2026-11-20T12:00:00+00:00",
-   "value": 3500000,
-   "region": "Any region",
-   "cpv": [
-    "45000000 45100000 45300000 45310000 45311100 45311200 45330000 45332000 45332200 45332400 45400000 45410000 45420000 45421000 45421100 45421110 45421111 45421112 45421120 45421130 45421131 45421132 45421150 45421151 45421152 45430000 45431000 45432000 45432100 45432130 45450000 45453000 45453100"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/cf62aca6-c438-4f73-9156-354dcaf76167",
-   "first_seen": "2026-11-17T15:41:41.964401+00:00"
-  },
-  {
-   "id": "CF-fa06e7d2-9504-4b7c-8191-b9ea3c51277a",
-   "source": "Contracts Finder",
-   "title": "CA18609 - R9387 - SHGH - ECU STAFF ROOM",
-   "buyer": "Epsom &amp; St Helier University Hospitals NHS Trust",
-   "description": "Epsom and St Helier University Hospitals NHS Trust invites suitably qualified and experienced contractors to submit a fully priced tender for the refurbishment and conversion of an existing room within the Ground Floor Eye Care Unit at St Helier Hospital to provide a new staff welfare facility. The works include associated strip-out, building fabric alterations, installation of a new fire-rated door, suspended ceilings, safety vinyl flooring, internal decorations, enclosed kitchenette, hot and cold water supplies, drainage, electrical installations, lighting, fire stopping and all associated b",
-   "published": "2026-10-28T08:36:07Z",
-   "deadline": "2026-11-20T12:00:00+00:00",
-   "value": 75000,
-   "region": "Any region",
-   "cpv": [
-    "45000000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/fa06e7d2-9504-4b7c-8191-b9ea3c51277a",
-   "first_seen": "2026-11-17T15:41:41.964401+00:00"
-  },
   {
    "id": "CF-ea93fe7d-b5c4-4243-a2cf-16e4f6989cdf",
    "source": "Contracts Finder",
@@ -1027,6 +989,25 @@
    "first_seen": "2026-11-19T15:27:46.624341+00:00"
   },
   {
+   "id": "CF-7a0fff75-84ee-4970-a5f2-bf63b5e8549e",
+   "source": "Contracts Finder",
+   "title": "EKFB JV - Supply and Delivery of First Aid Equipment &amp; Consumables",
+   "buyer": "Eiffage Kier JV HS2 Main Civils Works, Lots C2 &amp; C3",
+   "description": "Eiffage Kier Ferrovial BAM (EKFB) JV is seeking Expressions of Interest from interested parties for the supply of and delivery of First Aid equipment and consumables to support the delivery of the C23 project, which forms part of the HS2 Main Works Civils Contracts. The C23 project consists of three delivery areas; North Chilterns to Aylesbury (NC2A), Calvert to Greatworth (C2G), and Greatworth to Southam (G2S).\r\n      \r\n      EKFB JV intends to run a procurement exercise to select a preferred supplier/s of First Aid equipment and consumables, possibly on a framework agreement basis with a cal",
+   "published": "2026-11-19T16:00:06Z",
+   "deadline": "2026-12-04T17:00:00+00:00",
+   "value": 50000,
+   "region": "East Midlands,West Midlands,South East",
+   "cpv": [
+    "33100000 33140000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/7a0fff75-84ee-4970-a5f2-bf63b5e8549e",
+   "first_seen": "2026-11-20T15:05:04.744708+00:00"
+  },
+  {
    "id": "FTS-105516-2026",
    "source": "Find a Tender",
    "title": "Temporary Traffic Management Services",
@@ -1196,6 +1177,45 @@
    "first_seen": "2026-11-17T15:41:41.964401+00:00"
   },
   {
+   "id": "CF-5ec94fa9-00b0-4308-a2aa-c265502526aa",
+   "source": "Contracts Finder",
+   "title": "Unit 6A and 6B Refurbishment - Trinity Market",
+   "buyer": "Hull City Council",
+   "description": "The Client is in the process of procuring a contractor for the refurbishment of one large unit into 2 smaller fully functioning catering units within Trinity Market, Hull, HU1 2JH, in accordance with relevant standards and specifications. This is to include creation of internal partition, builders works, installation of new sink and wash hand basins including hot and cold water and drainage, extension of gas supply and sub metering, alteration to existing electrical sockets, lighting and increasing power to the units to 3 phase.",
+   "published": "2026-11-20T14:06:21Z",
+   "deadline": "2026-12-11T12:00:00+00:00",
+   "value": 700000,
+   "region": "Yorkshire and The Humber",
+   "cpv": [
+    "45000000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/5ec94fa9-00b0-4308-a2aa-c265502526aa",
+   "first_seen": "2026-11-20T15:05:04.744708+00:00"
+  },
+  {
+   "id": "FTS-109942-2026",
+   "source": "Find a Tender",
+   "title": "Flexible Framework for Early Learning and Childcare Services in North Lanarkshire 2027-2031",
+   "buyer": "North Lanarkshire Council",
+   "description": "In accordance with The Public Contracts (Scotland) Regulations 2015, Regulation 74, North Lanarkshire Council intends to establish a Flexible Framework for the provision of funded Early Learning and Childcare (ELC) services. The Framework will enable the Council to supplement its internal ELC provision through external providers and support delivery of the statutory funded ELC entitlement. The proposed Framework will be for 4 years, with options for Tenderers to apply to the Framework in either years 1, 2, 3 or 4.",
+   "published": "2026-11-19T16:25:05Z",
+   "deadline": "2026-12-11T12:00:00+00:00",
+   "value": 66776000.0,
+   "region": null,
+   "cpv": [
+    "80110000",
+    "85312110"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/109942-2026",
+   "first_seen": "2026-11-20T15:05:04.744708+00:00"
+  },
+  {
    "id": "FTS-106971-2026",
    "source": "Find a Tender",
    "title": "Clyde Valley Group - Contract for Roof Repairs and Minor Works",
@@ -1329,6 +1349,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/104189-2026",
    "first_seen": "2026-11-19T15:27:46.624341+00:00"
+  },
+  {
+   "id": "FTS-110085-2026",
+   "source": "Find a Tender",
+   "title": "Independent Children's Advocacy Service",
+   "buyer": "Dumfries and Galloway Council",
+   "description": "Dumfries and Galloway Council (the Purchaser) wishes to commission children's advocacy services that:\n- are independent and professional;\n- provide individual (one-to-one) advocacy that is issue focused; and\n- meet statutory requirements and Scottish Executive priorities.\nThe service will covers such services under the following categories:\n- Advocacy services for children and young people who are or have been looked after and accommodated within or outwith the region (excluding those who are placed locally by another Local Authority) up until the age of 26.\n- Advocacy for children and young p",
+   "published": "2026-11-20T11:42:56Z",
+   "deadline": "2026-12-14T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "85310000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/110085-2026",
+   "first_seen": "2026-11-20T15:05:04.744708+00:00"
   },
   {
    "id": "FTS-107764-2026",
@@ -1713,6 +1752,58 @@
    "first_seen": "2026-11-19T15:27:46.624341+00:00"
   },
   {
+   "id": "FTS-110101-2026",
+   "source": "Find a Tender",
+   "title": "Hard Facilities Management",
+   "buyer": "The Common Services Agency (more commonly known as Public Services Delivery Scotland) (PSD Scotland)",
+   "description": "Hard Facilities Management Services across multiple lots for Public Services Delivery Scotland sites across Scotland.",
+   "published": "2026-11-20T12:00:51Z",
+   "deadline": "2026-12-18T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "31625100",
+    "31625200",
+    "35111500",
+    "39370000",
+    "39715000",
+    "42161000",
+    "44221200",
+    "44221220",
+    "45232430",
+    "45332200",
+    "50700000",
+    "50711000",
+    "50712000",
+    "71421000",
+    "90922000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/110101-2026",
+   "first_seen": "2026-11-20T15:05:04.744708+00:00"
+  },
+  {
+   "id": "FTS-109975-2026",
+   "source": "Find a Tender",
+   "title": "Ionad Eilean nan \u00d2ige - Phase 3",
+   "buyer": "Comann Eachdraidh Eirisgeidh",
+   "description": "This document contains the Stage 1 Tender for the Community Hub project Ionad Eilean\nNa \u00d2ige.\n1.2 Tender design information is currently being prepared by the appointed design team and is\nexpected to be completed by early 2027. Comann Eachdraidh Eirisgeidh are looking to\nappoint a suitably qualified and experienced contractor on a first stage tender who will\nthen work with the team to finalise the price, scope of works and programme before being\nappointed to carry out the works.\n1.3 The first stage will comprise finalising design, programme, cost and contract conditions.\nThe appointed contract",
+   "published": "2026-11-19T16:56:54Z",
+   "deadline": "2026-12-21T12:00:00+00:00",
+   "value": 3000000,
+   "region": null,
+   "cpv": [
+    "45000000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/109975-2026",
+   "first_seen": "2026-11-20T15:05:04.744708+00:00"
+  },
+  {
    "id": "FTS-104096-2026",
    "source": "Find a Tender",
    "title": "Treatment & Disposal of Residual Waste, Bulky Waste, Commercial & Demolition Waste & Street Cleansing Waste\u200b",
@@ -1854,6 +1945,44 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/109409-2026",
    "first_seen": "2026-11-19T15:27:46.624341+00:00"
+  },
+  {
+   "id": "FTS-110082-2026",
+   "source": "Find a Tender",
+   "title": "PKC14238  Central Heating Upgrade Phase 6",
+   "buyer": "Perth & Kinross Council",
+   "description": "Perth & Kinross Council (\u2018the Council\u2019) is seeking to appoint suitably qualified and experienced contractors to carry out central heating life cycle replacement works on PKC\u2019s domestic tenanted properties.\nThe works comprise of the like-for-like replacement of gas boilers and radiators, full gas boiler systems inclusive of radiators and pipework; replacement of electric storage and panel heating systems, as well as the replacement of existing storage heating, electric wet boilers, and solid fuel heating with Air Source Heat Pumps. This list is not exhaustive. The full scope of works will be se",
+   "published": "2026-11-20T11:40:42Z",
+   "deadline": "2027-01-07T12:00:00+00:00",
+   "value": 4700000,
+   "region": null,
+   "cpv": [
+    "45331100"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/110082-2026",
+   "first_seen": "2026-11-20T15:05:04.744708+00:00"
+  },
+  {
+   "id": "FTS-109938-2026",
+   "source": "Find a Tender",
+   "title": "PKC14238  Central Heating Upgrade Phase 6",
+   "buyer": "Perth & Kinross Council",
+   "description": "Perth & Kinross Council (\u2018the Council\u2019) is seeking to appoint suitably qualified and experienced contractors to carry out central heating life cycle replacement works on PKC\u2019s domestic tenanted properties.\nThe works comprise of the like-for-like replacement of gas boilers and radiators, full gas boiler systems inclusive of radiators and pipework; replacement of electric storage and panel heating systems, as well as the replacement of existing storage heating, electric wet boilers, and solid fuel heating with Air Source Heat Pumps. This list is not exhaustive. The full scope of works will be se",
+   "published": "2026-11-19T16:23:11Z",
+   "deadline": "2027-01-07T12:00:00+00:00",
+   "value": 4700000,
+   "region": null,
+   "cpv": [
+    "45331100"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/109938-2026",
+   "first_seen": "2026-11-20T15:05:04.744708+00:00"
   },
   {
    "id": "FTS-109733-2026",
