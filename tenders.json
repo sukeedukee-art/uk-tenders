@@ -1,83 +1,6 @@
 {
- "generated": "2026-11-22T14:18:35.886337+00:00",
+ "generated": "2026-11-23T17:41:54.758635+00:00",
  "tenders": [
-  {
-   "id": "FTS-106268-2026",
-   "source": "Find a Tender",
-   "title": "CP-401 - Aster Group External Decorations",
-   "buyer": "ASTER GROUP LIMITED",
-   "description": "Aster Group is a housing association which provides quality, affordable homes to thousands of people across the south of England and London. Its vision is that everyone has a home. See our website for more details www.aster.co.uk/corporate/about-us\nThe not-for-dividend business was established in 1990 and has \u00a32.5 billion worth of social housing assets. The Group reinvests profits from open market sale and shared ownership to support the development of affordable homes. It owns and maintains over 37,000 homes and employs over 2,000 people.\nCentral and Cecil Housing Trust (C&C), East Boro Housi",
-   "published": "2026-11-09T14:05:13Z",
-   "deadline": "2026-11-23T00:00:00+00:00",
-   "value": 31500000,
-   "region": null,
-   "cpv": [
-    "45443000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/106268-2026",
-   "first_seen": "2026-11-19T15:27:46.624341+00:00"
-  },
-  {
-   "id": "FTS-100985-2026",
-   "source": "Find a Tender",
-   "title": "Conservation & Repair Works to Mid 20th Century Gantry Conveyor Structure",
-   "buyer": "NATIONAL COAL MINING MUSEUM FOR ENGLAND",
-   "description": "The National Coal Mining Museum for England are looking to appoint an appropriately experienced contractor to carry out repair and conservation works to a steel Gantry Conveyor, measuring approximately 100 metres in length, built circa 1970. \nThe works are part of a programme of works supported by the Public Bodies Infrastructure Fund",
-   "published": "2026-10-26T12:42:28Z",
-   "deadline": "2026-11-23T12:00:00+00:00",
-   "value": 250000,
-   "region": null,
-   "cpv": [
-    "45254100"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/100985-2026",
-   "first_seen": "2026-11-19T15:27:46.624341+00:00"
-  },
-  {
-   "id": "FTS-099191-2026",
-   "source": "Find a Tender",
-   "title": "EDC/2026/4397 Lift Refurbishment Milngavie Enterprise Centre",
-   "buyer": "East Dunbartonshire Council",
-   "description": "The Authority wishes to establish a contract for the provision of a Lift Refurbishment at Milngavie Enterprise Centre (MEC). The contract is for the supply, delivery, erection, connection, testing and servicing of all materials and equipment required to provide a fully refurbished lift meeting and certified to current standards, all in accordance with the terms and conditions of the Tender Preliminaries, Specifications and Schedules.",
-   "published": "2026-10-20T16:52:49+01:00",
-   "deadline": "2026-11-23T12:00:00+00:00",
-   "value": null,
-   "region": null,
-   "cpv": [
-    "42416130",
-    "45313100"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/099191-2026",
-   "first_seen": "2026-11-19T15:27:46.624341+00:00"
-  },
-  {
-   "id": "FTS-100303-2026",
-   "source": "Find a Tender",
-   "title": "Royal Hospital for Children Money and Debt Advice Service",
-   "buyer": "NHS Greater Glasgow and Clyde",
-   "description": "The service will operate from the RHC and target families whose child is in hospital or who are regularly attending outpatients at the RHC or are unable to access community services due to their child\u2019s diagnosis/condition/caring responsibilities or inpatient stay, and as such deliver to families within NHSGGC and throughout Scotland. It will aim to support families experiencing financial issues to maximise income, reduce household expenditure and debt alleviate money worries.",
-   "published": "2026-10-23T10:36:18+01:00",
-   "deadline": "2026-11-23T13:00:00+00:00",
-   "value": 250000,
-   "region": null,
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/100303-2026",
-   "first_seen": "2026-11-19T15:27:46.624341+00:00"
-  },
   {
    "id": "FTS-100624-2026",
    "source": "Find a Tender",
@@ -399,25 +322,6 @@
    "first_seen": "2026-11-17T15:41:41.964401+00:00"
   },
   {
-   "id": "CF-89bcf7bf-dfd1-4303-bb10-a9430eb80d55",
-   "source": "Contracts Finder",
-   "title": "M6 Lune Gorge - Brickwork &amp; Blockwork",
-   "buyer": "KIER TRANSPORTATION LIMITED",
-   "description": "Kier Transportation require a subcontractor to undertake the replacement of the Brick, Blockwork &amp; Cladding required on the underside of a motorway bridge (Highgill).\r\n\r\nWe will use the Build UK Common Assessment Criteria (CAS) to ensure a consistent minimum business competence. If your company possesses necessary qualifications and is interested in bidding for this project, please email Infrastructure.procurement@kier.co.uk with your company&#039;s portfolio, relevant experience, and references for further evaluation.",
-   "published": "2026-11-16T10:15:39Z",
-   "deadline": "2026-11-27T17:00:00+00:00",
-   "value": 50000,
-   "region": "",
-   "cpv": [
-    "45262500"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/89bcf7bf-dfd1-4303-bb10-a9430eb80d55",
-   "first_seen": "2026-11-17T15:41:41.964401+00:00"
-  },
-  {
    "id": "CF-7f9a030d-c41d-4f56-8806-67c681600b21",
    "source": "Contracts Finder",
    "title": "CA18585 -  ITT Repair and replacement works to whole site drainage system",
@@ -437,22 +341,22 @@
    "first_seen": "2026-11-17T15:41:41.964401+00:00"
   },
   {
-   "id": "CF-f075e29c-9077-44f9-82a0-364f1c9faf35",
+   "id": "CF-89bcf7bf-dfd1-4303-bb10-a9430eb80d55",
    "source": "Contracts Finder",
-   "title": "Structural Engineer",
-   "buyer": "Thetford Town Council",
-   "description": "Thetford Town Council wishes to appoint a Structural Engineer with demonstrable experience in historic buildings, conservation projects and traditional construction.\r\n\r\nThe successful consultant will assess the structural condition of the building, develop repair recommendations, contribute to design development and support the wider consultant team in delivering a viable and fundable project.\r\n\r\nThe Structural Engineer will provide technical support throughout the Development Phase and assist in the preparation of documentation required for planning, listed building consent, cost planning and",
-   "published": "2026-11-06T09:20:40Z",
-   "deadline": "2026-11-30T12:00:00+00:00",
-   "value": 15000,
+   "title": "M6 Lune Gorge - Brickwork &amp; Blockwork",
+   "buyer": "KIER TRANSPORTATION LIMITED",
+   "description": "Kier Transportation require a subcontractor to undertake the replacement of the Brick, Blockwork &amp; Cladding required on the underside of a motorway bridge (Highgill).\r\n\r\nWe will use the Build UK Common Assessment Criteria (CAS) to ensure a consistent minimum business competence. If your company possesses necessary qualifications and is interested in bidding for this project, please email Infrastructure.procurement@kier.co.uk with your company&#039;s portfolio, relevant experience, and references for further evaluation.",
+   "published": "2026-11-16T10:15:39Z",
+   "deadline": "2026-11-27T17:00:00+00:00",
+   "value": 50000,
    "region": "",
    "cpv": [
-    "71312000"
+    "45262500"
    ],
    "categories": [
     "Construction"
    ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/f075e29c-9077-44f9-82a0-364f1c9faf35",
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/89bcf7bf-dfd1-4303-bb10-a9430eb80d55",
    "first_seen": "2026-11-17T15:41:41.964401+00:00"
   },
   {
@@ -472,6 +376,25 @@
     "Construction"
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/3396ec81-113a-4cfd-9282-2cabdcd653c7",
+   "first_seen": "2026-11-17T15:41:41.964401+00:00"
+  },
+  {
+   "id": "CF-f075e29c-9077-44f9-82a0-364f1c9faf35",
+   "source": "Contracts Finder",
+   "title": "Structural Engineer",
+   "buyer": "Thetford Town Council",
+   "description": "Thetford Town Council wishes to appoint a Structural Engineer with demonstrable experience in historic buildings, conservation projects and traditional construction.\r\n\r\nThe successful consultant will assess the structural condition of the building, develop repair recommendations, contribute to design development and support the wider consultant team in delivering a viable and fundable project.\r\n\r\nThe Structural Engineer will provide technical support throughout the Development Phase and assist in the preparation of documentation required for planning, listed building consent, cost planning and",
+   "published": "2026-11-06T09:20:40Z",
+   "deadline": "2026-11-30T12:00:00+00:00",
+   "value": 15000,
+   "region": "",
+   "cpv": [
+    "71312000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/f075e29c-9077-44f9-82a0-364f1c9faf35",
    "first_seen": "2026-11-17T15:41:41.964401+00:00"
   },
   {
@@ -614,6 +537,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/098841-2026",
    "first_seen": "2026-11-19T15:27:46.624341+00:00"
+  },
+  {
+   "id": "CF-88f84b72-7275-44df-9998-78303150bf40",
+   "source": "Contracts Finder",
+   "title": "Conversion &amp; Commercial Fit-Out of 90 Hermon Hill E18 to 105-Place Nursery - HW/4699",
+   "buyer": "Happywoods Nursery",
+   "description": "Happywoods Nursery is seeking an experienced commercial main contractor to undertake the full internal conversion, refurbishment, and fit-out of 90 Hermon Hill, South Woodford, London, E18 1QB, converting a vacant former care home into a 105-place children&#039;s day nursery with top-floor administrative offices.\r\n      Scope &amp; Design Specification Summary (per Dovetail Architects Design Brief Rev 0 &amp; Drawings PL-100 to PL-122):\r\n      - Classrooms (Babies, Toddlers &amp; 3-5 Years): Forbo welded non-slip vinyl with matching cap &amp; cove; 3mm plaster skim with Dulux Matt Emulsion; Ro",
+   "published": "2026-11-23T11:30:04Z",
+   "deadline": "2026-12-01T17:00:00+00:00",
+   "value": 500000,
+   "region": "Any region",
+   "cpv": [
+    "45211350 45214000 45214100 45210000 45453100 45213100 45000000 45453000 45214200"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/88f84b72-7275-44df-9998-78303150bf40",
+   "first_seen": "2026-11-23T17:41:54.758635+00:00"
   },
   {
    "id": "CF-df047a6c-d2d3-42d3-b8c8-2754c81c17fe",
@@ -987,6 +929,25 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/7a0fff75-84ee-4970-a5f2-bf63b5e8549e",
    "first_seen": "2026-11-20T15:05:04.744708+00:00"
+  },
+  {
+   "id": "CF-0211da5c-4889-4c4f-98f6-00dc7cc1b7c8",
+   "source": "Contracts Finder",
+   "title": "Manchester International Airport Phase 2 - Platform Civils",
+   "buyer": "Kier Transportation - CP7 NWC",
+   "description": "&quot;The planned introduction of longer train services to the Airport in response to future demand growth will mean that double stacking arrangements of trains as currently used will no longer be viable. Through the project&#039;s Delivery Steering Group, Northern and TransPennine Express have carried out analysis which has identified that additional platform capacity is needed at the airport in order to realise the full benefit of longer train services serving the airport.\r\n      \r\n      The scheme is part of a package of proposed measures in the Manchester area that are being designed/plann",
+   "published": "2026-11-23T11:10:02Z",
+   "deadline": "2026-12-04T17:00:00+00:00",
+   "value": 2500000,
+   "region": "North West,Any region",
+   "cpv": [
+    "45232452 45234116 45340000 45200000 45432112 44115100 45233250 45262210 45111240 34946000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/0211da5c-4889-4c4f-98f6-00dc7cc1b7c8",
+   "first_seen": "2026-11-23T17:41:54.758635+00:00"
   },
   {
    "id": "FTS-105516-2026",
@@ -1985,6 +1946,27 @@
    "first_seen": "2026-11-19T15:27:46.624341+00:00"
   },
   {
+   "id": "FTS-110637-2026",
+   "source": "Find a Tender",
+   "title": "Provision of Homelessness Services in South Lanarkshire",
+   "buyer": "South Lanarkshire Council",
+   "description": "South Lanarkshire Council require a Provider to provide a range of homelessness services across South Lanarkshire.  This includes provision of:\n- Homelessness First Stop Emergency Access Temporary Accommodation\n- Homelessness Supported Temporary Accommodation\n- Outreach Housing Support\n- Out of Hours Homelessness Service\nThe aim of this service is to help meet South Lanarkshire Council\u2019s statutory obligations in relation to temporary accommodation for households who present as homeless and require emergency access and supported accommodation as well as to provide outreach housing support and a",
+   "published": "2026-11-23T14:45:58Z",
+   "deadline": "2027-01-11T12:00:00+00:00",
+   "value": 23195836.12,
+   "region": null,
+   "cpv": [
+    "85000000",
+    "98000000"
+   ],
+   "categories": [
+    "Supported Living",
+    "Supported Accommodation"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/110637-2026",
+   "first_seen": "2026-11-23T17:41:54.758635+00:00"
+  },
+  {
    "id": "FTS-105515-2026",
    "source": "Find a Tender",
    "title": "Provision of Roofing Services",
@@ -2041,6 +2023,26 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/a829a229-a914-4604-b22e-a1b0c98be1c7",
    "first_seen": "2026-11-17T15:41:41.964401+00:00"
+  },
+  {
+   "id": "FTS-110821-2026",
+   "source": "Find a Tender",
+   "title": "North Northamptonshire Council - Nightly Purchased, Supplier Managed Temporary Accommodation Dynamic Purchasing System (DPS)",
+   "buyer": "North Northamptonshire Council",
+   "description": "North Northamptonshire Council (NNC) is reopening their Dynamic Purchasing System (DPS) for the supply of services in respect of Nightly Purchased, Supplier Managed Temporary Accommodation. The successful Potential Provider(s) will be responsible for providing this service and liaising closely with the Contract Manager identified by The Council.",
+   "published": "2026-11-23T17:34:47Z",
+   "deadline": "2027-01-22T12:00:00+00:00",
+   "value": 27499765.76,
+   "region": null,
+   "cpv": [
+    "85000000"
+   ],
+   "categories": [
+    "Supported Living",
+    "Supported Accommodation"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/110821-2026",
+   "first_seen": "2026-11-23T17:41:54.758635+00:00"
   },
   {
    "id": "FTS-110327-2026",
