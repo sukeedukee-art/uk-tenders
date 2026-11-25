@@ -1,115 +1,6 @@
 {
- "generated": "2026-11-24T17:13:33.571686+00:00",
+ "generated": "2026-11-25T16:57:36.224791+00:00",
  "tenders": [
-  {
-   "id": "FTS-101852-2026",
-   "source": "Find a Tender",
-   "title": "Mobility Installation, Repairs and Maintenance",
-   "buyer": "London Borough of Southwark",
-   "description": "The Council intends to appoint separate Contractors for two (2) Call-off Contracts (Contracts A (north of the borough), B (south of the borough for an initial contract term of three (3) years starting in December 2026 The Contract Works will cover any or all the following range of work streams required for the Council\u2019s housing stock: Installation of mobility units Responsive repairs to mobility units Minor refurbishment of mobility units PPM of mobility units Maintaining the Assets Register",
-   "published": "2026-10-28T09:21:07Z",
-   "deadline": "2026-11-25T00:00:00+00:00",
-   "value": 1180000,
-   "region": null,
-   "cpv": [
-    "45000000",
-    "45300000",
-    "45310000",
-    "45313000",
-    "45313100",
-    "45313200",
-    "45313210",
-    "45400000",
-    "45420000",
-    "45421000",
-    "45421100",
-    "45421110",
-    "45421111",
-    "45421112",
-    "45421120",
-    "45421130",
-    "45421131",
-    "45421132",
-    "45421140",
-    "45421141",
-    "45421142",
-    "45421143",
-    "45421144",
-    "45421145",
-    "45421146",
-    "45421147",
-    "45421148",
-    "45421150",
-    "45421151",
-    "45421152",
-    "45421153",
-    "45421160",
-    "45422000",
-    "45422100"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/101852-2026",
-   "first_seen": "2026-11-19T15:27:46.624341+00:00"
-  },
-  {
-   "id": "CF-3399bda9-003c-4af1-8930-1a6964b58e46",
-   "source": "Contracts Finder",
-   "title": "CA18619 - Portesbery School - Supply and Installation of Air Conditioning Units",
-   "buyer": "Portesbery School",
-   "description": "\r\nPortesbery School requires one supplier to fulfil the supply and installation of air conditioning units to approximately 20 classrooms plus a small meeting room on the current site, plus three classrooms plus a communal life skills space in the new Post-16 building.\r\n\r\nThe school&#039;s preferred outcome is for all installations to be completed as soon as possible and ideally no later than the end of the Easter 2027 holiday period.\r\n\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18619.\r\n\r\nNot registered:\r\nVisit https://su",
-   "published": "2026-10-30T09:42:06Z",
-   "deadline": "2026-11-25T10:00:00+00:00",
-   "value": 100000,
-   "region": "Any region",
-   "cpv": [
-    "45331220"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/3399bda9-003c-4af1-8930-1a6964b58e46",
-   "first_seen": "2026-11-17T15:41:41.964401+00:00"
-  },
-  {
-   "id": "CF-d9bf6ae5-6993-47e2-be93-16e88752a6b3",
-   "source": "Contracts Finder",
-   "title": "CA18632 - R9386 - SHGH - FERGUSON WC",
-   "buyer": "Epsom &amp; St Helier University Hospitals NHS Trust",
-   "description": "The proposed works comprise the complete refurbishment of two existing WC facilities, including removal of existing sanitaryware, cubicles, wall and floor finishes, and associated fittings. The contractor shall undertake all necessary design development, supply and installation of new sanitaryware, IPS duct panelling, cubicles, vanity units, hygienic wall cladding, safety flooring, fire-rated doors and associated mechanical, plumbing and electrical modifications. Works shall include modifications to hot and cold water services, drainage, isolation arrangements, commissioning, testing and certi",
-   "published": "2026-11-03T10:57:10Z",
-   "deadline": "2026-11-25T12:00:00+00:00",
-   "value": 150000,
-   "region": "Any region",
-   "cpv": [
-    "45000000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/d9bf6ae5-6993-47e2-be93-16e88752a6b3",
-   "first_seen": "2026-11-17T15:41:41.964401+00:00"
-  },
-  {
-   "id": "CF-0a92843d-9da8-4c16-b682-33b5d72727db",
-   "source": "Contracts Finder",
-   "title": "SZC CWA - Pool Bunker Construction",
-   "buyer": "Sizewell C Limited",
-   "description": "The contract will deliver a commissioned, weathertight and operational Pool Bunker above the base slab. The facility will support assembly, welding and inspection activities before modules are transferred to the Nuclear Island.\r\n      \r\n      The scope of works includes:\r\n      \u2022\tPrimary steel frame and crane runway beams. \r\n      \u2022\tRainscreen cladding and industrial doors, with precast cladding retained as the alternative envelope. \r\n      \u2022\tFive-section retractable roof. \r\n      \u2022\tSecondary steelwork platforms, working levels and access arrangements. \r\n      \u2022\tMechanical, electrical and publ",
-   "published": "2026-11-19T10:30:02Z",
-   "deadline": "2026-11-25T14:30:00+00:00",
-   "value": 20000000,
-   "region": "Any region",
-   "cpv": [
-    "45210000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/0a92843d-9da8-4c16-b682-33b5d72727db",
-   "first_seen": "2026-11-19T15:27:46.624341+00:00"
-  },
   {
    "id": "CF-d4b7e713-1cb2-4f2d-9705-652313d96c3d",
    "source": "Contracts Finder",
@@ -3742,6 +3633,25 @@
    "first_seen": "2026-11-17T15:41:41.964401+00:00"
   },
   {
+   "id": "CF-2c749ea5-7268-4dee-9044-0022248974df",
+   "source": "Contracts Finder",
+   "title": "YPO - 001087 Low Energy Lighting Systems to Include Internal, External and Emergency Lighting",
+   "buyer": "YPO",
+   "description": "YPO are looking for Suppliers to be appointed onto a Dynamic Purchasing System (DPS) for the provision of Low Energy Lighting Systems to include Internal, External and Emergency Lighting. The DPS is designed to meet the needs of all public sector organisations which includes YPO&#039;s internal requirements and any of YPO&#039;s wholly owned associated or subsidiary companies.  Please note that deadline for submissions for the initial establishment/first round of the DPS is 27 October 2021 at 14:00pm. Following the initial establishment, the DPS will remain open for any Suppliers to submit a b",
+   "published": "2021-09-17T08:15:40+01:00",
+   "deadline": "2029-02-23T23:55:00+00:00",
+   "value": 10000000,
+   "region": "North East,North West,Yorkshire and The Humber,East Midlands,West Midlands,East of England,London,South East,South West,Scotland,Wales,Northern Ireland",
+   "cpv": [
+    "45310000 31518200 31527260"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/2c749ea5-7268-4dee-9044-0022248974df",
+   "first_seen": "2026-11-25T16:57:36.224791+00:00"
+  },
+  {
    "id": "CF-e5f5d77f-b55c-4364-92b2-d743b3ac3e09",
    "source": "Contracts Finder",
    "title": "Dynamic Purchasing System for Construction Contractors and Subcontractors and Ancillary Services",
@@ -5681,63 +5591,6 @@
     "Construction"
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/78d68809-e8ab-461e-8f3b-4cfdc6951f76",
-   "first_seen": "2026-11-17T15:41:41.964401+00:00"
-  },
-  {
-   "id": "CF-c8ac3f07-00f4-4601-991e-78cc7d452f59",
-   "source": "Contracts Finder",
-   "title": "FDIS - Helensburgh Rhu Fencing - FY2026/27 - Amey North Region - Scotland",
-   "buyer": "AMEY DEFENCE SERVICES LIMITED",
-   "description": "North Region - Scotland\r\n\r\nBrief Scope of Works\r\n\r\nReplace/install up to 2000m fencing as follows:\r\n\r\nRemove old fencing, clear vegetation and bushes to install 6 foot fence\r\n- Concrete posts with gravel boards\r\n- 5 foot timber slats and rails to be inserted\r\n\r\nAmey have been tasked by the DIO through the FDIS to deliver the Regional Accommodation Maintenance Service for the Central and North Regions.\r\n\r\nThis notice is a call for competition and there may not be a further notice related to this opportunity.\r\n\r\nFor Amey to accept any EoI it is ESSENTIAL that any subcontractor is:\r\n\u2022\twilling to ",
-   "published": "2026-11-10T14:43:23Z",
-   "deadline": null,
-   "value": 348000,
-   "region": "Scotland",
-   "cpv": [
-    "45340000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/c8ac3f07-00f4-4601-991e-78cc7d452f59",
-   "first_seen": "2026-11-17T15:41:41.964401+00:00"
-  },
-  {
-   "id": "CF-a8ac3151-16f0-49c6-abaa-7fc3565f42e0",
-   "source": "Contracts Finder",
-   "title": "FDIS - Glasgow Fencing - FY2026/27 - Amey North Region - Scotland",
-   "buyer": "AMEY DEFENCE SERVICES LIMITED",
-   "description": "North Region - Scotland\r\n\r\nReplace/install up to 2000m fencing consisting of 6ft concrete posts with weatherboard panels and timber gravel boards:\r\n\r\nRemove old fencing, clear vegetation and bushes to install 6 foot fence\r\n- Concrete posts with gravel boards\r\n- 5 foot timber slats and rails to be inserted\r\n\r\nAmey have been tasked by the DIO through the FDIS to deliver the Regional Accommodation Maintenance Service for the Central and North Regions.\r\n\r\nThis notice is a call for competition and there may not be a further notice related to this opportunity.\r\n\r\nFor Amey to accept any EoI it is ESS",
-   "published": "2026-11-10T14:19:06Z",
-   "deadline": null,
-   "value": 348000,
-   "region": "Scotland",
-   "cpv": [
-    "45340000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/a8ac3151-16f0-49c6-abaa-7fc3565f42e0",
-   "first_seen": "2026-11-17T15:41:41.964401+00:00"
-  },
-  {
-   "id": "CF-c50905b0-3add-4b79-a18d-f815dc4a4153",
-   "source": "Contracts Finder",
-   "title": "FDIS - Catterick Fencing - FY2026/27 - Amey North Region - Northern England",
-   "buyer": "AMEY DEFENCE SERVICES LIMITED",
-   "description": "North Region - North England\r\n\r\nReplace/install up to 2000m fencing consisting of 6ft concrete posts with weatherboard panels and timber gravel boards:\r\n\r\nRemove old fencing, clear vegetation and bushes to install 6 foot fence\r\n- Concrete posts with gravel boards\r\n- 5 foot timber slats and rails to be inserted\r\n\r\nAmey have been tasked by the DIO through the FDIS to deliver the Regional Accommodation Maintenance Service for the Central and North Regions.\r\n\r\nThis notice is a call for competition and there may not be a further notice related to this opportunity.\r\n\r\nFor Amey to accept any EoI it i",
-   "published": "2026-11-10T13:53:28Z",
-   "deadline": null,
-   "value": 348000,
-   "region": "Yorkshire and The Humber",
-   "cpv": [
-    "45340000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/c50905b0-3add-4b79-a18d-f815dc4a4153",
    "first_seen": "2026-11-17T15:41:41.964401+00:00"
   },
   {
