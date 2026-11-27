@@ -1,112 +1,6 @@
 {
- "generated": "2026-11-26T16:37:15.533094+00:00",
+ "generated": "2026-11-27T16:22:31.624865+00:00",
  "tenders": [
-  {
-   "id": "FTS-103016-2026",
-   "source": "Find a Tender",
-   "title": "Great Hall Bridge Alexandra Palace",
-   "buyer": "London Borough of Haringey",
-   "description": "The project is to regenerate the use of the Great Hall Bridge through improving waterproofing and ensuring compliance with Building Regulations. Through these interventions, the project will allow for members of the public to use the bridge both as access to the Great Hall, which hosts some of the most significant events for the Palace, and as a means of escape therefore safety is paramount. The proposed works are to be carefully integrated within the existing structure and building services infrastructure, ensuring compliance with current Building Regulations and statutory requirements while ",
-   "published": "2026-10-30T10:10:50Z",
-   "deadline": "2026-11-27T00:00:00+00:00",
-   "value": 850000,
-   "region": null,
-   "cpv": [
-    "45000000",
-    "45200000",
-    "45210000",
-    "45212000",
-    "45212300",
-    "45212350",
-    "45212351",
-    "45212352",
-    "45212353",
-    "45212354",
-    "45217000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/103016-2026",
-   "first_seen": "2026-11-19T15:27:46.624341+00:00"
-  },
-  {
-   "id": "CF-34d0d00e-0595-4d77-afa1-6cd19ea792e1",
-   "source": "Contracts Finder",
-   "title": "Scaffolding in relation to Demolition works package - HS2 Euston Station",
-   "buyer": "Mace Dragados",
-   "description": "The subcontract works comprise of the design, procurement, and management of the scaffold installation to support the demolition of the Podium and planters to Ground Level, including all interfacing elements, materials, resources and associated plant and equipment. Please find attached document with high level overview, including satellite imagery. \r\n      \r\n      These works must be co-ordinated with the temporary works of the Demolition Contractor and that of the RDG Engineering (who are a specialist temporary works designer, who under an ECI, are developing the temporary works solution to k",
-   "published": "2026-11-19T10:30:09Z",
-   "deadline": "2026-11-27T12:00:00+00:00",
-   "value": 5000000,
-   "region": "Any region",
-   "cpv": [
-    "44212310"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/34d0d00e-0595-4d77-afa1-6cd19ea792e1",
-   "first_seen": "2026-11-19T15:27:46.624341+00:00"
-  },
-  {
-   "id": "FTS-103203-2026",
-   "source": "Find a Tender",
-   "title": "Northamptonshire Children's Trust: Provision of Independent Fostering Arrangements and Children's Homes for Children and Young People in our Care DPS (Reopening)",
-   "buyer": "Northamptonshire Children's Trust",
-   "description": "Northamptonshire Children's Trust (hereafter referred to as the \"Children's Trust\") is re-opening their Dynamic Purchasing System (DPS) for the supply of services in respect of this requirement.\nThis specification covers providing Homes for Children and Young People in Our Care, Independent Fostering Arrangements and Children's Homes.\nThe primary role of Independent Fostering Arrangements and Children's Homes is to provide homes to ensure children in our care have a place that is safe and suitable for their individual needs, where they are supported by people who care for them and about them t",
-   "published": "2026-10-30T13:04:44Z",
-   "deadline": "2026-11-27T12:00:00+00:00",
-   "value": 252000000,
-   "region": null,
-   "cpv": [
-    "85000000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/103203-2026",
-   "first_seen": "2026-11-19T15:27:46.624341+00:00"
-  },
-  {
-   "id": "FTS-099692-2026",
-   "source": "Find a Tender",
-   "title": "Unpaid Carer Support Service",
-   "buyer": "Midlothian Council",
-   "description": "Midlothian Council seeks a single Provider to be the main service delivering a range of community based unpaid carer support services to relevant carers in Midlothian. The services will support carers in a range of carer roles and circumstances, including carers who are currently underserved within services. The service contract is focussed on delivery of Midlothian Integration Joint Board (IJB) Unpaid Carer Strategy (2025-28), and the Provider will support development and delivery of future strategies in place during the duration of the contract. The Provider is expected to work collaborative",
-   "published": "2026-10-21T16:57:52+01:00",
-   "deadline": "2026-11-27T12:00:00+00:00",
-   "value": 3720798.75,
-   "region": null,
-   "cpv": [
-    "85000000",
-    "85300000"
-   ],
-   "categories": [
-    "Supported Living"
-   ],
-   "url": "https://www.find-tender.service.gov.uk/Notice/099692-2026",
-   "first_seen": "2026-11-19T15:27:46.624341+00:00"
-  },
-  {
-   "id": "CF-b6442fed-62cb-4ca9-8081-552bc2c6a85b",
-   "source": "Contracts Finder",
-   "title": "Railway Street Footbridge (20/79/49) Geotechnical Investigations",
-   "buyer": "North East Lincolnshire Borough Council",
-   "description": "North East Lincolnshire Council is seeking a suitably qualified consultant to carry out surveys, testing, geotechnical investigations and reports for Railway Street Footbridge.   The overall goal is to have all information needed for refurbishment design (including foundation details) and to inform a future temporary works design as required by Network Rail for lifting works etc adjacent to their tracks.\r\nPlease note this is a retender.",
-   "published": "2026-11-04T14:04:56Z",
-   "deadline": "2026-11-27T13:00:00+00:00",
-   "value": 90000,
-   "region": "Yorkshire and The Humber",
-   "cpv": [
-    "71000000"
-   ],
-   "categories": [
-    "Construction"
-   ],
-   "url": "https://www.contractsfinder.service.gov.uk/Notice/b6442fed-62cb-4ca9-8081-552bc2c6a85b",
-   "first_seen": "2026-11-17T15:41:41.964401+00:00"
-  },
   {
    "id": "CF-7f9a030d-c41d-4f56-8806-67c681600b21",
    "source": "Contracts Finder",
@@ -323,6 +217,25 @@
    ],
    "url": "https://www.find-tender.service.gov.uk/Notice/098841-2026",
    "first_seen": "2026-11-19T15:27:46.624341+00:00"
+  },
+  {
+   "id": "CF-a0446fd3-bed7-47b8-b82a-f97b083e6bcd",
+   "source": "Contracts Finder",
+   "title": "Conversion &amp; Commercial Fit-Out of 90 Hermon Hill E18 to 105-Place Nursery - HW/4699",
+   "buyer": "Happywoods Nursery",
+   "description": "Happywoods Nursery is seeking an experienced commercial main contractor to undertake the full internal conversion, refurbishment, and fit-out of 90 Hermon Hill, South Woodford, London, E18 1QB, converting a vacant former care home into a 105-place children&#039;s day nursery with top-floor administrative offices.\r\n      Scope &amp; Design Specification Summary (per Dovetail Architects Design Brief Rev 0 &amp; Drawings PL-100 to PL-122):\r\n      - Classrooms (Babies, Toddlers &amp; 3-5 Years): Forbo welded non-slip vinyl with matching cap &amp; cove; 3mm plaster skim with Dulux Matt Emulsion; Ro",
+   "published": "2026-11-27T11:20:38Z",
+   "deadline": "2026-12-01T17:00:00+00:00",
+   "value": 500000,
+   "region": "Any region",
+   "cpv": [
+    "45211350 45214000 45214100 45210000 45453100 45213100 45000000 45453000 45214200"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/a0446fd3-bed7-47b8-b82a-f97b083e6bcd",
+   "first_seen": "2026-11-27T16:22:31.624865+00:00"
   },
   {
    "id": "CF-88f84b72-7275-44df-9998-78303150bf40",
@@ -736,6 +649,25 @@
    "first_seen": "2026-11-23T17:41:54.758635+00:00"
   },
   {
+   "id": "CF-a85cfac7-7627-45e6-86b3-f648309f3e31",
+   "source": "Contracts Finder",
+   "title": "A66 Northern Trans Pennine Project(NTP) Schemes1&amp;2 - Temporary Traffic Signals Junction 40",
+   "buyer": "KIER TRANSPORTATION LIMITED",
+   "description": "Kier Infrastructure intends to engage an experienced and qualified  contractors for the Temporary Traffic Signals at Junction 40 Scheme 1&amp;2 of the A66 Northern Trans-Pennine Scheme. \r\n\r\nThe A66 upgrade will see single-lane sections of the 80km stretch between the M6 and the A1 made into dual carriageway, while key junctions will be improved. The A66 project is to be delivered in collaboration by three Tier 1 contractors, Balfour Beatty, Kier and Keltbray. The A66 project is to be delivered in collaboration by three Tier 1 contractors, Balfour Beatty, Kier and Keltbray.\r\n\r\nWe will use the B",
+   "published": "2026-11-27T10:10:44Z",
+   "deadline": "2026-12-04T17:00:00+00:00",
+   "value": 600000,
+   "region": "North West",
+   "cpv": [
+    "45316210 45316212"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/a85cfac7-7627-45e6-86b3-f648309f3e31",
+   "first_seen": "2026-11-27T16:22:31.624865+00:00"
+  },
+  {
    "id": "FTS-105516-2026",
    "source": "Find a Tender",
    "title": "Temporary Traffic Management Services",
@@ -922,6 +854,25 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/5ec94fa9-00b0-4308-a2aa-c265502526aa",
    "first_seen": "2026-11-20T15:05:04.744708+00:00"
+  },
+  {
+   "id": "CF-6c832546-c5cf-4069-b13e-d3a8c72ec6c6",
+   "source": "Contracts Finder",
+   "title": "CA18723 - Multidisciplinary Architectural and Design Team Services",
+   "buyer": "BMet College",
+   "description": "Birmingham Metropolitan College has selected and invited several suitably qualified architectural and multidisciplinary design practices to participate in this competitive tender process. Only organisations directly invited by the College may submit a tender for the provision of professional design services in connection with two internal refurbishment projects.\r\n\r\nTo access this competition: \r\n\r\nRegistered:\r\nLogin to https://suppliers.multiquote.com and view the opportunity CA18723.\r\n\r\nNot registered:\r\nVisit https://suppliers.multiquote.com then register and quote CA18723 as the reason for re",
+   "published": "2026-11-27T13:54:15Z",
+   "deadline": "2026-12-11T12:00:00+00:00",
+   "value": 150000,
+   "region": "Any region",
+   "cpv": [
+    "71220000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/6c832546-c5cf-4069-b13e-d3a8c72ec6c6",
+   "first_seen": "2026-11-27T16:22:31.624865+00:00"
   },
   {
    "id": "FTS-109942-2026",
@@ -1615,6 +1566,25 @@
    "first_seen": "2026-11-19T15:27:46.624341+00:00"
   },
   {
+   "id": "FTS-112445-2026",
+   "source": "Find a Tender",
+   "title": "Pre Vocational and Vocational Training for People with Mental Health Needs",
+   "buyer": "CARIDFF AND VALE UNIVERSITY HEALTH BOARD",
+   "description": "The service will provide a Pre-Vocational and Vocational Mental Health Day Service for people with mental health needs across Cardiff and the Vale of Glamorgan. The service will support recovery, social inclusion and independence through vocational and avocational training, skills development, peer support, wellbeing activities, volunteering opportunities, and pathways into employment, education and community participation. The service will provide a supportive and rehabilitative environment to help individuals develop confidence, practical skills and opportunities for progression.\nThe service",
+   "published": "2026-11-27T10:10:45Z",
+   "deadline": "2027-01-04T12:00:00+00:00",
+   "value": 607500,
+   "region": null,
+   "cpv": [
+    "85312500"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/112445-2026",
+   "first_seen": "2026-11-27T16:22:31.624865+00:00"
+  },
+  {
    "id": "CF-fa4cdab1-5c0e-4686-b247-aa72d034dac7",
    "source": "Contracts Finder",
    "title": "Approved Provider List for Supply of Care Services in Supported Housing",
@@ -1732,6 +1702,46 @@
    "first_seen": "2026-11-19T15:27:46.624341+00:00"
   },
   {
+   "id": "FTS-112721-2026",
+   "source": "Find a Tender",
+   "title": "Water Quality Testing & Monitoring Services",
+   "buyer": "River Clyde Homes",
+   "description": "River Clyde Homes are seeking to employ a suitably experienced and competent company to undertake Water Quality Testing & Monitoring Services to properties under its control.",
+   "published": "2026-11-27T15:36:04Z",
+   "deadline": "2027-01-08T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "45232430",
+    "50514100",
+    "90733000"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/112721-2026",
+   "first_seen": "2026-11-27T16:22:31.624865+00:00"
+  },
+  {
+   "id": "CF-d311c7b6-087f-4e73-86ba-2416fb4cbf86",
+   "source": "Contracts Finder",
+   "title": "TD2431 - For the Provision of a Domestic Abuse Service",
+   "buyer": "DERBY CITY COUNCIL",
+   "description": "Derby City Council is seeking to appoint domestic abuse safe accommodation and support for people experiencing domestic abuse. The Domestic Abuse Safe Accommodation Refuge Service will deliver safe accommodation to people who are fleeing current or recent domestic abuse.\r\n \r\nDerby City Council are seeking to procure a communal refuge with at least 17 adult bed spaces, alongside a minimum of 8 units of self-contained accommodation (increasing to 12 in year 2), of which 5 should be capable of accommodating families (increasing to 8 in year 2). At least one self-contained unit should be adapted t",
+   "published": "2026-11-27T14:48:12Z",
+   "deadline": "2027-01-11T12:00:00+00:00",
+   "value": 2210000,
+   "region": "East Midlands",
+   "cpv": [
+    "85310000"
+   ],
+   "categories": [
+    "Supported Living"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/d311c7b6-087f-4e73-86ba-2416fb4cbf86",
+   "first_seen": "2026-11-27T16:22:31.624865+00:00"
+  },
+  {
    "id": "FTS-110637-2026",
    "source": "Find a Tender",
    "title": "Provision of Homelessness Services in South Lanarkshire",
@@ -1804,6 +1814,48 @@
    "first_seen": "2026-11-24T17:13:33.571686+00:00"
   },
   {
+   "id": "FTS-112583-2026",
+   "source": "Find a Tender",
+   "title": "PS-26-185 - AIP Phase 2 - Construction of Centre of Excellence (PRJ0013527)",
+   "buyer": "East Ayrshire Council",
+   "description": "The Ayrshire Engineering Park (AEP) project will contribute towards meeting current demand for new industrial space within East Ayrshire and Ayrshire, where there is a lack of high quality sites and premises that support the growth ambitions of a number of local Ayrshire companies.\nThe project proposes to deliver high-quality food and drink grade production spaces to businesses within the newly established infrastructure site development plots at the latest expansion of Moorfield Industrial Park in Kilmarnock.\nThe project comprises the construction of Unit B6 (incubator units forming part of t",
+   "published": "2026-11-27T12:58:07Z",
+   "deadline": "2027-01-14T12:00:00+00:00",
+   "value": null,
+   "region": null,
+   "cpv": [
+    "45000000",
+    "45210000",
+    "45213200",
+    "45213250",
+    "45213251"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.find-tender.service.gov.uk/Notice/112583-2026",
+   "first_seen": "2026-11-27T16:22:31.624865+00:00"
+  },
+  {
+   "id": "CF-da4dff76-b800-40aa-bdb4-fef94897cd49",
+   "source": "Contracts Finder",
+   "title": "GB-Colchester: 0488-PA - Natural History Museum Tower Repairs and Re-Roof",
+   "buyer": "Colchester City Council",
+   "description": "NOTE: This notice was updated on 27 November 2026 for the following reason: Details of how to access the tender documents were omitted.  To obtain the tender documents for this opportunity, register or log on to www.delta-esourcing.com and the use the access code: 2QQM95PQ33.(Colchester City Council, acting as Contract Administrator (the Council), wishes to commission a contractor to complete repairs to flint fa&#xE7;ade tower and replacement roof coverings to the Natural History Museum, High Street, Colchester, Essex, CO1 1DN, which is a GRADE II listed building.\r\n      \r\n      Site visits wi",
+   "published": "2026-11-27T11:20:16Z",
+   "deadline": "2027-01-15T12:00:00+00:00",
+   "value": 1000000,
+   "region": "East of England",
+   "cpv": [
+    "45261910 45261900 45210000 92520000 45212350"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/da4dff76-b800-40aa-bdb4-fef94897cd49",
+   "first_seen": "2026-11-27T16:22:31.624865+00:00"
+  },
+  {
    "id": "CF-5ad54ae7-b62b-4578-bfc7-eb90d8ac6a82",
    "source": "Contracts Finder",
    "title": "KMCCD-010 Standing List of Approved Contractors 2022-2027",
@@ -1840,6 +1892,25 @@
    ],
    "url": "https://www.contractsfinder.service.gov.uk/Notice/a829a229-a914-4604-b22e-a1b0c98be1c7",
    "first_seen": "2026-11-17T15:41:41.964401+00:00"
+  },
+  {
+   "id": "CF-767a7046-1385-4b94-be80-8ceb9214447f",
+   "source": "Contracts Finder",
+   "title": "Public Toilet Refurbishment",
+   "buyer": "Winchcombe Town Council",
+   "description": "Tenders are invited for the refurbishment of, public toilets, Back Lane car park, Winchcombe, Gloucestershire, GL54 5PZ.\r\n\r\nA tender specification and application documents can be obtained by contacting:\r\n\r\nThe Clerk, Winchcombe Town Council, Abbey Fields Community Centre, Back Lane, Winchcombe, GL54 5QH.\r\n01242 604087\r\nclerk@winchcombetowncouncil.co.uk\r\n\r\nTenders are to be submitted no later than 12noon on \r\nWednesday 20 January 2027.\r\n\r\nAny hard copy tenders should be in a sealed envelope marked \r\n&#039;Private &amp; Confidential - Tender Enclosed&#039;.",
+   "published": "2026-11-27T12:30:38Z",
+   "deadline": "2027-01-20T12:00:00+00:00",
+   "value": 100000,
+   "region": "",
+   "cpv": [
+    "45262690"
+   ],
+   "categories": [
+    "Construction"
+   ],
+   "url": "https://www.contractsfinder.service.gov.uk/Notice/767a7046-1385-4b94-be80-8ceb9214447f",
+   "first_seen": "2026-11-27T16:22:31.624865+00:00"
   },
   {
    "id": "FTS-110821-2026",
